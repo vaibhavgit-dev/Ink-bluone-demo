@@ -10,7 +10,7 @@ import inkdouble2 from "@/app/assests/image/inkdouble2.svg";
 import BooksCards from "../BooksCards";
 import SliderBook from "@/app/components/SliderBook";
 import amazonimg from "@/app/assests/image/amazon.svg";
-import flipkartimg from "@/app/assests/image/flipkart.svg";
+import flipkartimg from "@/app/assests/image/Flipkart.svg";
 import Loader from "@/app/components/Loader";
 
 const testimonials = [
