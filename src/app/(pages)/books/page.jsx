@@ -55,18 +55,18 @@ export default function Home() {
 
   const filteredBooks = BooksList.filter((book) => {
     const searchCondition =
-      book.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      book.author.toLowerCase().includes(searchQuery.toLowerCase());
-
+      (book.title?.toLowerCase().includes(searchQuery.toLowerCase()) || "") ||
+      (book.author?.toLowerCase().includes(searchQuery.toLowerCase()) || "");
+  
     const genreCondition =
       genreFilter.length === 0 || genreFilter.includes(book.genre);
-
+  
     const languageCondition =
       languageFilter.length === 0 || languageFilter.includes(book.language);
-
+  
     const priceCondition =
       book.price >= priceRange[0] && book.price <= priceRange[1];
-
+  
     return (
       searchCondition && genreCondition && languageCondition && priceCondition
     );
@@ -119,7 +119,7 @@ export default function Home() {
             </button>
 
             {showFilters && (
-              <div className="w-[75%] absolute gap-4 mb-4 z-[111]">
+              <div className="w-[75%] absolute gap-4 mb-4 z-[1111]">
                 <div
                   className="border-[#8A8A8A] p-6 rounded-2xl shadow-xl bg-white hover:shadow-2xl"
                   style={{ padding: "50px" }}
@@ -349,7 +349,7 @@ export default function Home() {
 
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 pt-8 pb-6">
           {currentBooks.map((book) => {
-            const author = getAuthorById(book.authorId); // Fetch author by authorId
+            const author = getAuthorById(book.authorId);
             return (
               <div
                 key={book.id}

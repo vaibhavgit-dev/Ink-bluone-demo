@@ -103,31 +103,34 @@ export default function Home() {
                     <Image src={inksingleicon} width={30} height={30}></Image>
                   </div>
                   <div className="flex flex-col mt-[26px]" key={year}>
-                    <span className="text-center text-[#241B6D] spanfont">{displayYear}</span>
-                    <i className="mt-[4px]">
-                      <h6 className="text-center font-normal ">
-                        {booksByYear[year].length} titles,{" "}
-                        {getLanguagesCount(booksByYear[year])} languages,{" "}
-                        {getAuthorsCount(booksByYear[year])} authors
-                      </h6>
-                    </i>
-                    <div className="flex flex-wrap gap-2 justify-center mt-[30px]">
-                      {booksByYear[year].map((book) => (
-                        <div key={book.id}>
-                          <Link
-                            href={`./books/${book.id}`}
-                            style={{ textDecoration: "none" }}
-                          >
-                            <img
-                              src={Array.isArray(book.book_thumbnail) ? book.book_thumbnail[0] : book.book_thumbnail}
-                              alt={book.title}
-                              className="h-32 w-20 mb-[5px] object-cover"
-                            />
-                          </Link>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
+  <span className="text-center text-[#241B6D] spanfont">{displayYear}</span>
+  <i className="mt-[4px]">
+    <h6 className="text-center font-normal ">
+      {booksByYear[year].length} titles,{" "}
+      {getLanguagesCount(booksByYear[year])} languages,{" "}
+      {getAuthorsCount(booksByYear[year])} authors
+    </h6>
+  </i>
+  <div className="flex flex-wrap gap-2 justify-center mt-[30px]">
+    {booksByYear[year]
+      .slice(0, 45) // Limit the displayed books to 45
+      .map((book) => (
+        <div key={book.id}>
+          <Link
+            href={`./books/${book.id}`}
+            style={{ textDecoration: "none" }}
+          >
+            <img
+              src={Array.isArray(book.book_thumbnail) ? book.book_thumbnail[0] : book.book_thumbnail}
+              alt={book.title}
+              className="h-32 w-20 mb-[5px] object-cover"
+            />
+          </Link>
+        </div>
+      ))}
+  </div>
+</div>
+
                 </>
               );
             })}

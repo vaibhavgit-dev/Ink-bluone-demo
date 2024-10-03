@@ -1,38 +1,38 @@
 export const BooksList = [
     {
-      "id": 1,
+      id: 1,
+      title: "SRI AUROBINDO AND THE LITERARY RENAISSANCE OF INDIA",
       authorId: 1,
-      "title": "Soul",
-      "image": "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
-      "price": 599
+      "image": "https://m.media-amazon.com/images/I/71zbcQJ1nzL._SY522_.jpg",
+      price: 995,
     },
     {
-      "id": 2,
+      id: 2,
+      title: "DESIGN A BUSINESS CASE PB",
       authorId: 2,
-      "title": "Pride and Prejudice",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81l3rZK4lnL.jpg",
-      "price": 499
+      "image": "https://m.media-amazon.com/images/I/61AMcWMWogL._SY522_.jpg",
+      price: 795,
     },
     {
-      "id": 3,
+      id: 3,
+      title: "DESIGN A BUSINESS CASE HB",
       authorId: 3,
-      "title": "1984",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
-      "price": 450
+      "image": "https://m.media-amazon.com/images/I/61AMcWMWogL._SY522_.jpg",
+      price: 995,
     },
     {
-      "id": 4,
+      id: 4,
+      title: "Once Upon A Time In RIMC",
       authorId: 4,
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg",
-      "price": 699
+      "image": "https://pictures.abebooks.com/isbn/9788194954729-us.jpg",
+      price: 250,
     },
     {
-      "id": 5,
+      id: 5,
+      title: "INTEGRAL EDUCATION BEYOND SCHOOLING",
       authorId: 5,
-      "title": "The Hobbit",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
-      "price": 650
+      "image": "https://m.media-amazon.com/images/I/61kRtic4SuL._SY522_.jpg",
+      price: 499,
     },
     {
       "id": 6,
@@ -42,7 +42,7 @@ export const BooksList = [
       "price": 550
     },
     {
-      "id": 1,
+      "id": 7,
       authorId: 7,
       "title": "Moby Dick",
       "image": "https://m.media-amazon.com/images/I/613qgBleukL._AC_UY327_FMwebp_QL65_.jpg",
@@ -77,7 +77,7 @@ export const BooksList = [
       "price": 475
     },
     {
-      "id": 1,
+      "id": 12,
       authorId: 12,
       "title": "The Metamorphosis",
       "image": "https://m.media-amazon.com/images/I/91y4Xf0a7pL._AC_UY327_FMwebp_QL65_.jpg",

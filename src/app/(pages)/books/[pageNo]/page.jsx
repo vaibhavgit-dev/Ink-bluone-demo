@@ -65,8 +65,20 @@ const Page = ({ params }) => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    setTimeout(() => setLoading(false), 500);
+    setTimeout(() => setLoading(false), 2000);
   }, []);
+
+  // about the author info
+  // const [isReadMore, setIsReadMore] = useState(false);
+  // const toggleReadMore = () => {
+  //   setIsReadMore(!isReadMore);
+  // };
+
+  // const authorInfoWords = bookInfo.AuthorInfo.split(' ');
+  // const abouttheauthor =
+  //   isReadMore || authorInfoWords.length <= 50
+  //     ? bookInfo.AuthorInfo
+  //     : `${authorInfoWords.slice(0, 50).join(' ')}...`;
 
   return (
     <>
@@ -93,7 +105,7 @@ const Page = ({ params }) => {
 <style jsx>{`
   .slider-track {
     display: flex;
-    animation: scroll 10s linear infinite;
+    animation: scroll 30s linear infinite;
   }
 
   @keyframes scroll {
@@ -142,11 +154,12 @@ const Page = ({ params }) => {
               </div>
             </div>
 
-            <div className="flex w-[50%] md:gap-1 gap-10 justify-center mx-auto pt-6">
+            <div className="flex w-[50%] md:gap-10 gap-10 justify-center mx-auto pt-6">
               <Link href={`${bookInfo.amazonlink}`} target="_blank">
                 <button className="bg-black rounded-full px-10 py-3 text-[#fff]">
                   <Image
                     src={amazonimg}
+                    width={80} height={80}
                     className="mt-1.5 max-w-full h-auto"
                   ></Image>
                 </button>
@@ -215,12 +228,10 @@ const Page = ({ params }) => {
                     onClick={() => setActiveTab(author)}
                     className="cursor-pointer z-[10]"
                   >
-                    <Image
-                      src={`/authors/${author}.jpg`}
+                    <img
+                      src={bookInfo.Authorimage}
                       alt={author}
-                      width={100}
-                      height={100}
-                      className={`rounded-full border-4 transition duration-200  ${
+                      className={`rounded-full border-4 w-[130px] h-[130px] transition duration-200  ${
                         activeTab === author
                           ? "border-blue-500"
                           : "border-gray-300"
@@ -230,15 +241,20 @@ const Page = ({ params }) => {
                 ))}
               </div>
 
-              <div className="p-8 pt-10 mx-auto w-10/12 md:w-8/12 lg:w-6/12">
-                <div className="relative cursor-pointer z-[10]">
-                  <h3 className="font-bold mb-4">{activeTab}</h3>
-                  <p className="text-gray-700 mb-4 ">{bookInfo.AuthorInfo}</p>
-                  <Link href="#" className="text-blue-500 underline">
-                    Visit the Author Page
-                  </Link>
-                </div>
-              </div>
+              <div className="p-8 pt-10 mx-auto">
+      <div className="relative cursor-pointer z-[10]">
+        <h3 className="font-bold mb-4">{activeTab}</h3>
+        <p className="text-gray-700 mb-4">{bookInfo.AuthorInfo}</p>
+        {/* <p onClick={toggleReadMore} className="text-blue-500 underline">
+          {isReadMore ? 'Read Less' : 'Read More'}
+        </p> */}
+        <div className="w-full">
+        <Link href={`/authors/${bookInfo.id}`} className="text-blue-500 underline">
+          Visit the Author Page
+        </Link>
+        </div>
+      </div>
+    </div>
             </div>
           </div>
         </div>

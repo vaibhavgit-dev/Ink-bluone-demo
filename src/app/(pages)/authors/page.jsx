@@ -8,6 +8,7 @@ import AlphabetFilter from "@/app/components/AlphabetFilter";
 import slugify from 'slugify';
 import Loader from "@/app/components/Loader";
 
+
 export default function Home() {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState(""); // State for search

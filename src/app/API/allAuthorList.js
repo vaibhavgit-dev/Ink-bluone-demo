@@ -1,33 +1,33 @@
 export const AuthorsList = [
   {
     id: 1,
-    author_name: "John Doe",
+    author_name: "Pariksith Singh",
     image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg"
+      "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg"
   },
   {
     id: 2,
-    author_name: "Jane Austen",
+    author_name: "Brigitte Borja de Mozota/Amland",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5Z0emAcgypnoAIiI3n2YODgqrNvzJFI3BA&s"
   },
   {
     id: 3,
-    author_name: "Mark Twain",
+    author_name: "George Orwell",
     image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-  },
+      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    },
   {
     id: 4,
-    author_name: "Leo Tolstoy",
+    author_name: "Brig Jasbir Singh, SM",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Pv10d1_VMwATrIBDDVtVcQw2R-LMxHpamQ&s",
   },
   {
     id: 5,
-    author_name: "Charles Dickens",
+    author_name: "PARTHO",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg",
+      "https://bluone.ink/wp-content/uploads/2023/06/Partho-300x400.jpg",
   },
   {
     id: 6,

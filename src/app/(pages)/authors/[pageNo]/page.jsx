@@ -1,8 +1,8 @@
-"use client";
-
+"use client"
 import { useState, useEffect } from "react";
 import { AuthorsDetail } from "@/app/API/getauthorDetails";
 import { BooksList } from "@/app/API/allBookList";
+import { BooksDetails } from "@/app/API/getbookDetails";
 import AuthorsCards from "../authorsCards";
 import inkdouble1 from "@/app/assests/image/inkdouble1.svg";
 import inkdouble2 from "@/app/assests/image/inkdouble2.svg";
@@ -14,8 +14,10 @@ import Loader from "@/app/components/Loader";
 const Page = ({ params }) => {
   const { pageNo: id } = params;
 
+  // Find the specific author based on ID
   const authorInfo = AuthorsDetail.find((author) => author.id === parseInt(id));
 
+  // Check if the author exists
   if (!authorInfo) {
     return <div>Loading...</div>;
   }
@@ -26,10 +28,9 @@ const Page = ({ params }) => {
   );
 
   const [copied, setCopied] = useState(false);
-  // State to manage the read more/less functionality
   const [isExpanded, setIsExpanded] = useState(false);
 
-  // Function to copy link to clipboard
+  // Function to copy the link to the clipboard
   const copyLink = () => {
     navigator.clipboard.writeText(window.location.href).then(() => {
       setCopied(true);
@@ -37,7 +38,7 @@ const Page = ({ params }) => {
     });
   };
 
-  // Split the description into two parts
+  // Short and full description logic
   const descriptionWords = authorInfo.authorDescription.split(" ");
   const shortDescription =
     descriptionWords.slice(0, 100).join(" ") +
@@ -53,7 +54,7 @@ const Page = ({ params }) => {
   return (
     <>
     {loading ? (
-    <Loader /> 
+    <Loader />
   ) : (
     <main className="wrapper pt-20 pb-10">
       {/* Page Container */}
@@ -138,21 +139,27 @@ const Page = ({ params }) => {
             <Image src={inkdouble2} width={55} height={55} alt="inkdouble2" />
           </div>
           <div className="wrapper mt-12 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-            {authorBooks.map((book, i) => (
-              <div key={i}>
-                <a
-                  href={`/books/${book.id}`}
-                  style={{ textDecoration: "none" }}
-                >
-                  <BooksCards
-                    title={book.title}
-                    coverImage={book.image}
-                    bookPrice={book.price}
-                    authorName={book.author}
-                  />
-                </a>
-              </div>
-            ))}
+            {authorBooks.map((book, i) => {
+              const bookAuthorName = AuthorsDetail.find(
+                (author) => author.id === book.authorId
+              )?.authorName || "Unknown Author";
+
+              return (
+                <div key={i}>
+                  <a
+                    href={`/books/${book.id}`}
+                    style={{ textDecoration: "none" }}
+                  >
+                    <BooksCards
+                      title={book.title}
+                      coverImage={book.image}
+                      bookPrice={book.price}
+                      authorName={bookAuthorName}
+                    />
+                  </a>
+                </div>
+              );
+            })}
           </div>
         </div>
       </div>
