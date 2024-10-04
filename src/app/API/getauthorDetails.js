@@ -3,6 +3,7 @@ import { AuthorsList } from './allAuthorList';
 export const AuthorsDetail = [
   {
     id: 1,
+    slug: "pariksith-singh",
     authorName: AuthorsList.find(author => author.id === 1)?.author_name, 
     authorImage: AuthorsList.find(author => author.id === 1)?.image,
     authorDescription:

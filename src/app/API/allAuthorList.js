@@ -1,6 +1,7 @@
 export const AuthorsList = [
   {
     id: 1,
+    slug: "pariksith-singh",
     author_name: "Pariksith Singh",
     image:
       "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg"

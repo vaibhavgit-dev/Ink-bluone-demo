@@ -36,8 +36,8 @@ function NavBar() {
         <li className={`hover:text-[#FFDE7C] ${isActive('/comingsoonblogs')} `}>
           <Link href="/comingsoon"><i className="ifont">Blogs</i ></Link>
         </li>
-        <li className={`hover:text-[#FFDE7C] ${isActive('/comingsooncontact')} `}>
-          <Link href="/comingsoon"><i className="ifont">Contact</i ></Link>
+        <li className={`hover:text-[#FFDE7C] ${isActive('/contact')} `}>
+          <Link href="/contact"><i className="ifont">Contact</i ></Link>
         </li>
       </ul>
       <button

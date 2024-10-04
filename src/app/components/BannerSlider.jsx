@@ -3,6 +3,7 @@
 import { useEffect } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import bannerbg from "@/app/assests/image/banner-bg.png"
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -33,8 +34,9 @@ const BannerSlider = () => {
     <div className="home_slider w-full overflow-hidden">
       <div className="w-[85%] flex flex-col justify-center mx-auto">
       {/* Pinned Sections */}
-      <div className="pin h-full bg-[#FFF9ED] rounded-lg shadow-lg border-2 flex items-center">
-        <div className="section-1-design item bg-[#FFF9ED]">
+      <div className="pin h-full bg-[#FFF9ED] rounded-lg shadow-lg border-2 ">
+      <div className="flex items-center h-full banner-bg z-111">
+        <div className="section-1-design item">
           <div className="w-full bg-[#FFF9ED]">
             <h3 className="text-sm lg:text-2xl">
               Books have the power to{" "}
@@ -46,13 +48,14 @@ const BannerSlider = () => {
           </div>
           <div className="w-full">
             <i>
-              <p className=" ">
+              <p className="">
                 How do we invoke, experience, share and celebrate this power?
               </p>
             </i>
           </div>
         </div>
       </div>
+    </div>
       <div className="pin h-full bg-[#FFF9ED] rounded-lg shadow-lg border-2 flex items-center">
         <div className="section-2-design item">
           <div className="w-full lg:w-[70%] mx-auto">

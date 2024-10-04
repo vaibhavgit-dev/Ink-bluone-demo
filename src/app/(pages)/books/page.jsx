@@ -356,7 +356,7 @@ export default function Home() {
                 className="hover:shadow-xl transition duration-300 border-2"
               >
                 <Link
-                  href={`./books/${book.id}`}
+                  href={`./books/${book.slug}`}
                   style={{ textDecoration: "none" }}
                 >
                   <BooksCards

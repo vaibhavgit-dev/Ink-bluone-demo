@@ -29,8 +29,8 @@ const testimonials = [
 ];
 
 const Page = ({ params }) => {
-  const { pageNo: id } = params;
-  const bookInfo = BooksDetails.find((book) => book.id === parseInt(id));
+  const { slug } = params; // Change from pageNo to slug
+  const bookInfo = BooksDetails.find((book) => book.slug === slug); // Find book by slug
 
   if (!bookInfo) {
     return <div>Loading...</div>;
@@ -46,7 +46,7 @@ const Page = ({ params }) => {
       : [book.author];
     return (
       bookAuthorsArray.join(", ") === authorsArray.join(", ") &&
-      book.id !== bookInfo.id
+      book.slug !== bookInfo.slug // Change id to slug
     );
   });
 
@@ -61,25 +61,13 @@ const Page = ({ params }) => {
 
   // Authors details
   const [activeTab, setActiveTab] = useState(authorsArray[0]);
-
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     setTimeout(() => setLoading(false), 500);
   }, []);
 
-  // about the author info
-  // const [isReadMore, setIsReadMore] = useState(false);
-  // const toggleReadMore = () => {
-  //   setIsReadMore(!isReadMore);
-  // };
-
-  // const authorInfoWords = bookInfo.AuthorInfo.split(' ');
-  // const abouttheauthor =
-  //   isReadMore || authorInfoWords.length <= 50
-  //     ? bookInfo.AuthorInfo
-  //     : `${authorInfoWords.slice(0, 50).join(' ')}...`;
-
+  
   return (
     <>
     {loading ? (
