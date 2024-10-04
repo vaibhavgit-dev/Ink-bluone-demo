@@ -22,7 +22,7 @@ export const BooksDetails = [
     meta_title: "",
     book_image: "https://m.media-amazon.com/images/I/71zbcQJ1nzL._SY522_.jpg",
     book_thumbnail: [
-      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://m.media-amazon.com/images/I/71zbcQJ1nzL._SY522_.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
       "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
       "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
@@ -62,7 +62,7 @@ export const BooksDetails = [
     meta_descreption: "Unlock innovation through the integration of Design Thinking, Management, and essential skills.",
     meta_title: "",
     book_thumbnail: [
-      "https://m.media-amazon.com/images/I/71zbcQJ1nzL._SY522_.jpg",
+      "https://m.media-amazon.com/images/I/61AMcWMWogL._SY522_.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
       "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
       "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",

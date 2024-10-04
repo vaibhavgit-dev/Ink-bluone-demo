@@ -122,7 +122,7 @@ export default function Home() {
                             {booksByYear[year].map((book) => (
                               <div key={book.id}>
                                 <Link
-                                  href={`./books/${book.id}`}
+                                  href={`./books/${book.slug}`}
                                   style={{ textDecoration: "none" }}
                                 >
                                   <img
