@@ -1,5 +1,5 @@
 export const masterData = [
-{
+  {
     id: 1,
     title: "SRI AUROBINDO AND THE LITERARY RENAISSANCE OF INDIA",
     publish_year: 2021,
@@ -7,17 +7,22 @@ export const masterData = [
     price: 995,
     isbn10: "",
     isbn13: "9788194954781",
-    amazonlink: "https://www.amazon.in/SRI-AUROBINDO-LITERARY-RENAISSANCE-INDIA/dp/8194954789",
-    flipkartlink: "https://www.flipkart.com/sri-aurobindo-literary-renaissance-india/p/itm77ed51296cc47?pid=",
+    amazonlink:
+      "https://www.amazon.in/SRI-AUROBINDO-LITERARY-RENAISSANCE-INDIA/dp/8194954789",
+    flipkartlink:
+      "https://www.flipkart.com/sri-aurobindo-literary-renaissance-india/p/itm77ed51296cc47?pid=",
     binding: "HB",
     language: "English",
     dimension: "22 x 14.5 x 3.3 cm",
     pages: "411",
-    AuthorInfo:"Pariksith Singh, MD, is a practicing physician of 30 years. Board Certified in Internal Medicine, he believes unsettling changes in the healthcare industry can also be transformative. “For me it is a time for remarkable opportunity, growth, and innovation,” he says. “I can look back at what I have accomplished, but also look forward in eager anticipation at what is possible.” Dr. Singh watched his organization, Access Health Care Physicians, LLC, grow from a simple, multi-service provider in 2001 to one that has multiplied in size and is now respected throughout the state of Florida. In addition to heading up this leading IPA, he has started a healthcare HMO, an ACO, and created one of the best healthcare corporate infrastructures in the business. Dr. Singh also finds time to be a published poet, philosopher and author. His medical contributions include The Florida Guide to Prescription, Controlled Substance and Pain Medicine Laws (coauthored by Rachel Barlow, Alan Gassman, and Lester Perling), The Essential Planning Guide to 2013 Income & Estate Taxes, and Excerpts From Creditor Protection From Florida Physicians, a Comprehensive Handbook for Physicians and Their Advisors. Add to this the fictional works of Dr. Singh - The Shoreless River, Chutti Ke Din, and his favorite, Riddles for Pesky Teenagers. This is Dr. Singh’s fifth edition of A Primer in Health Care. In addition to publishing books on cutting- edge topics of interest to physicians and administrators, his organization is now a learning organization involving Graduate Medical Education residents.",
-    about_book:"This book delves deep into the works of Sri Aurobindo to present a compelling and fascinating collage of his multifaceted and multidimensional genius, who is not only one of the greatest political leaders of modern times but a supreme visionary, thinker par excellence, great scholar and writer, spiritual guide and statesman, and a leader of all humanity. The author presents perspectives on his vast oeuvre as a darshanik and shares his exalted dream and aspiration for India and humanity, his horizonless ranges that are their own skylines, his lights, and his snow-capped peaks. It gives a glimpse into Sri Aurobindo’s pragmatic integral philosophy that is unique in being Vedantic in essence yet modern in expression and outlook.",
+    AuthorInfo:
+      "Pariksith Singh, MD, is a practicing physician of 30 years. Board Certified in Internal Medicine, he believes unsettling changes in the healthcare industry can also be transformative. “For me it is a time for remarkable opportunity, growth, and innovation,” he says. “I can look back at what I have accomplished, but also look forward in eager anticipation at what is possible.” Dr. Singh watched his organization, Access Health Care Physicians, LLC, grow from a simple, multi-service provider in 2001 to one that has multiplied in size and is now respected throughout the state of Florida. In addition to heading up this leading IPA, he has started a healthcare HMO, an ACO, and created one of the best healthcare corporate infrastructures in the business. Dr. Singh also finds time to be a published poet, philosopher and author. His medical contributions include The Florida Guide to Prescription, Controlled Substance and Pain Medicine Laws (coauthored by Rachel Barlow, Alan Gassman, and Lester Perling), The Essential Planning Guide to 2013 Income & Estate Taxes, and Excerpts From Creditor Protection From Florida Physicians, a Comprehensive Handbook for Physicians and Their Advisors. Add to this the fictional works of Dr. Singh - The Shoreless River, Chutti Ke Din, and his favorite, Riddles for Pesky Teenagers. This is Dr. Singh’s fifth edition of A Primer in Health Care. In addition to publishing books on cutting- edge topics of interest to physicians and administrators, his organization is now a learning organization involving Graduate Medical Education residents.",
+    about_book:
+      "This book delves deep into the works of Sri Aurobindo to present a compelling and fascinating collage of his multifaceted and multidimensional genius, who is not only one of the greatest political leaders of modern times but a supreme visionary, thinker par excellence, great scholar and writer, spiritual guide and statesman, and a leader of all humanity. The author presents perspectives on his vast oeuvre as a darshanik and shares his exalted dream and aspiration for India and humanity, his horizonless ranges that are their own skylines, his lights, and his snow-capped peaks. It gives a glimpse into Sri Aurobindo’s pragmatic integral philosophy that is unique in being Vedantic in essence yet modern in expression and outlook.",
     category: "Non-Fiction",
     tags: "'Biography, Autobiography, & True Accounts', Society & Social Sciences",
-    meta_descreption: "A deep dive into Sri Aurobindo's visionary spiritual and political genius, exploring his profound impact on India and beyond.",
+    meta_descreption:
+      "A deep dive into Sri Aurobindo's visionary spiritual and political genius, exploring his profound impact on India and beyond.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -34,8 +39,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 2,
@@ -45,17 +51,21 @@ export const masterData = [
     price: 795,
     isbn10: "",
     isbn13: "9788194954743",
-    amazonlink: "https://www.amazon.in/DESIGN-BUSINESS-Brigitte-Borja-Mozota/dp/8194954746/ref=sr_1_3?crid",
+    amazonlink:
+      "https://www.amazon.in/DESIGN-BUSINESS-Brigitte-Borja-Mozota/dp/8194954746/ref=sr_1_3?crid",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "23 x 15.5 x 1 cm",
     pages: "173",
-    AuthorInfo:"Brigitte Borja de Mozota is one of the world's most prominent scholars in design management and author of the reference book Design Management - Using Design to Build Brand Value and Corporate Innovation. Currently, a consultant as well as professor and supervisor of MBA 'managing by design' theses, she concentrates on mission-driven projects and to develop tools to help understanding the value of the design industry and design-driven innovation, as well as on leadership challenges in economics.",
-    about_book:"How to stimulate innovation in your organization as a constantly ongoing process? How to bridge the complementary skills that exist in your organization? What leads to an integration of mind, matter, image and identity? Design: A Business Case can lead you to the answers of all of this and more. It combines the intellectual frameworks of Design Thinking, the operational and implementing mechanisms of Design Management as well as the skills of Design that embody these two. Design Thinking inspires, Design Management enables, Design embodies. This book aims to reconcile the three and encourage organizational and professional environments in which their combined forces can thrive and succeed.",
+    AuthorInfo:
+      "Brigitte Borja de Mozota is one of the world's most prominent scholars in design management and author of the reference book Design Management - Using Design to Build Brand Value and Corporate Innovation. Currently, a consultant as well as professor and supervisor of MBA 'managing by design' theses, she concentrates on mission-driven projects and to develop tools to help understanding the value of the design industry and design-driven innovation, as well as on leadership challenges in economics.",
+    about_book:
+      "How to stimulate innovation in your organization as a constantly ongoing process? How to bridge the complementary skills that exist in your organization? What leads to an integration of mind, matter, image and identity? Design: A Business Case can lead you to the answers of all of this and more. It combines the intellectual frameworks of Design Thinking, the operational and implementing mechanisms of Design Management as well as the skills of Design that embody these two. Design Thinking inspires, Design Management enables, Design embodies. This book aims to reconcile the three and encourage organizational and professional environments in which their combined forces can thrive and succeed.",
     category: "Non-Fiction",
     tags: "Economics, Finance, Business & Management",
-    meta_descreption: "Unlock innovation through the integration of Design Thinking, Management, and essential skills.",
+    meta_descreption:
+      "Unlock innovation through the integration of Design Thinking, Management, and essential skills.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -72,8 +82,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 3,
@@ -89,11 +100,14 @@ export const masterData = [
     language: "English",
     dimension: "23.6 x 15.9 x 1.4 cm",
     pages: "173",
-    AuthorInfo:"Brigitte Borja de Mozota is one of the world's most prominent scholars in design management and author of the reference book Design Management - Using Design to Build Brand Value and Corporate Innovation. Currently, a consultant as well as professor and supervisor of MBA 'managing by design' theses, she concentrates on mission-driven projects and to develop tools to help understanding the value of the design industry and design-driven innovation, as well as on leadership challenges in economics.",
-    about_book:"How to stimulate innovation in your organization as a constantly ongoing process? How to bridge the complementary skills that exist in your organization? What leads to an integration of mind, matter, image and identity? Design: A Business Case can lead you to the answers of all of this and more. It combines the intellectual frameworks of Design Thinking, the operational and implementing mechanisms of Design Management as well as the skills of Design that embody these two. Design Thinking inspires, Design Management enables, Design embodies. This book aims to reconcile the three and encourage organizational and professional environments in which their combined forces can thrive and succeed.",
+    AuthorInfo:
+      "Brigitte Borja de Mozota is one of the world's most prominent scholars in design management and author of the reference book Design Management - Using Design to Build Brand Value and Corporate Innovation. Currently, a consultant as well as professor and supervisor of MBA 'managing by design' theses, she concentrates on mission-driven projects and to develop tools to help understanding the value of the design industry and design-driven innovation, as well as on leadership challenges in economics.",
+    about_book:
+      "How to stimulate innovation in your organization as a constantly ongoing process? How to bridge the complementary skills that exist in your organization? What leads to an integration of mind, matter, image and identity? Design: A Business Case can lead you to the answers of all of this and more. It combines the intellectual frameworks of Design Thinking, the operational and implementing mechanisms of Design Management as well as the skills of Design that embody these two. Design Thinking inspires, Design Management enables, Design embodies. This book aims to reconcile the three and encourage organizational and professional environments in which their combined forces can thrive and succeed.",
     category: "Non-Fiction",
     tags: "Economics, Finance, Business & Management",
-    meta_descreption: "Unlock innovation through the integration of Design Thinking, Management, and essential skills.",
+    meta_descreption:
+      "Unlock innovation through the integration of Design Thinking, Management, and essential skills.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -110,8 +124,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 4,
@@ -121,17 +136,22 @@ export const masterData = [
     price: 250,
     isbn10: "",
     isbn13: "9788194954729",
-    amazonlink: "https://www.amazon.in/Once-Upon-Time-RIMC-Thrilling/dp/819495472X/ref=sr_1_1?crid=",
-    flipkartlink: "https://www.flipkart.com/once-upon-time-rimc/p/itm0e70d459975dd?pid=",
+    amazonlink:
+      "https://www.amazon.in/Once-Upon-Time-RIMC-Thrilling/dp/819495472X/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/once-upon-time-rimc/p/itm0e70d459975dd?pid=",
     binding: "PB",
     language: "English",
     dimension: "21.6 x 13.5 x 0.7 cm",
     pages: "103",
-    AuthorInfo:"A Rimcollian who studied at RIMC from 1962 to 1966, Brigadier Jasbir underwent training at NDA Khadakwasla followed by IMA Dehradun, where he was commissioned in the 4th Battalion, The Kumaon Regiment. He was wounded during operations behind enemy lines in East Pakistan in the 1971 war and decorated twice for gallantry during operations. After serving for 34 years in the Army, he now leads a retired life in the hills of Ranikhet and spends his time painting and writing on military subjects.",
-    about_book:"Boys of RIMC never really grow up, and happily, the spirit of adventure and mischief lives on, even after many winters have passed. For nearly a century, Rimcollians have done the three Services proud, and the civvy street too. Known for their camaraderie and spirit of never accepting defeat or yielding to any adversary, whether in the battlefield or the playground. Brig Jasbir’s humorous book brings alive how mischievous teenagers are forged into soldiers. He presents a thrilling account of happy days spent by him at the RIMC, Dehradun, from 1962 to 1966.",
+    AuthorInfo:
+      "A Rimcollian who studied at RIMC from 1962 to 1966, Brigadier Jasbir underwent training at NDA Khadakwasla followed by IMA Dehradun, where he was commissioned in the 4th Battalion, The Kumaon Regiment. He was wounded during operations behind enemy lines in East Pakistan in the 1971 war and decorated twice for gallantry during operations. After serving for 34 years in the Army, he now leads a retired life in the hills of Ranikhet and spends his time painting and writing on military subjects.",
+    about_book:
+      "Boys of RIMC never really grow up, and happily, the spirit of adventure and mischief lives on, even after many winters have passed. For nearly a century, Rimcollians have done the three Services proud, and the civvy street too. Known for their camaraderie and spirit of never accepting defeat or yielding to any adversary, whether in the battlefield or the playground. Brig Jasbir’s humorous book brings alive how mischievous teenagers are forged into soldiers. He presents a thrilling account of happy days spent by him at the RIMC, Dehradun, from 1962 to 1966.",
     category: "Non-Fiction",
     tags: "'Biography, Autobiography, & True Accounts', Military",
-    meta_descreption: "Brig Jasbir's humorous memoir captures RIMC life, turning mischievous boys into disciplined soldiers.",
+    meta_descreption:
+      "Brig Jasbir's humorous memoir captures RIMC life, turning mischievous boys into disciplined soldiers.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -148,8 +168,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 5,
@@ -159,17 +180,21 @@ export const masterData = [
     price: 499,
     isbn10: "",
     isbn13: "9788194954705",
-    amazonlink: "https://www.amazon.in/INTEGRAL-EDUCATION-BEYOND-SCHOOLING-PARTHO/dp/B0C8CWQLCN/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/INTEGRAL-EDUCATION-BEYOND-SCHOOLING-PARTHO/dp/B0C8CWQLCN/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "21.5 x 14 x 2.3 cm",
     pages: "331",
-    AuthorInfo:"Writer and educator, Partho has spent more than thirty years in integral education and has done intensive personal research in transformative learning processes. Partho is one of the leading alternative educationists in the country and is associated as a mentor and consultant with many education initiatives in India. He conducts educational and spiritual retreats in India, Europe, and the United States.",
-    about_book:"Integral Education - Beyond Schooling explores a new paradigm of education, taking learning and teaching beyond conventional schooling, towards what may be called evolutionary education and the growth of consciousness. The book is premised on the idea that we humans are still evolving in consciousness and have reached an evolutionary tipping point where we need a radically new way of learning and growing, a radically new way of perceiving, understanding and organising our world and living our day to day lives in it, more in harmony, oneness and peace. This is a book that must be read by all who are interested and involved in the human future, immediate and long term.",
+    AuthorInfo:
+      "Writer and educator, Partho has spent more than thirty years in integral education and has done intensive personal research in transformative learning processes. Partho is one of the leading alternative educationists in the country and is associated as a mentor and consultant with many education initiatives in India. He conducts educational and spiritual retreats in India, Europe, and the United States.",
+    about_book:
+      "Integral Education - Beyond Schooling explores a new paradigm of education, taking learning and teaching beyond conventional schooling, towards what may be called evolutionary education and the growth of consciousness. The book is premised on the idea that we humans are still evolving in consciousness and have reached an evolutionary tipping point where we need a radically new way of learning and growing, a radically new way of perceiving, understanding and organising our world and living our day to day lives in it, more in harmony, oneness and peace. This is a book that must be read by all who are interested and involved in the human future, immediate and long term.",
     category: "Non-Fiction",
     tags: "Self-Help & Development , Society & Social Sciences",
-    meta_descreption: "Discover Integral Education: a transformative approach to foster evolving consciousness.",
+    meta_descreption:
+      "Discover Integral Education: a transformative approach to foster evolving consciousness.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -186,8 +211,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 6,
@@ -197,17 +223,21 @@ export const masterData = [
     price: 699,
     isbn10: "",
     isbn13: "9788194954750",
-    amazonlink: "https://www.amazon.in/FIGHTING-FOURTH-Brig-Jasbir-Singh/dp/8194954754/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/FIGHTING-FOURTH-Brig-Jasbir-Singh/dp/8194954754/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "HB",
     language: "English",
     dimension: "23.5 x 15.8 x 2.1 cm",
     pages: "204",
-    AuthorInfo:"A Rimcollian who studied at RIMC from 1962 to 1966, Brigadier Jasbir underwent training at NDA Khadakwasla followed by IMA Dehradun, where he was commissioned in the 4th Battalion, The Kumaon Regiment. He was wounded during operations behind enemy lines in East Pakistan in the 1971 war and decorated twice for gallantry during operations. After serving for 34 years in the Army, he now leads a retired life in the hills of Ranikhet and spends his time painting and writing on military subjects.",
-    about_book:"You know, Jasbir, I think we are the only father-son duo in the unit’s history to have been both decorated for gallantry! Also, there is so much of the unit’s history that needs to be properly probed and recorded. It is your time now, and you must do it.” ‘Fighting Fourth’ or 4th Battalion, The Kumaon Regiment (4 Kumaon), raised in 1788, has fought with distinction and etched its name in the annals of Indian military history with honour and pride. From ﬁghting the Pindaris to quelling the Boxer Rebellion in Hong Kong, the battalion saw extensive action in both the World Wars and the Indo-Pak war of 1947–48, where the gallant actions of the unit saved Kashmir Valley for the Indian Union and changed the course of history in the region. Major Somnath Sharma was posthumously awarded India’s ﬁrst Param Vir Chakra, the highest award for gallantry, while Brigadier Pritam Singh emerged as the Saviour of Poonch. The unit was awarded Battle Honour ‘Srinagar’ and 57 awards for bravery, including one Param Vir Chakra, three Maha Vir Chakras, 13 Vir Chakras, one Bar to Vir Chakra and other awards. In the Indo–Pak War 1965, the battalion was awarded Battle Honour ‘Sanjoi–Mirpur’, while in the 1971 operations, it was awarded Battle Honour ‘Shamshernagar’, along with three Vir Ckakras, one SM and other awards. In this book, Brigadier Jasbir presents an intimate, personal account of the glorious history of this ﬁne battalion that has contributed no less than two Chiefs of Staff of the Indian Army and is among the most highly-decorated ones. Brigadier Jasbir Singh, SM, is a Rimcollian who studied at RIMC from 1962 to 1966. Thereafter, he underwent training at NDA Khadakwasla, followed by IMA Dehradun, where he was commissioned in the 4th Battalion, The Kumaon Regiment, or 4 Kumaon (Fighting Fourth). He was wounded during operations behind enemy lines in East Pakistan in the 1971 war and decorated twice for gallantry during operations.",
+    AuthorInfo:
+      "A Rimcollian who studied at RIMC from 1962 to 1966, Brigadier Jasbir underwent training at NDA Khadakwasla followed by IMA Dehradun, where he was commissioned in the 4th Battalion, The Kumaon Regiment. He was wounded during operations behind enemy lines in East Pakistan in the 1971 war and decorated twice for gallantry during operations. After serving for 34 years in the Army, he now leads a retired life in the hills of Ranikhet and spends his time painting and writing on military subjects.",
+    about_book:
+      "You know, Jasbir, I think we are the only father-son duo in the unit’s history to have been both decorated for gallantry! Also, there is so much of the unit’s history that needs to be properly probed and recorded. It is your time now, and you must do it.” ‘Fighting Fourth’ or 4th Battalion, The Kumaon Regiment (4 Kumaon), raised in 1788, has fought with distinction and etched its name in the annals of Indian military history with honour and pride. From ﬁghting the Pindaris to quelling the Boxer Rebellion in Hong Kong, the battalion saw extensive action in both the World Wars and the Indo-Pak war of 1947–48, where the gallant actions of the unit saved Kashmir Valley for the Indian Union and changed the course of history in the region. Major Somnath Sharma was posthumously awarded India’s ﬁrst Param Vir Chakra, the highest award for gallantry, while Brigadier Pritam Singh emerged as the Saviour of Poonch. The unit was awarded Battle Honour ‘Srinagar’ and 57 awards for bravery, including one Param Vir Chakra, three Maha Vir Chakras, 13 Vir Chakras, one Bar to Vir Chakra and other awards. In the Indo–Pak War 1965, the battalion was awarded Battle Honour ‘Sanjoi–Mirpur’, while in the 1971 operations, it was awarded Battle Honour ‘Shamshernagar’, along with three Vir Ckakras, one SM and other awards. In this book, Brigadier Jasbir presents an intimate, personal account of the glorious history of this ﬁne battalion that has contributed no less than two Chiefs of Staff of the Indian Army and is among the most highly-decorated ones. Brigadier Jasbir Singh, SM, is a Rimcollian who studied at RIMC from 1962 to 1966. Thereafter, he underwent training at NDA Khadakwasla, followed by IMA Dehradun, where he was commissioned in the 4th Battalion, The Kumaon Regiment, or 4 Kumaon (Fighting Fourth). He was wounded during operations behind enemy lines in East Pakistan in the 1971 war and decorated twice for gallantry during operations.",
     category: "Non-Fiction",
     tags: "Military & Defence, 'Biography, Autobiography, & True Accounts'",
-    meta_descreption: "A tribute to the illustrious history of the 4 Kumaon Regiment and the gallant heroes who have served with honor and valor.",
+    meta_descreption:
+      "A tribute to the illustrious history of the 4 Kumaon Regiment and the gallant heroes who have served with honor and valor.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -224,8 +254,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 7,
@@ -236,16 +267,20 @@ export const masterData = [
     isbn10: "",
     isbn13: "9789392209123",
     amazonlink: "",
-    flipkartlink: "https://www.flipkart.com/war-despatches-1971/p/itm762ed141f0f7d?pid=9789392209123&lid=",
+    flipkartlink:
+      "https://www.flipkart.com/war-despatches-1971/p/itm762ed141f0f7d?pid=9789392209123&lid=",
     binding: "HB",
     language: "English",
     dimension: "23.5 x 15.6 x 3.4 cm",
     pages: "368",
-    AuthorInfo:"Brigadier B.S. Mehta comes from an illustrious military family, with four brothers having fought in the War of 1971. Commissioned into 45 CAVALRY in 1966, he later raised the 13 Armoured Regiment. He has served in all the Strike Corps and also an Infantry and Mountain Division with distinction. He has worked on deputation with the Cabinet Secretariat. He took premature retirement in 1998 to serve as Director with the Government of Gujarat. He ran the first course for retiring defence personnel at the Entrepreneurship Development Institute, Ahmedabad in 2000, which became the forerunner for similar courses run by Indian Institutes of Management. He spent the next 16 years in Higher Education to finally demit as Vice Chancellor of Maharishi University of Management and Technology in 2016. Post retirement, he works as an advisor to Gujarat-based NGOs helping families and dependents of martyrs.",
-    about_book:"An anthology of important judgments across jurisdictions, this book is a unique work. An international release, it contains short essays & commentaries by jurists, judges & academics from around the world on milestone decisions that changed the course of military law in different jurisdictions. The contents are articulated in simple non-technical language easy to assimilate for a layperson. The book should appeal to the general reader and those interested in the military, law, politics, public policy & human rights.",
+    AuthorInfo:
+      "Brigadier B.S. Mehta comes from an illustrious military family, with four brothers having fought in the War of 1971. Commissioned into 45 CAVALRY in 1966, he later raised the 13 Armoured Regiment. He has served in all the Strike Corps and also an Infantry and Mountain Division with distinction. He has worked on deputation with the Cabinet Secretariat. He took premature retirement in 1998 to serve as Director with the Government of Gujarat. He ran the first course for retiring defence personnel at the Entrepreneurship Development Institute, Ahmedabad in 2000, which became the forerunner for similar courses run by Indian Institutes of Management. He spent the next 16 years in Higher Education to finally demit as Vice Chancellor of Maharishi University of Management and Technology in 2016. Post retirement, he works as an advisor to Gujarat-based NGOs helping families and dependents of martyrs.",
+    about_book:
+      "An anthology of important judgments across jurisdictions, this book is a unique work. An international release, it contains short essays & commentaries by jurists, judges & academics from around the world on milestone decisions that changed the course of military law in different jurisdictions. The contents are articulated in simple non-technical language easy to assimilate for a layperson. The book should appeal to the general reader and those interested in the military, law, politics, public policy & human rights.",
     category: "Non-Fiction",
     tags: "Military & Defence, 'Biography, Autobiography, & True Accounts'",
-    meta_descreption: "Insightful exploration of landmark military law judgments from experts worldwide, shedding light on global legal precedents.",
+    meta_descreption:
+      "Insightful exploration of landmark military law judgments from experts worldwide, shedding light on global legal precedents.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -262,8 +297,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 8,
@@ -273,17 +309,21 @@ export const masterData = [
     price: 1195,
     isbn10: "",
     isbn13: "978-9392209420",
-    amazonlink: "https://www.amazon.in/Seeing-Hands-Jinan-K-B/dp/9392209428/ref=sr_1_1?crid",
+    amazonlink:
+      "https://www.amazon.in/Seeing-Hands-Jinan-K-B/dp/9392209428/ref=sr_1_1?crid",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "23.5 x 16 x 3 cm",
     pages: "280",
-    AuthorInfo:"Jinan believes, the cognitive right as the most fundamental right which modernity—society and school—brutally takes away right from childhood. He considers himself to be someone who was able to recover from the damage of schooling and modernity when he got an opportunity to be with indigenous people. His experience with the illiterate artisans helped him to understand the process of creation of life-sustaining knowledge, its holistic nature and also how children learn autonomously. He is engaged in an ongoing research on the true nature of learning—why, what and how. He has been working on natural learning, children and cognitive damages inflicted by Modernity and Modern Schooling for almost three decades now. Currently, Jinan is involved in enabling people to explore and experientially recover their natural cognitive system damaged by schooling. He aims to sensitize adults to provide a truly conducive environment for their children. He has co-founded Existential Knowledge Foundation, Thanima, Being Academy, and Initiating Inquiry.",
-    about_book:"Seeing with Hands is a result of a unique experiment and extensive research by the author, Jinan K.B., and his foundation. It is a record of how children express their experiences through drawing (not art) and how drawing becomes a tool that helps them observe the world around them. Showcasing brilliant drawings made by children to express themselves, the book attempts to prove that they are naturally equipped to adapt and learn autonomously. This book is bound to prompt a new way of thinking on educating children, helping them develop their cognitive tools and provide insights to all those who are concerned with children, be it parents, teachers or caretakers.",
+    AuthorInfo:
+      "Jinan believes, the cognitive right as the most fundamental right which modernity—society and school—brutally takes away right from childhood. He considers himself to be someone who was able to recover from the damage of schooling and modernity when he got an opportunity to be with indigenous people. His experience with the illiterate artisans helped him to understand the process of creation of life-sustaining knowledge, its holistic nature and also how children learn autonomously. He is engaged in an ongoing research on the true nature of learning—why, what and how. He has been working on natural learning, children and cognitive damages inflicted by Modernity and Modern Schooling for almost three decades now. Currently, Jinan is involved in enabling people to explore and experientially recover their natural cognitive system damaged by schooling. He aims to sensitize adults to provide a truly conducive environment for their children. He has co-founded Existential Knowledge Foundation, Thanima, Being Academy, and Initiating Inquiry.",
+    about_book:
+      "Seeing with Hands is a result of a unique experiment and extensive research by the author, Jinan K.B., and his foundation. It is a record of how children express their experiences through drawing (not art) and how drawing becomes a tool that helps them observe the world around them. Showcasing brilliant drawings made by children to express themselves, the book attempts to prove that they are naturally equipped to adapt and learn autonomously. This book is bound to prompt a new way of thinking on educating children, helping them develop their cognitive tools and provide insights to all those who are concerned with children, be it parents, teachers or caretakers.",
     category: "Non-Fiction",
     tags: "Self-Help & Development",
-    meta_descreption: "A study of children's innate learning abilities through the mediums of drawing and self-expression, highlighting their creativity",
+    meta_descreption:
+      "A study of children's innate learning abilities through the mediums of drawing and self-expression, highlighting their creativity",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -300,8 +340,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 9,
@@ -311,17 +352,20 @@ export const masterData = [
     price: 995,
     isbn10: "",
     isbn13: "9788194954712",
-    amazonlink: "https://www.amazon.in/March-Justice-Navdeep-Singh/dp/B0C8CY1355/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/March-Justice-Navdeep-Singh/dp/B0C8CY1355/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "HB",
     language: "English",
     dimension: "23.5 x 16 x 3 cm",
     pages: "377",
-    AuthorInfo:"",
-    about_book:"March to Justice: Global Military Law Landmarks is an anthology of twenty-five short essays and commentaries by eminent jurists, judges and academics from around the world on governance, military law and human rights. It talks of diverse and pathbreaking judicial decisions that changed the course of military law in several jurisdictions and in different nations. It also brings to the fore some noteworthy lessons from these experiences, in addition to facilitating a comparative analysis. Articulated in simple, non-scholarly language for a layperson, this book is a must-have for the intrigued reader of texts on military, law, politics, public policy, governance and human rights.",
+    AuthorInfo: "",
+    about_book:
+      "March to Justice: Global Military Law Landmarks is an anthology of twenty-five short essays and commentaries by eminent jurists, judges and academics from around the world on governance, military law and human rights. It talks of diverse and pathbreaking judicial decisions that changed the course of military law in several jurisdictions and in different nations. It also brings to the fore some noteworthy lessons from these experiences, in addition to facilitating a comparative analysis. Articulated in simple, non-scholarly language for a layperson, this book is a must-have for the intrigued reader of texts on military, law, politics, public policy, governance and human rights.",
     category: "Non-Fiction",
     tags: "Military & Defence, Law & Public Policy",
-    meta_descreption: "A deep dive into pivotal cases in global military law, providing insights on governance, justice, and legal frameworks.",
+    meta_descreption:
+      "A deep dive into pivotal cases in global military law, providing insights on governance, justice, and legal frameworks.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -338,8 +382,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 10,
@@ -349,17 +394,22 @@ export const masterData = [
     price: 395,
     isbn10: "",
     isbn13: "9789392209215",
-    amazonlink: "https://www.amazon.in/Somewhere-Among-Stars-Recollections-Mystic/dp/9392209207/ref=sr_1_fkmr0_2?crid=",
-    flipkartlink: "https://www.flipkart.com/somewhere-among-stars/p/itmdb3ec4e4851e1?pid=9789392209215&lid=",
+    amazonlink:
+      "https://www.amazon.in/Somewhere-Among-Stars-Recollections-Mystic/dp/9392209207/ref=sr_1_fkmr0_2?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/somewhere-among-stars/p/itmdb3ec4e4851e1?pid=9789392209215&lid=",
     binding: "PB",
     language: "English",
     dimension: "21.5 x 14 x 2 cm",
     pages: "271",
-    AuthorInfo:"Adi Varuni, an anonymous author living in incognito, writes on Indian spirituality and mysticism. Adi Varuni revealed his identity at the Jaipur Literature Festival 2023. He is also known as Partho. Partho conducts educational and spiritual retreats. He is a teacher, poet, and writer who writes extensively on Vedanta and integral education.",
-    about_book:"Somewhere Among the Stars chronicles a woman?s inner quest for Love and Truth across lifetimes and dimensions of being?an adventure of consciousness through rare terrains of Vedanta and Yoga. Adi Varuni writes on Indian spirituality and mysticism and lives incognito",
+    AuthorInfo:
+      "Adi Varuni, an anonymous author living in incognito, writes on Indian spirituality and mysticism. Adi Varuni revealed his identity at the Jaipur Literature Festival 2023. He is also known as Partho. Partho conducts educational and spiritual retreats. He is a teacher, poet, and writer who writes extensively on Vedanta and integral education.",
+    about_book:
+      "Somewhere Among the Stars chronicles a woman?s inner quest for Love and Truth across lifetimes and dimensions of being?an adventure of consciousness through rare terrains of Vedanta and Yoga. Adi Varuni writes on Indian spirituality and mysticism and lives incognito",
     category: "Fiction",
     tags: "Religion & Spirituality, Society & Social Sciences",
-    meta_descreption: "A woman's spiritual quest for love and truth across lifetimes and dimensions, navigating the complexities of her existence.",
+    meta_descreption:
+      "A woman's spiritual quest for love and truth across lifetimes and dimensions, navigating the complexities of her existence.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -376,8 +426,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 11,
@@ -393,11 +444,14 @@ export const masterData = [
     language: "English",
     dimension: "22.2 x 14.8 x 2 cm",
     pages: "271",
-    AuthorInfo:"Adi Varuni, an anonymous author living in incognito, writes on Indian spirituality and mysticism. Adi Varuni revealed his identity at the Jaipur Literature Festival 2023. He is also known as Partho. Partho conducts educational and spiritual retreats. He is a teacher, poet, and writer who writes extensively on Vedanta and integral education.",
-    about_book:"Somewhere Among the Stars chronicles a woman?s inner quest for Love and Truth across lifetimes and dimensions of being?an adventure of consciousness through rare terrains of Vedanta and Yoga. Adi Varuni writes on Indian spirituality and mysticism and lives incognito",
+    AuthorInfo:
+      "Adi Varuni, an anonymous author living in incognito, writes on Indian spirituality and mysticism. Adi Varuni revealed his identity at the Jaipur Literature Festival 2023. He is also known as Partho. Partho conducts educational and spiritual retreats. He is a teacher, poet, and writer who writes extensively on Vedanta and integral education.",
+    about_book:
+      "Somewhere Among the Stars chronicles a woman?s inner quest for Love and Truth across lifetimes and dimensions of being?an adventure of consciousness through rare terrains of Vedanta and Yoga. Adi Varuni writes on Indian spirituality and mysticism and lives incognito",
     category: "Fiction",
     tags: "Religion & Spirituality, Society & Social Sciences",
-    meta_descreption: "A woman's spiritual quest for love and truth across lifetimes and dimensions, navigating the complexities of her existence.",
+    meta_descreption:
+      "A woman's spiritual quest for love and truth across lifetimes and dimensions, navigating the complexities of her existence.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -414,8 +468,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 12,
@@ -425,17 +480,22 @@ export const masterData = [
     price: 1495,
     isbn10: "",
     isbn13: "9788194954798",
-    amazonlink: "https://www.amazon.in/Identitys-Secret-Makarand-Paranjape-Pariksith/dp/8194954797/ref=sr_1_1?crid=",
-    flipkartlink: "https://www.flipkart.com/identity-s-last-secret/p/itmd014fe1dcfded?pid=9788194954798&lid=",
+    amazonlink:
+      "https://www.amazon.in/Identitys-Secret-Makarand-Paranjape-Pariksith/dp/8194954797/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/identity-s-last-secret/p/itmd014fe1dcfded?pid=9788194954798&lid=",
     binding: "HB",
     language: "English",
     dimension: "23.5 x 23.5 x 1.3 cm",
     pages: "140",
-    AuthorInfo:"Professor Dr Paranjape is a famous Indian novelist and poet. He is hugely respected in the Indian academia. He was a professor at the Jawaharlal Nehru University for 19 years before becoming the Director of the Indian Institute of Advanced Study, Shimla, since August 2018. His much-celebrated collection of published works include 120 academic papers, a novel, several poems, short stories, and essays. He has also done book reviews and also writes as a columnist for various renowned publications.",
-    about_book:"This book cannot be read simply as a compilation of immaculate theories which leads one to perfect conclusions. It goes beyond literary theory, known myths and metaphysics. It bridges the human and the divine and the author finds his true self by accepting all aspects of existence and exploring all that he has lived and experienced. It tells us about the uncertainty of living a life while keeping the central theme as love. It shows us that, unlike powerplay, love is the only emotion where submission does not involve humiliation.",
+    AuthorInfo:
+      "Professor Dr Paranjape is a famous Indian novelist and poet. He is hugely respected in the Indian academia. He was a professor at the Jawaharlal Nehru University for 19 years before becoming the Director of the Indian Institute of Advanced Study, Shimla, since August 2018. His much-celebrated collection of published works include 120 academic papers, a novel, several poems, short stories, and essays. He has also done book reviews and also writes as a columnist for various renowned publications.",
+    about_book:
+      "This book cannot be read simply as a compilation of immaculate theories which leads one to perfect conclusions. It goes beyond literary theory, known myths and metaphysics. It bridges the human and the divine and the author finds his true self by accepting all aspects of existence and exploring all that he has lived and experienced. It tells us about the uncertainty of living a life while keeping the central theme as love. It shows us that, unlike powerplay, love is the only emotion where submission does not involve humiliation.",
     category: "Non-Fiction",
     tags: "Poetry",
-    meta_descreption: "A transformative journey of self-discovery that explores themes of love, existence, and the divine connection we share.",
+    meta_descreption:
+      "A transformative journey of self-discovery that explores themes of love, existence, and the divine connection we share.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -452,8 +512,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 13,
@@ -463,17 +524,21 @@ export const masterData = [
     price: 699,
     isbn10: "",
     isbn13: "9788194954774",
-    amazonlink: "https://www.amazon.in/Eternal-Feminine-Alok-Pandey/dp/8194954770/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/Eternal-Feminine-Alok-Pandey/dp/8194954770/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "21.5 x 14.2 x 2.8 cm",
     pages: "342",
-    AuthorInfo:"Dr Alok Pandey grew up in a family with rich spiritual values surrounded by myths and legends. Subsequent to his MD in Psychiatry from the Armed Forces Medical College, Pune and his service in the Indian Air Force, his childhood fascination with myths and legends needed a sound footing. It was through his spiritual journey through the Integral Yoga of Sri Aurobindo that he understood his deeper calling. Though he has written and spoken extensively on various subjects, the myths and legends of India, especially the worship of the Divine Mother, Shakti, remains closest to his heart.",
-    about_book:"A woman is not just a form and a figure; though her form itself is significant of deep-guarded secrets and the capacity to create marvels out of a seed state. She is the Force, Shakti, Wisdom, Strength, Beauty, Love, Delight that is everywhere and in all beings. This book is not just an attempt to discover and evoke her through myths and legends of India, but to unravel the mysteries of the ‘Eternal Feminine’ with a view to discover the truth behind what a woman truly represents as seen through the awakened eyes of the mystics and the spiritual culture of India.",
+    AuthorInfo:
+      "Dr Alok Pandey grew up in a family with rich spiritual values surrounded by myths and legends. Subsequent to his MD in Psychiatry from the Armed Forces Medical College, Pune and his service in the Indian Air Force, his childhood fascination with myths and legends needed a sound footing. It was through his spiritual journey through the Integral Yoga of Sri Aurobindo that he understood his deeper calling. Though he has written and spoken extensively on various subjects, the myths and legends of India, especially the worship of the Divine Mother, Shakti, remains closest to his heart.",
+    about_book:
+      "A woman is not just a form and a figure; though her form itself is significant of deep-guarded secrets and the capacity to create marvels out of a seed state. She is the Force, Shakti, Wisdom, Strength, Beauty, Love, Delight that is everywhere and in all beings. This book is not just an attempt to discover and evoke her through myths and legends of India, but to unravel the mysteries of the ‘Eternal Feminine’ with a view to discover the truth behind what a woman truly represents as seen through the awakened eyes of the mystics and the spiritual culture of India.",
     category: "Non-Fiction",
     tags: "Religion & Spirituality, Society & Social Sciences",
-    meta_descreption: "Unraveling the mysteries of the Eternal Feminine through the lens of Indian mysticism and spiritual traditions.",
+    meta_descreption:
+      "Unraveling the mysteries of the Eternal Feminine through the lens of Indian mysticism and spiritual traditions.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -490,8 +555,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 14,
@@ -501,17 +567,21 @@ export const masterData = [
     price: 350,
     isbn10: "",
     isbn13: "9788194954736",
-    amazonlink: "https://www.amazon.in/HOPS-Spectacular-Adventure-Zain-Hashmy/dp/8194954738/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/HOPS-Spectacular-Adventure-Zain-Hashmy/dp/8194954738/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "21 x 29.5 x 0.2cm",
     pages: "23",
-    AuthorInfo:"Zain Hashmy is a biotechnologist from Australia. He loves to write stories for people of all ages, and Hop’s Spectacular Adventure is his first book, based on a story originally intended for his god-daughter Evelyn, as a birthday gift.",
-    about_book:"When Hop, the Frog refuses to eat his locusts, he lands himself in a dizzy adventure, drifting towards the earth after the mysterious Two legs come calling. Hop’s Spectacular Adventure is the story of how he becomes the only frog to fly since Felix, the hero of Lower Greens. The endearing tale recounts how a young frog skyrocketed to glory when he least expected it. As he ends up being one with the very legend that he had grown up admiring, he becomes a source of inspiration to young tadpoles everywhere even as he showers them with a bounty of delicious gifts.",
+    AuthorInfo:
+      "Zain Hashmy is a biotechnologist from Australia. He loves to write stories for people of all ages, and Hop’s Spectacular Adventure is his first book, based on a story originally intended for his god-daughter Evelyn, as a birthday gift.",
+    about_book:
+      "When Hop, the Frog refuses to eat his locusts, he lands himself in a dizzy adventure, drifting towards the earth after the mysterious Two legs come calling. Hop’s Spectacular Adventure is the story of how he becomes the only frog to fly since Felix, the hero of Lower Greens. The endearing tale recounts how a young frog skyrocketed to glory when he least expected it. As he ends up being one with the very legend that he had grown up admiring, he becomes a source of inspiration to young tadpoles everywhere even as he showers them with a bounty of delicious gifts.",
     category: "Children",
     tags: "Action & Adventure, Self-Help & Development",
-    meta_descreption: "Follow a young frog's thrilling adventure as he aspires to achieve fame, soaring high like his hero, Felix the frog.",
+    meta_descreption:
+      "Follow a young frog's thrilling adventure as he aspires to achieve fame, soaring high like his hero, Felix the frog.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -528,8 +598,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 15,
@@ -540,13 +611,14 @@ export const masterData = [
     isbn10: "",
     isbn13: "9789392209031",
     amazonlink: "",
-    flipkartlink: "https://www.flipkart.com/rainbow-got-its-colors/p/itm8c499d3bc2d02?pid=9789392209031&lid=",
+    flipkartlink:
+      "https://www.flipkart.com/rainbow-got-its-colors/p/itm8c499d3bc2d02?pid=9789392209031&lid=",
     binding: "PB",
     language: "English",
     dimension: "21 x 29.8 x 0.2 cm",
     pages: "23",
-    AuthorInfo:"",
-    about_book:"",
+    AuthorInfo: "",
+    about_book: "",
     category: "Children",
     tags: "Action & Adventure, Self-Help & Development",
     meta_descreption: "",
@@ -566,8 +638,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 16,
@@ -577,17 +650,21 @@ export const masterData = [
     price: 495,
     isbn10: "",
     isbn13: "9789392209260",
-    amazonlink: "https://www.amazon.in/Confidence-Cures-Lt-Gen-S-B-Sehajpal/dp/B0C8CSMY8D/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/Confidence-Cures-Lt-Gen-S-B-Sehajpal/dp/B0C8CSMY8D/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "21.5 x 14 x 1.7 cm",
     pages: "199",
-    AuthorInfo:"Lieutenant General S.B. Sehajpal has formerly served as the Director General, Dental Services in the Indian Army. He is an MDS in Prosthodontics and has been awarded the Colonel A. G. Rangaraj Challenge Trophy in 1979 and Lt Gen. K. S. Memorial Medal in 1985. A recipient of the Army Commander Western Command Commendation in 1993, Chief of Army Staff Commendation in 1997 and Army Commander Southern Command Commendation in 2001, Lt Gen. S. B. Sehajpal has been decorated by the President of India with the Vishisht Seva Medal in 2002, Ati Vishisht Seva Medal in 2007 and Param Vishisht Seva Medal––the highest military award for distinguished service––in 2011.",
-    about_book:"Confidence Cures: The Art of Self-Wellness offers an integrated and experience-based approach to aid you in attaining wellness by focusing on the physical, mental, existential and spiritual aspects of your being. Based on the personal experience of Lieutenant General S.B. Sehajpal, a former dental surgeon in the Indian Army, who practised the wellness way of life and recovered from acute depression, hypertension and diabetes, and Mrs Kiran Sehajpal, an educationist, this book serves as a comprehensive guide in reinvigorating yourself and putting your health at topmost priority. No fancy diets, no fads, no herd-hounding, just intent and a karmic commitment with yourself.",
+    AuthorInfo:
+      "Lieutenant General S.B. Sehajpal has formerly served as the Director General, Dental Services in the Indian Army. He is an MDS in Prosthodontics and has been awarded the Colonel A. G. Rangaraj Challenge Trophy in 1979 and Lt Gen. K. S. Memorial Medal in 1985. A recipient of the Army Commander Western Command Commendation in 1993, Chief of Army Staff Commendation in 1997 and Army Commander Southern Command Commendation in 2001, Lt Gen. S. B. Sehajpal has been decorated by the President of India with the Vishisht Seva Medal in 2002, Ati Vishisht Seva Medal in 2007 and Param Vishisht Seva Medal––the highest military award for distinguished service––in 2011.",
+    about_book:
+      "Confidence Cures: The Art of Self-Wellness offers an integrated and experience-based approach to aid you in attaining wellness by focusing on the physical, mental, existential and spiritual aspects of your being. Based on the personal experience of Lieutenant General S.B. Sehajpal, a former dental surgeon in the Indian Army, who practised the wellness way of life and recovered from acute depression, hypertension and diabetes, and Mrs Kiran Sehajpal, an educationist, this book serves as a comprehensive guide in reinvigorating yourself and putting your health at topmost priority. No fancy diets, no fads, no herd-hounding, just intent and a karmic commitment with yourself.",
     category: "Non-Fiction",
     tags: "Self-Help & Development , Health & Wellness",
-    meta_descreption: "An integrated guide to self-wellness through personal experience and intent.",
+    meta_descreption:
+      "An integrated guide to self-wellness through personal experience and intent.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -604,8 +681,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 17,
@@ -621,11 +699,14 @@ export const masterData = [
     language: "English",
     dimension: "22 x 14.5 x 3.5 cm",
     pages: "410",
-    AuthorInfo:"Pariksith Singh, MD, is a practicing physician of 30 years. Board Certified in Internal Medicine, he believes unsettling changes in the healthcare industry can also be transformative. “For me it is a time for remarkable opportunity, growth, and innovation,” he says. “I can look back at what I have accomplished, but also look forward in eager anticipation at what is possible.” Dr. Singh watched his organization, Access Health Care Physicians, LLC, grow from a simple, multi-service provider in 2001 to one that has multiplied in size and is now respected throughout the state of Florida. In addition to heading up this leading IPA, he has started a healthcare HMO, an ACO, and created one of the best healthcare corporate infrastructures in the business. Dr. Singh also finds time to be a published poet, philosopher and author. His medical contributions include The Florida Guide to Prescription, Controlled Substance and Pain Medicine Laws (coauthored by Rachel Barlow, Alan Gassman, and Lester Perling), The Essential Planning Guide to 2013 Income & Estate Taxes, and Excerpts From Creditor Protection From Florida Physicians, a Comprehensive Handbook for Physicians and Their Advisors. Add to this the fictional works of Dr. Singh - The Shoreless River, Chutti Ke Din, and his favorite, Riddles for Pesky Teenagers. This is Dr. Singh’s fifth edition of A Primer in Health Care. In addition to publishing books on cutting- edge topics of interest to physicians and administrators, his organization is now a learning organization involving Graduate Medical Education residents.",
-    about_book:"This book is a significant addition to the growing body of literature on Sri Aurobindo. Dr. Singh delves deep into the works of Sri Aurobindo to present a compelling and fascinating collage of the philosopher’s multifaceted and multidimensional genius: Sri Aurobindo as seer and mystic, as visionary and poet, as writer, translator, linguist and critic, and as India’s first spiritual nationalist. Sri Aurobindo, as this book declares, a true fountainhead of India’s literary renaissance, needs to be discovered and better appreciated not just in India, but globally, and Dr Singh has given an incredible tribute to the saint with this exceptional book.",
+    AuthorInfo:
+      "Pariksith Singh, MD, is a practicing physician of 30 years. Board Certified in Internal Medicine, he believes unsettling changes in the healthcare industry can also be transformative. “For me it is a time for remarkable opportunity, growth, and innovation,” he says. “I can look back at what I have accomplished, but also look forward in eager anticipation at what is possible.” Dr. Singh watched his organization, Access Health Care Physicians, LLC, grow from a simple, multi-service provider in 2001 to one that has multiplied in size and is now respected throughout the state of Florida. In addition to heading up this leading IPA, he has started a healthcare HMO, an ACO, and created one of the best healthcare corporate infrastructures in the business. Dr. Singh also finds time to be a published poet, philosopher and author. His medical contributions include The Florida Guide to Prescription, Controlled Substance and Pain Medicine Laws (coauthored by Rachel Barlow, Alan Gassman, and Lester Perling), The Essential Planning Guide to 2013 Income & Estate Taxes, and Excerpts From Creditor Protection From Florida Physicians, a Comprehensive Handbook for Physicians and Their Advisors. Add to this the fictional works of Dr. Singh - The Shoreless River, Chutti Ke Din, and his favorite, Riddles for Pesky Teenagers. This is Dr. Singh’s fifth edition of A Primer in Health Care. In addition to publishing books on cutting- edge topics of interest to physicians and administrators, his organization is now a learning organization involving Graduate Medical Education residents.",
+    about_book:
+      "This book is a significant addition to the growing body of literature on Sri Aurobindo. Dr. Singh delves deep into the works of Sri Aurobindo to present a compelling and fascinating collage of the philosopher’s multifaceted and multidimensional genius: Sri Aurobindo as seer and mystic, as visionary and poet, as writer, translator, linguist and critic, and as India’s first spiritual nationalist. Sri Aurobindo, as this book declares, a true fountainhead of India’s literary renaissance, needs to be discovered and better appreciated not just in India, but globally, and Dr Singh has given an incredible tribute to the saint with this exceptional book.",
     category: "Non-Fiction",
     tags: "'Biography, Autobiography, & True Accounts', Society & Social Sciences",
-    meta_descreption: "Exploring Sri Aurobindo's multifaceted genius as a seer, poet, and visionary.",
+    meta_descreption:
+      "Exploring Sri Aurobindo's multifaceted genius as a seer, poet, and visionary.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -642,8 +723,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 18,
@@ -653,17 +735,21 @@ export const masterData = [
     price: 595,
     isbn10: "",
     isbn13: "9789392209321",
-    amazonlink: "https://www.amazon.in/SRI-AUROBINDO-PHILOSOPHY-Pariksith-Singh/dp/9392209320/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/SRI-AUROBINDO-PHILOSOPHY-Pariksith-Singh/dp/9392209320/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "21.5 x 14 x 2.5 cm",
     pages: "413",
-    AuthorInfo:"Pariksith Singh, MD, is a practicing physician of 30 years. Board Certified in Internal Medicine, he believes unsettling changes in the healthcare industry can also be transformative. “For me it is a time for remarkable opportunity, growth, and innovation,” he says. “I can look back at what I have accomplished, but also look forward in eager anticipation at what is possible.” Dr. Singh watched his organization, Access Health Care Physicians, LLC, grow from a simple, multi-service provider in 2001 to one that has multiplied in size and is now respected throughout the state of Florida. In addition to heading up this leading IPA, he has started a healthcare HMO, an ACO, and created one of the best healthcare corporate infrastructures in the business. Dr. Singh also finds time to be a published poet, philosopher and author. His medical contributions include The Florida Guide to Prescription, Controlled Substance and Pain Medicine Laws (coauthored by Rachel Barlow, Alan Gassman, and Lester Perling), The Essential Planning Guide to 2013 Income & Estate Taxes, and Excerpts From Creditor Protection From Florida Physicians, a Comprehensive Handbook for Physicians and Their Advisors. Add to this the fictional works of Dr. Singh - The Shoreless River, Chutti Ke Din, and his favorite, Riddles for Pesky Teenagers. This is Dr. Singh’s fifth edition of A Primer in Health Care. In addition to publishing books on cutting- edge topics of interest to physicians and administrators, his organization is now a learning organization involving Graduate Medical Education residents.",
-    about_book:"This book is a significant addition to the growing body of literature on Sri Aurobindo. Dr. Singh delves deep into the works of Sri Aurobindo to present a compelling and fascinating collage of the philosopher’s multifaceted and multidimensional genius: Sri Aurobindo as seer and mystic, as visionary and poet, as writer, translator, linguist and critic, and as India’s first spiritual nationalist. Sri Aurobindo, as this book declares, a true fountainhead of India’s literary renaissance, needs to be discovered and better appreciated not just in India, but globally, and Dr Singh has given an incredible tribute to the saint with this exceptional book.",
+    AuthorInfo:
+      "Pariksith Singh, MD, is a practicing physician of 30 years. Board Certified in Internal Medicine, he believes unsettling changes in the healthcare industry can also be transformative. “For me it is a time for remarkable opportunity, growth, and innovation,” he says. “I can look back at what I have accomplished, but also look forward in eager anticipation at what is possible.” Dr. Singh watched his organization, Access Health Care Physicians, LLC, grow from a simple, multi-service provider in 2001 to one that has multiplied in size and is now respected throughout the state of Florida. In addition to heading up this leading IPA, he has started a healthcare HMO, an ACO, and created one of the best healthcare corporate infrastructures in the business. Dr. Singh also finds time to be a published poet, philosopher and author. His medical contributions include The Florida Guide to Prescription, Controlled Substance and Pain Medicine Laws (coauthored by Rachel Barlow, Alan Gassman, and Lester Perling), The Essential Planning Guide to 2013 Income & Estate Taxes, and Excerpts From Creditor Protection From Florida Physicians, a Comprehensive Handbook for Physicians and Their Advisors. Add to this the fictional works of Dr. Singh - The Shoreless River, Chutti Ke Din, and his favorite, Riddles for Pesky Teenagers. This is Dr. Singh’s fifth edition of A Primer in Health Care. In addition to publishing books on cutting- edge topics of interest to physicians and administrators, his organization is now a learning organization involving Graduate Medical Education residents.",
+    about_book:
+      "This book is a significant addition to the growing body of literature on Sri Aurobindo. Dr. Singh delves deep into the works of Sri Aurobindo to present a compelling and fascinating collage of the philosopher’s multifaceted and multidimensional genius: Sri Aurobindo as seer and mystic, as visionary and poet, as writer, translator, linguist and critic, and as India’s first spiritual nationalist. Sri Aurobindo, as this book declares, a true fountainhead of India’s literary renaissance, needs to be discovered and better appreciated not just in India, but globally, and Dr Singh has given an incredible tribute to the saint with this exceptional book.",
     category: "Non-Fiction",
     tags: "'Biography, Autobiography, & True Accounts', Society & Social Sciences",
-    meta_descreption: "An integrated guide to achieving self-wellness, drawing from personal experiences and intent for holistic well-being.",
+    meta_descreption:
+      "An integrated guide to achieving self-wellness, drawing from personal experiences and intent for holistic well-being.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -680,8 +766,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 19,
@@ -691,17 +778,22 @@ export const masterData = [
     price: 895,
     isbn10: "",
     isbn13: "9789392209093",
-    amazonlink: "https://www.amazon.in/Snakes-Ganga-Breaking-India-2-0/dp/B0CSK7HRDT/ref=sr_1_1?crid=",
-    flipkartlink: "https://www.flipkart.com/snakes-ganga-breaking-india-2-0/p/itmd9a426687f4b2?pid=",
+    amazonlink:
+      "https://www.amazon.in/Snakes-Ganga-Breaking-India-2-0/dp/B0CSK7HRDT/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/snakes-ganga-breaking-india-2-0/p/itmd9a426687f4b2?pid=",
     binding: "HB",
     language: "English",
     dimension: "23.5 x 16 x 6.5 cm",
     pages: "812",
-    AuthorInfo:"Rajiv Malhotra is a researcher and public intellectual on civilizational studies, world religions, and crosscultural encounters. He was trained initially as a physicist and then as a computer scientist specializing in artificial intelligence in the 1970s. After a successful corporate career in the USA, he became an entrepreneur and founded and ran several IT companies across twenty countries. Since the early 1990s, as the founder of his nonprofit Infinity Foundation (Princeton, USA), he has been researching civilizations from a historical, social sciences, and mind sciences perspectives. He has authored several bestselling books, which have impacted leading intellectuals worldwide. Rajiv also serves as the chairman of the board of governors of the Center for Indic Studies at the University of Massachusetts, Dartmouth, and is on the advisory board of the Indian Institute of Advanced Studies, Shimla. Vijaya Viswanathan is a mechanical engineer by training and holds an MBA from the Wharton Business School. After a successful corporate career in manufacturing and finance based in the USA, Singapore, and Europe, she turned her focus to education. As she embarked on a homeschooling journey with her children, she gained deep insights into the relevance of Indic knowledge systems in modern education. Vijaya is active in initiatives that focus on curricula, pedagogy, and mentoring. As a student under Swami Dayananda Saraswati of Arsha Vidya Gurukulam, Vijaya studied Vedanta as well as dharmic and civilizational thought. She serves on the board of Infinity Foundation.",
-    about_book:"Snakes in the Ganga unveils uncomfortable truths concerning India’s vulnerabilities: Intense warfare against India’s integrity is the work of a wellorchestrated global machinery driven by a new ideology. Marxism has been reincarnated as critical race theory in US academia and serves as the framework to address America’s racism. This has been recklessly mapped on to India: Caste is equated with Race. Marginalized communities of India are considered as Blacks and Brahmins as the Whites of India. Groups claiming grievances (like Muslims and LGBTQ+) are artificially clubbed together. Popularly called the woke movement, the mission is to dismantle Indian civilization and heritage by waging an uncompromising war against India’s government, educational institutions, culture, industry, and society. Harvard University is ground zero of these social theories developed in collaboration with Indian scholars, activists, journalists, and artists. This represents a clear and present danger to India’s sovereignty and national security. Several Indian elites are hoisting Harvard as the vishwa guru with their money and family names. Some private universities within India are importing wokeism that has serious repercussions for India’s stability. Indian corporates are bringing the latest Western rubric of environmental, social, and governance ratings into their workplaces. This is aligned with the global social justice movement. China has exploited this latest infrastructure as a passage to India. Wokeism has penetrated some of the Indian government’s policies. For instance, the National Education Policy 2020 is propagating Harvard’s liberal arts. An entire ecosystem of ideologies, institutions, and young leaders is emerging for the recolonization of India. Is India for sale? In this paperback edition, the back matter has been trimmed to shed some weight in the interest of portability. Readers can, however, still access it by scanning the QR code printed after the last chapter.",
+    AuthorInfo:
+      "Rajiv Malhotra is a researcher and public intellectual on civilizational studies, world religions, and crosscultural encounters. He was trained initially as a physicist and then as a computer scientist specializing in artificial intelligence in the 1970s. After a successful corporate career in the USA, he became an entrepreneur and founded and ran several IT companies across twenty countries. Since the early 1990s, as the founder of his nonprofit Infinity Foundation (Princeton, USA), he has been researching civilizations from a historical, social sciences, and mind sciences perspectives. He has authored several bestselling books, which have impacted leading intellectuals worldwide. Rajiv also serves as the chairman of the board of governors of the Center for Indic Studies at the University of Massachusetts, Dartmouth, and is on the advisory board of the Indian Institute of Advanced Studies, Shimla. Vijaya Viswanathan is a mechanical engineer by training and holds an MBA from the Wharton Business School. After a successful corporate career in manufacturing and finance based in the USA, Singapore, and Europe, she turned her focus to education. As she embarked on a homeschooling journey with her children, she gained deep insights into the relevance of Indic knowledge systems in modern education. Vijaya is active in initiatives that focus on curricula, pedagogy, and mentoring. As a student under Swami Dayananda Saraswati of Arsha Vidya Gurukulam, Vijaya studied Vedanta as well as dharmic and civilizational thought. She serves on the board of Infinity Foundation.",
+    about_book:
+      "Snakes in the Ganga unveils uncomfortable truths concerning India’s vulnerabilities: Intense warfare against India’s integrity is the work of a wellorchestrated global machinery driven by a new ideology. Marxism has been reincarnated as critical race theory in US academia and serves as the framework to address America’s racism. This has been recklessly mapped on to India: Caste is equated with Race. Marginalized communities of India are considered as Blacks and Brahmins as the Whites of India. Groups claiming grievances (like Muslims and LGBTQ+) are artificially clubbed together. Popularly called the woke movement, the mission is to dismantle Indian civilization and heritage by waging an uncompromising war against India’s government, educational institutions, culture, industry, and society. Harvard University is ground zero of these social theories developed in collaboration with Indian scholars, activists, journalists, and artists. This represents a clear and present danger to India’s sovereignty and national security. Several Indian elites are hoisting Harvard as the vishwa guru with their money and family names. Some private universities within India are importing wokeism that has serious repercussions for India’s stability. Indian corporates are bringing the latest Western rubric of environmental, social, and governance ratings into their workplaces. This is aligned with the global social justice movement. China has exploited this latest infrastructure as a passage to India. Wokeism has penetrated some of the Indian government’s policies. For instance, the National Education Policy 2020 is propagating Harvard’s liberal arts. An entire ecosystem of ideologies, institutions, and young leaders is emerging for the recolonization of India. Is India for sale? In this paperback edition, the back matter has been trimmed to shed some weight in the interest of portability. Readers can, however, still access it by scanning the QR code printed after the last chapter.",
     category: "Non-Fiction",
     tags: "Society & Social Sciences, Law & Public Policy, Politics & Governance",
-    meta_descreption: "Exploring the multifaceted genius of Sri Aurobindo as a seer, poet, and visionary, highlighting his profound insights.",
+    meta_descreption:
+      "Exploring the multifaceted genius of Sri Aurobindo as a seer, poet, and visionary, highlighting his profound insights.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -718,8 +810,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 20,
@@ -729,17 +822,21 @@ export const masterData = [
     price: 495,
     isbn10: "",
     isbn13: "9789392209147",
-    amazonlink: "https://www.amazon.in/Eternal-Gene-Ankush-Sam-Thorpe/dp/B0C8NSK7F7/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/Eternal-Gene-Ankush-Sam-Thorpe/dp/B0C8NSK7F7/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "19.8 x 12.8 x 1.7 cm",
     pages: "228",
-    AuthorInfo:"Ankush Sam Thorpe grew up in Punjab, a northern province in India in the 90s. A graduate in Anthropology and a postgraduate in Genetics, his fascination for science began early in life. In his early teens, he was obsessed with 90s Hollywood science fiction films, especially The Terminator and Jurassic Park. His love affair with science fiction began with the Sidney Sheldon novel The Doomsday Conspiracy and solidified with Dan Brown’s The Lost Symbol and George Orwell’s 1984. However, his passion for storytelling grew with Isaac Asimov’s short story Nightfall, which inspired him to create his own tales. In 2011, at the age of twenty, Ankush wrote his first short story, ‘A Stitch in Time’, exhibiting his fascination with science and history. During the Covid pandemic he found the time to create characters, dialogues, and storylines based on the scientific concepts that keep him enthralled to this date. Presently living in the city of Toronto, he continues to pen more stories with science as the central theme. In addition, he is an Instagram junkie as well as a die-hard Test Cricket fan.",
-    about_book:"How do we know that we are living in actual reality? Can we trust our memories? Have you ever wondered about the possibilities of extraterrestrial species visiting Earth in the prehistoric era? What would happen if a rare mutation halts aging in a man? All these questions, and many more, are answered through six superbly crafted stories penned by breakout author, Ankush Sam Thorpe. In the stunning title story, a man’s journey to investigate his father’s mysterious death leads him to the nation’s best kept secret. ‘A Stitch in Time’, follows a soldier’s quest to finish a mission in a world long forgotten, with a gut-wrenching revelation. In ‘Down Memory Lane’, the protagonist learns that the reality is not what it seems amidst an imminent political coup. In ‘The Representative’, a man suddenly wakes up billions of light years away, in an intergalactic conference, representing Earth. And in ‘Hera’, a group of Neanderthals are visited by a guest from a hyper-advanced civilization, forever changing the course of evolution on Earth.",
+    AuthorInfo:
+      "Ankush Sam Thorpe grew up in Punjab, a northern province in India in the 90s. A graduate in Anthropology and a postgraduate in Genetics, his fascination for science began early in life. In his early teens, he was obsessed with 90s Hollywood science fiction films, especially The Terminator and Jurassic Park. His love affair with science fiction began with the Sidney Sheldon novel The Doomsday Conspiracy and solidified with Dan Brown’s The Lost Symbol and George Orwell’s 1984. However, his passion for storytelling grew with Isaac Asimov’s short story Nightfall, which inspired him to create his own tales. In 2011, at the age of twenty, Ankush wrote his first short story, ‘A Stitch in Time’, exhibiting his fascination with science and history. During the Covid pandemic he found the time to create characters, dialogues, and storylines based on the scientific concepts that keep him enthralled to this date. Presently living in the city of Toronto, he continues to pen more stories with science as the central theme. In addition, he is an Instagram junkie as well as a die-hard Test Cricket fan.",
+    about_book:
+      "How do we know that we are living in actual reality? Can we trust our memories? Have you ever wondered about the possibilities of extraterrestrial species visiting Earth in the prehistoric era? What would happen if a rare mutation halts aging in a man? All these questions, and many more, are answered through six superbly crafted stories penned by breakout author, Ankush Sam Thorpe. In the stunning title story, a man’s journey to investigate his father’s mysterious death leads him to the nation’s best kept secret. ‘A Stitch in Time’, follows a soldier’s quest to finish a mission in a world long forgotten, with a gut-wrenching revelation. In ‘Down Memory Lane’, the protagonist learns that the reality is not what it seems amidst an imminent political coup. In ‘The Representative’, a man suddenly wakes up billions of light years away, in an intergalactic conference, representing Earth. And in ‘Hera’, a group of Neanderthals are visited by a guest from a hyper-advanced civilization, forever changing the course of evolution on Earth.",
     category: "Fiction",
     tags: "Action & Adventure, Fantasy & Science Fiction",
-    meta_descreption: "Delving into Sri Aurobindo's remarkable genius as a seer, poet, and visionary, uncovering his contributions to spirituality.",
+    meta_descreption:
+      "Delving into Sri Aurobindo's remarkable genius as a seer, poet, and visionary, uncovering his contributions to spirituality.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -756,8 +853,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 21,
@@ -767,17 +865,22 @@ export const masterData = [
     price: 699,
     isbn10: "",
     isbn13: "978-9392209505",
-    amazonlink: "https://www.amazon.in/This-Sanatan-Dharma-Quest-Truth/dp/9392209509/ref=sr_1_1?crid=",
-    flipkartlink: "https://www.flipkart.com/this-is-sanatan-dharma/p/itm61f0c62a7c052?pid=",
+    amazonlink:
+      "https://www.amazon.in/This-Sanatan-Dharma-Quest-Truth/dp/9392209509/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/this-is-sanatan-dharma/p/itm61f0c62a7c052?pid=",
     binding: "PB",
     language: "English",
     dimension: "23 x 15.5 x 3 cm",
     pages: "370",
-    AuthorInfo:"Partho is a disciple of Sri Aurobindo and the Mother. His inner journey started with a vision of Swami Vivekananda when he was 26, and it was Swami Vivekananda who brought him to Sri Aurobindo and the Mother.",
-    about_book:"We speak often of the Hindu religion, of the Sanatan Dharma, but few of us really know what that religion is...This is the Dharma that for the salvation of humanity was cherished in the seclusion of this peninsula from of old. It is to give this religion that India is rising. She does not rise as other countries do, for self or when she is strong, to trample on the weak. She is rising to shed the eternal light entrusted to her over the world. India has always existed for humanity and not for herself and it is for humanity and not for herself that she must be great”. These are the words of Maharshi Sri Aurobindo. But what is this, Sanatan Dharma? Is it just the religion and rituals that Hindus follow or is it really the secret of Life and Consciousness that is embedded in the very fabric of our cosmic existence? This book reveals the inner layers of Sanatan Dharma and is meant for everyone interested in the truths of our human existence in this vast and endless universe. It is a book that will surely put to rest the myths and misunderstandings about Sanatan Dharma as a religion and a philosophy",
+    AuthorInfo:
+      "Partho is a disciple of Sri Aurobindo and the Mother. His inner journey started with a vision of Swami Vivekananda when he was 26, and it was Swami Vivekananda who brought him to Sri Aurobindo and the Mother.",
+    about_book:
+      "We speak often of the Hindu religion, of the Sanatan Dharma, but few of us really know what that religion is...This is the Dharma that for the salvation of humanity was cherished in the seclusion of this peninsula from of old. It is to give this religion that India is rising. She does not rise as other countries do, for self or when she is strong, to trample on the weak. She is rising to shed the eternal light entrusted to her over the world. India has always existed for humanity and not for herself and it is for humanity and not for herself that she must be great”. These are the words of Maharshi Sri Aurobindo. But what is this, Sanatan Dharma? Is it just the religion and rituals that Hindus follow or is it really the secret of Life and Consciousness that is embedded in the very fabric of our cosmic existence? This book reveals the inner layers of Sanatan Dharma and is meant for everyone interested in the truths of our human existence in this vast and endless universe. It is a book that will surely put to rest the myths and misunderstandings about Sanatan Dharma as a religion and a philosophy",
     category: "Non-Fiction",
     tags: "Religion & Spirituality, Society & Social Sciences",
-    meta_descreption: "Uncovering the global threats to India's integrity and examining the rise of wokeism in contemporary society.",
+    meta_descreption:
+      "Uncovering the global threats to India's integrity and examining the rise of wokeism in contemporary society.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -794,8 +897,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 22,
@@ -805,17 +909,21 @@ export const masterData = [
     price: 699,
     isbn10: "",
     isbn13: "9789392209024",
-    amazonlink: "https://www.amazon.in/CHUTTI-KE-DIN-HINDI-POETRY/dp/9392209029/ref=sr_1_1?crid",
+    amazonlink:
+      "https://www.amazon.in/CHUTTI-KE-DIN-HINDI-POETRY/dp/9392209029/ref=sr_1_1?crid",
     flipkartlink: "",
     binding: "HB",
     language: "English",
     dimension: "22.2 x 14.8 x 1.4 cm",
     pages: "103",
-    AuthorInfo:"Pariksith Singh, MD, is a passionate and acutely intelligent student and exponent of Hindu Dharma, and one who has been deeply engaged spiritually and intellectually with Sri Aurobindo and his Yoga for almost all his adult life. Singh is also the author of two other remarkably enlightening books on the Master and his works—Sri Aurobindo and the Literary Renaissance of India (2021) and Sri Aurobindo and Philosophy (2022). Singh's approach and writings are uniquely personal, and not academic at all: his works, though of a commendable intellectual calibre, are permeated with bhakti-psychic devotion for the subject that he has chosen as his oeuvre: Sri Aurobindo himself.",
-    about_book:"अब एक नयी पुस्तक “छुट्टी के दिन” आपके हाथों में हैं| मातृभाषा की सेवा में डॉक्टर परीक्षित सिंह जी और कल्याण सिंह जी शेखावत के साथ| एक नयी जुगलबंदी हिन्दी और राजस्थानी की|जिसमें ढूंढ़े बिना ही सम्पूर्ण राजस्थान की महक मिलेगी|",
+    AuthorInfo:
+      "Pariksith Singh, MD, is a passionate and acutely intelligent student and exponent of Hindu Dharma, and one who has been deeply engaged spiritually and intellectually with Sri Aurobindo and his Yoga for almost all his adult life. Singh is also the author of two other remarkably enlightening books on the Master and his works—Sri Aurobindo and the Literary Renaissance of India (2021) and Sri Aurobindo and Philosophy (2022). Singh's approach and writings are uniquely personal, and not academic at all: his works, though of a commendable intellectual calibre, are permeated with bhakti-psychic devotion for the subject that he has chosen as his oeuvre: Sri Aurobindo himself.",
+    about_book:
+      "अब एक नयी पुस्तक “छुट्टी के दिन” आपके हाथों में हैं| मातृभाषा की सेवा में डॉक्टर परीक्षित सिंह जी और कल्याण सिंह जी शेखावत के साथ| एक नयी जुगलबंदी हिन्दी और राजस्थानी की|जिसमें ढूंढ़े बिना ही सम्पूर्ण राजस्थान की महक मिलेगी|",
     category: "Fiction",
     tags: "Poetry, Indian Languages",
-    meta_descreption: "नई पुस्तक 'छुट्टी के दिन': हिन्दी और राजस्थानी में राजस्थान की महक और संस्कृति की झलक प्रस्तुत करती है",
+    meta_descreption:
+      "नई पुस्तक 'छुट्टी के दिन': हिन्दी और राजस्थानी में राजस्थान की महक और संस्कृति की झलक प्रस्तुत करती है",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -832,8 +940,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 23,
@@ -843,17 +952,22 @@ export const masterData = [
     price: 195,
     isbn10: "",
     isbn13: "9789392209130",
-    amazonlink: "https://www.amazon.in/Awjanar-Majhe-Bengali-Bimal-Chakravartty/dp/9392209134/ref=sr_1_fkmr0_1?crid=",
-    flipkartlink: "https://www.flipkart.com/jana-awjanar-majhe/p/itm2992d9598b282?pid=9789392209130&lid=",
+    amazonlink:
+      "https://www.amazon.in/Awjanar-Majhe-Bengali-Bimal-Chakravartty/dp/9392209134/ref=sr_1_fkmr0_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/jana-awjanar-majhe/p/itm2992d9598b282?pid=9789392209130&lid=",
     binding: "PB",
     language: "Bangali",
     dimension: "22.2 x 14.8 x 1.4 cm",
     pages: "176",
-    AuthorInfo:"Jana Awjanar Majhe is a reflection of the author’s journey of life. It depicts his retrospective feeling about his past, and he tries to bring back those golden days in the mirror of the present. Having spent most of his childhood and adolescence in Kashi, the details of old Kashi are vibrant in the book.",
-    about_book:"Jana Awjanar Majhe is a reflection of the author's journey of life. It depicts his retrospective feeling about his past, and he tries to bring back those golden days in the mirror of the present. Having spent most of his childhood and adolescence in Kashi, the details of old Kashi are vibrant in the book. The author, Bimal Chakravartty, carries a range of experiences that he has gathered throughout his long and interesting career. His reflections and ponderings are an added gift for the readers. In the end, it can be said that it's not always easy to describe the simple incidents of your life. But the author has done it with perfection and grace.",
+    AuthorInfo:
+      "Jana Awjanar Majhe is a reflection of the author’s journey of life. It depicts his retrospective feeling about his past, and he tries to bring back those golden days in the mirror of the present. Having spent most of his childhood and adolescence in Kashi, the details of old Kashi are vibrant in the book.",
+    about_book:
+      "Jana Awjanar Majhe is a reflection of the author's journey of life. It depicts his retrospective feeling about his past, and he tries to bring back those golden days in the mirror of the present. Having spent most of his childhood and adolescence in Kashi, the details of old Kashi are vibrant in the book. The author, Bimal Chakravartty, carries a range of experiences that he has gathered throughout his long and interesting career. His reflections and ponderings are an added gift for the readers. In the end, it can be said that it's not always easy to describe the simple incidents of your life. But the author has done it with perfection and grace.",
     category: "Non-Fiction",
     tags: "'Biography, Autobiography, & True Accounts', Indian Languages",
-    meta_descreption: "Jana Awjanar Majhe reflects Bimal Chakravartty's life journey, capturing nostalgic memories of Kashi with grace and depth.",
+    meta_descreption:
+      "Jana Awjanar Majhe reflects Bimal Chakravartty's life journey, capturing nostalgic memories of Kashi with grace and depth.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -870,8 +984,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 24,
@@ -887,11 +1002,14 @@ export const masterData = [
     language: "Bangali",
     dimension: "22.4 x 15 x 1.8 cm",
     pages: "176",
-    AuthorInfo:"Jana Awjanar Majhe is a reflection of the author’s journey of life. It depicts his retrospective feeling about his past, and he tries to bring back those golden days in the mirror of the present. Having spent most of his childhood and adolescence in Kashi, the details of old Kashi are vibrant in the book.",
-    about_book:"Jana Awjanar Majhe is a reflection of the author's journey of life. It depicts his retrospective feeling about his past, and he tries to bring back those golden days in the mirror of the present. Having spent most of his childhood and adolescence in Kashi, the details of old Kashi are vibrant in the book. The author, Bimal Chakravartty, carries a range of experiences that he has gathered throughout his long and interesting career. His reflections and ponderings are an added gift for the readers. In the end, it can be said that it's not always easy to describe the simple incidents of your life. But the author has done it with perfection and grace.",
+    AuthorInfo:
+      "Jana Awjanar Majhe is a reflection of the author’s journey of life. It depicts his retrospective feeling about his past, and he tries to bring back those golden days in the mirror of the present. Having spent most of his childhood and adolescence in Kashi, the details of old Kashi are vibrant in the book.",
+    about_book:
+      "Jana Awjanar Majhe is a reflection of the author's journey of life. It depicts his retrospective feeling about his past, and he tries to bring back those golden days in the mirror of the present. Having spent most of his childhood and adolescence in Kashi, the details of old Kashi are vibrant in the book. The author, Bimal Chakravartty, carries a range of experiences that he has gathered throughout his long and interesting career. His reflections and ponderings are an added gift for the readers. In the end, it can be said that it's not always easy to describe the simple incidents of your life. But the author has done it with perfection and grace.",
     category: "Non-Fiction",
     tags: "'Biography, Autobiography, & True Accounts', Indian Languages",
-    meta_descreption: "Jana Awjanar Majhe reflects Bimal Chakravartty's life journey, capturing nostalgic memories of Kashi with grace and depth.",
+    meta_descreption:
+      "Jana Awjanar Majhe reflects Bimal Chakravartty's life journey, capturing nostalgic memories of Kashi with grace and depth.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -908,8 +1026,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 25,
@@ -919,14 +1038,17 @@ export const masterData = [
     price: 195,
     isbn10: "",
     isbn13: "9789392209185",
-    amazonlink: "https://www.amazon.in/Swayam-Se-Parichay-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%82-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%9A%E0%A4%AF/dp/9392209185/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/Swayam-Se-Parichay-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%82-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%9A%E0%A4%AF/dp/9392209185/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "PB",
     language: "Hindi",
     dimension: "21.5 x 14 x 0.7 cm",
     pages: "95",
-    AuthorInfo:"Pariksith Singh, MD, is a practicing physician of 30 years. Board Certified in Internal Medicine, he believes unsettling changes in the healthcare industry can also be transformative. “For me it is a time for remarkable opportunity, growth, and innovation,” he says. “I can look back at what I have accomplished, but also look forward in eager anticipation at what is possible.” Dr. Singh watched his organization, Access Health Care Physicians, LLC, grow from a simple, multi-service provider in 2001 to one that has multiplied in size and is now respected throughout the state of Florida. In addition to heading up this leading IPA, he has started a healthcare HMO, an ACO, and created one of the best healthcare corporate infrastructures in the business. Dr. Singh also finds time to be a published poet, philosopher and author. His medical contributions include The Florida Guide to Prescription, Controlled Substance and Pain Medicine Laws (coauthored by Rachel Barlow, Alan Gassman, and Lester Perling), The Essential Planning Guide to 2013 Income & Estate Taxes, and Excerpts From Creditor Protection From Florida Physicians, a Comprehensive Handbook for Physicians and Their Advisors. Add to this the fictional works of Dr. Singh - The Shoreless River, Chutti Ke Din, and his favorite, Riddles for Pesky Teenagers. This is Dr. Singh’s fifth edition of A Primer in Health Care. In addition to publishing books on cutting- edge topics of interest to physicians and administrators, his organization is now a learning organization involving Graduate Medical Education residents.",
-    about_book:"परीक्षित सिंह का कविता संग्रह 'स्वयं से परिचय' आधुनिक भारतीय साहित्य में एक नए प्रकार का अन्वेषण है। यह पुरातन ही नहीं आधुनिक भी है, छंदिक भी है तो मुक्त भी, आदर्शवादी भी है तो रहस्यमय भी, प्रयोगवादी भी है तो आध्यात्मिक भी। यह हृदय और मन को ही संतुष्ट नहीं करता, बल्कि कहीं उन गहराईयों को भी छू लेता है जिन्हें हम आत्मिक या चैत्य पौरुषिक कह सकते हैं। इसमें एक नए पद्य का उद्घोष है जिसमे गूढ़तम बातें हास्य के हल्केपन और सखा भाव की सरलता से कही गईं हैं।",
+    AuthorInfo:
+      "Pariksith Singh, MD, is a practicing physician of 30 years. Board Certified in Internal Medicine, he believes unsettling changes in the healthcare industry can also be transformative. “For me it is a time for remarkable opportunity, growth, and innovation,” he says. “I can look back at what I have accomplished, but also look forward in eager anticipation at what is possible.” Dr. Singh watched his organization, Access Health Care Physicians, LLC, grow from a simple, multi-service provider in 2001 to one that has multiplied in size and is now respected throughout the state of Florida. In addition to heading up this leading IPA, he has started a healthcare HMO, an ACO, and created one of the best healthcare corporate infrastructures in the business. Dr. Singh also finds time to be a published poet, philosopher and author. His medical contributions include The Florida Guide to Prescription, Controlled Substance and Pain Medicine Laws (coauthored by Rachel Barlow, Alan Gassman, and Lester Perling), The Essential Planning Guide to 2013 Income & Estate Taxes, and Excerpts From Creditor Protection From Florida Physicians, a Comprehensive Handbook for Physicians and Their Advisors. Add to this the fictional works of Dr. Singh - The Shoreless River, Chutti Ke Din, and his favorite, Riddles for Pesky Teenagers. This is Dr. Singh’s fifth edition of A Primer in Health Care. In addition to publishing books on cutting- edge topics of interest to physicians and administrators, his organization is now a learning organization involving Graduate Medical Education residents.",
+    about_book:
+      "परीक्षित सिंह का कविता संग्रह 'स्वयं से परिचय' आधुनिक भारतीय साहित्य में एक नए प्रकार का अन्वेषण है। यह पुरातन ही नहीं आधुनिक भी है, छंदिक भी है तो मुक्त भी, आदर्शवादी भी है तो रहस्यमय भी, प्रयोगवादी भी है तो आध्यात्मिक भी। यह हृदय और मन को ही संतुष्ट नहीं करता, बल्कि कहीं उन गहराईयों को भी छू लेता है जिन्हें हम आत्मिक या चैत्य पौरुषिक कह सकते हैं। इसमें एक नए पद्य का उद्घोष है जिसमे गूढ़तम बातें हास्य के हल्केपन और सखा भाव की सरलता से कही गईं हैं।",
     category: "Fiction",
     tags: "Poetry, Indian Languages",
     meta_descreption: "",
@@ -946,8 +1068,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 26,
@@ -957,17 +1080,20 @@ export const masterData = [
     price: 699,
     isbn10: "",
     isbn13: "9789392209192",
-    amazonlink: "https://www.amazon.in/Swayam-Ka-Ghuspaithiya-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%82-%E0%A4%98%E0%A5%81%E0%A4%B8%E0%A4%AA%E0%A5%88%E0%A4%A0%E0%A4%BF%E0%A4%AF%E0%A4%BE/dp/8193853113/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/Swayam-Ka-Ghuspaithiya-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%82-%E0%A4%98%E0%A5%81%E0%A4%B8%E0%A4%AA%E0%A5%88%E0%A4%A0%E0%A4%BF%E0%A4%AF%E0%A4%BE/dp/8193853113/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "HB",
     language: "Hindi",
     dimension: "22.3 x 14.7 x 1.3 cm",
     pages: "111",
-    AuthorInfo:"परीक्षित सिंह, सर्व प्रथम, एक कवि और दार्षनिक है, हालांकि किसी षैक्षिक या बांधे हुए ढांचे के नहीं। जीवन षास्त्र और कार्य षास्त्र में जो उनका विकास हुआ था और हो रहा है, वह उनके जीवन का अनूठा दर्षन है जिसे उन्होंने अत्यंत विषिश्ट रूप से अपने काव्य में व्यक्त किया है। चाहे वो किसी मरीज को उपचार कर रहे हों, व्यवसाय चला रहे हों या हाइकू लिख रहे हों, परीक्षित सिंह हमेषा आत्मिक का भौतिक में पूर्ण अभिव्यक्ति का अन्वेशण करते हैं - और यही परीक्षित का उनके सभी कार्यों में अनोखा और अविचल हस्ताक्षर है। परीक्षित की साहित्य रचना में यह “आंतरिक अन्वेशण” ही उनकी अभिव्यक्ति है, और इसी लिए रूप का भाव से नित संघर्श उनके षब्द प्रवाह में स्पश्ट है। इस प्रकार, आप परीक्षित के लेखन - उनकी कविताएँ, कहानियाँ, साहित्यिक आलोचनाएँ, और उनके प्रचलित अनुवाद में (हिंदी, संस्कृत, उर्दू से) रूप और भाव की, तकनीक और कथा, षैली और सार की, आष्चर्यजनक रचनामकता पाएँगे और इसी तरह से, सरासर विरोधाभासी, जटिल और कभी-कभी हास्य और गांभीर्य की एकरंगता पाएंगे। लेकिन फिर, यह आपके लिए परीक्षित सिंह और उनकी षैली की अभिव्यंजना है! विशय वस्तु के संदर्भ में, परीक्षित की पहुँच आष्चर्यजनक है - गूढ़ प्राचीन भारतीय योग और चीनी ताओ से समकालीन ज़ेन, क्वांटम भौतिकी से चिकित्सा विज्ञान तक, वह आसानी से अर्थों और गैर-अर्थों का चित्रण करते हैं। परीक्षित के रूप उनके विसरित प्रयोगों में पारंपरिक संरचनाओं से मुक्त कविता तक, रचनात्मक हाइकू से कोआन की तरह दो पंक्तियों में, संरचित लघुकथा से लेकर नव-आधुनिक अर्ध-काव्य गद्य तक सहर्श प्रभावित करते हैं। परीक्षित भविश्य के कवि है। उनका समय भी निकट भविश्य में आने वाला ही है।",
-    about_book:"",
+    AuthorInfo:
+      "परीक्षित सिंह, सर्व प्रथम, एक कवि और दार्षनिक है, हालांकि किसी षैक्षिक या बांधे हुए ढांचे के नहीं। जीवन षास्त्र और कार्य षास्त्र में जो उनका विकास हुआ था और हो रहा है, वह उनके जीवन का अनूठा दर्षन है जिसे उन्होंने अत्यंत विषिश्ट रूप से अपने काव्य में व्यक्त किया है। चाहे वो किसी मरीज को उपचार कर रहे हों, व्यवसाय चला रहे हों या हाइकू लिख रहे हों, परीक्षित सिंह हमेषा आत्मिक का भौतिक में पूर्ण अभिव्यक्ति का अन्वेशण करते हैं - और यही परीक्षित का उनके सभी कार्यों में अनोखा और अविचल हस्ताक्षर है। परीक्षित की साहित्य रचना में यह “आंतरिक अन्वेशण” ही उनकी अभिव्यक्ति है, और इसी लिए रूप का भाव से नित संघर्श उनके षब्द प्रवाह में स्पश्ट है। इस प्रकार, आप परीक्षित के लेखन - उनकी कविताएँ, कहानियाँ, साहित्यिक आलोचनाएँ, और उनके प्रचलित अनुवाद में (हिंदी, संस्कृत, उर्दू से) रूप और भाव की, तकनीक और कथा, षैली और सार की, आष्चर्यजनक रचनामकता पाएँगे और इसी तरह से, सरासर विरोधाभासी, जटिल और कभी-कभी हास्य और गांभीर्य की एकरंगता पाएंगे। लेकिन फिर, यह आपके लिए परीक्षित सिंह और उनकी षैली की अभिव्यंजना है! विशय वस्तु के संदर्भ में, परीक्षित की पहुँच आष्चर्यजनक है - गूढ़ प्राचीन भारतीय योग और चीनी ताओ से समकालीन ज़ेन, क्वांटम भौतिकी से चिकित्सा विज्ञान तक, वह आसानी से अर्थों और गैर-अर्थों का चित्रण करते हैं। परीक्षित के रूप उनके विसरित प्रयोगों में पारंपरिक संरचनाओं से मुक्त कविता तक, रचनात्मक हाइकू से कोआन की तरह दो पंक्तियों में, संरचित लघुकथा से लेकर नव-आधुनिक अर्ध-काव्य गद्य तक सहर्श प्रभावित करते हैं। परीक्षित भविश्य के कवि है। उनका समय भी निकट भविश्य में आने वाला ही है।",
+    about_book: "",
     category: "Fiction",
     tags: "Poetry, Indian Languages",
-    meta_descreption: "परीक्षित सिंह का 'स्वयं से परिचय' कविता संग्रह आधुनिक साहित्य में अन्वेषण, हास्य और आध्यात्मिकता का संगम है।",
+    meta_descreption:
+      "परीक्षित सिंह का 'स्वयं से परिचय' कविता संग्रह आधुनिक साहित्य में अन्वेषण, हास्य और आध्यात्मिकता का संगम है।",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -984,8 +1110,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 27,
@@ -995,14 +1122,15 @@ export const masterData = [
     price: 350,
     isbn10: "",
     isbn13: "9788193853108",
-    amazonlink: "https://www.amazon.in/There-Was-Girl-Loved-Once/dp/8193853105/ref=sr_1_1_mod_primary_new?crid=",
+    amazonlink:
+      "https://www.amazon.in/There-Was-Girl-Loved-Once/dp/8193853105/ref=sr_1_1_mod_primary_new?crid=",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "17.8 x 12.7 x 0.6 cm",
     pages: "54",
-    AuthorInfo:"",
-    about_book:"",
+    AuthorInfo: "",
+    about_book: "",
     category: "Fiction",
     tags: "Poetry",
     meta_descreption: "",
@@ -1022,8 +1150,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 28,
@@ -1033,17 +1162,21 @@ export const masterData = [
     price: 995,
     isbn10: "",
     isbn13: "9789392209062",
-    amazonlink: "https://www.amazon.in/Hindutva-Origin-Evolution-Aravindan-Neelakandan/dp/9392209061/ref=sr_1_1?crid=",
+    amazonlink:
+      "https://www.amazon.in/Hindutva-Origin-Evolution-Aravindan-Neelakandan/dp/9392209061/ref=sr_1_1?crid=",
     flipkartlink: "",
     binding: "PB",
     language: "English",
     dimension: "22.9 x 15.4 x 5.5 cm",
     pages: "798",
-    AuthorInfo:"Aravindan Neelakandan is currently a contributing editor for Swarajya magazine. He has worked for more than a decade with the Natural Resources Development Project of Vivekananda Kendra (VK- nardep). He has authored books on sustainable agricultural technologies and traditional knowledge systems in Tamizh. He has co-authored Breaking India with Rajiv Malhotra.",
-    about_book:"A Magisterial work by Neelakandan to understand what Hindutva actually is and stands for.' - Dr. Vikram Sampath 'I have long admired Aravindan Neelakandan as one of the very few Indian thinkers who appreciate and acknowledge Western-derived science and modernity, while simultaneously remaining authentically grounded in Hindu tradition. There have been many books on the history of Hinduism and Hindutva, but this one is different, and significant, because it (correctly) takes a step back and identifies that our current situation is part of a global bio-psycho-sociological churn, something playing out over millennia, far beyond the lifespans of any one individual or organization or state. Aravindan, at his core, is a nature-lover and a scientist, and it is this perspective that suffuses this book and makes it special. While there is plenty of ground-breaking content within this expansive, encyclopedic book, I believe the sections on the neurobiological connections of Hindu meditative and ritual practice, which tie the history of Hinduism to the broader evolutionary inheritance of the human species, are going to be very impactful in the years to come.' - Dr Anand Venkatraman Neuroscientist",
+    AuthorInfo:
+      "Aravindan Neelakandan is currently a contributing editor for Swarajya magazine. He has worked for more than a decade with the Natural Resources Development Project of Vivekananda Kendra (VK- nardep). He has authored books on sustainable agricultural technologies and traditional knowledge systems in Tamizh. He has co-authored Breaking India with Rajiv Malhotra.",
+    about_book:
+      "A Magisterial work by Neelakandan to understand what Hindutva actually is and stands for.' - Dr. Vikram Sampath 'I have long admired Aravindan Neelakandan as one of the very few Indian thinkers who appreciate and acknowledge Western-derived science and modernity, while simultaneously remaining authentically grounded in Hindu tradition. There have been many books on the history of Hinduism and Hindutva, but this one is different, and significant, because it (correctly) takes a step back and identifies that our current situation is part of a global bio-psycho-sociological churn, something playing out over millennia, far beyond the lifespans of any one individual or organization or state. Aravindan, at his core, is a nature-lover and a scientist, and it is this perspective that suffuses this book and makes it special. While there is plenty of ground-breaking content within this expansive, encyclopedic book, I believe the sections on the neurobiological connections of Hindu meditative and ritual practice, which tie the history of Hinduism to the broader evolutionary inheritance of the human species, are going to be very impactful in the years to come.' - Dr Anand Venkatraman Neuroscientist",
     category: "Non-Fiction",
     tags: "Society & Social Sciences, Politics & Governance, Religion & Spirituality",
-    meta_descreption: "Neelakandan's magisterial work offers a profound understanding of Hindutva, blending science, tradition, and evolutionary insights.",
+    meta_descreption:
+      "Neelakandan's magisterial work offers a profound understanding of Hindutva, blending science, tradition, and evolutionary insights.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -1060,8 +1193,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 29,
@@ -1071,17 +1205,22 @@ export const masterData = [
     price: 995,
     isbn10: "",
     isbn13: "9789392209154",
-    amazonlink: "https://www.amazon.in/Life-INDUSTANI-Six-Degrees-Separation/dp/9392209150/ref=sr_1_1?crid=",
-    flipkartlink: "https://www.flipkart.com/life-of-an-industani/p/itm57b80df01ae36?pid=9789392209154&lid=",
+    amazonlink:
+      "https://www.amazon.in/Life-INDUSTANI-Six-Degrees-Separation/dp/9392209150/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/life-of-an-industani/p/itm57b80df01ae36?pid=9789392209154&lid=",
     binding: "HB",
     language: "English",
     dimension: "23.5 x 16 x 4.7 cm",
     pages: "575",
-    AuthorInfo:"The book is a whirlwind journey through critical events in India's 1980s and 90s, narrated in an honest, exhilarating and self-deprecating manner. It offers a unique perspective for Young India, as the author is a military history writer with vast exposure to various parts of the subcontinent. The book's brutal honesty and its cinematic unfolding of events will captivate the reader. The author was raised in an Army family and had a formative childhood shaped by his mother and schooling at St. Joseph's Academy and Doon School. He later graduated from Madras Christian College and worked with Tiger Tops Mountain Travel before becoming a journalist, filmmaker, and writer. He has produced classic films and authored books, including the Northeast Trilogy and two books about wars. Currently working on a Value Education Program for schools to bring India to Indians.",
-    about_book:"The book is a Force 12 hurricane, dropping only to a 10 gale now and then, for it sweeps one along breathlessly from incident to incident, place to place, name to name. From the arresting prologue itself, the book is brutally honest, exhilarating and even self-deprecating. It is a story that most of Young India must read, for it provides an incredible ring-side view to critical events in the 1980s and 90s that shaped the destiny of the nation. The author’s subsequent credentials as a military history writer, his earlier works and his vast exposure to virtually every part of the subcontinent, place him in a unique position to paint scenario after scenario where the reader is completely mesmerised by the cinematic unfolding of events. Which genre does this book fit into? This autobiography, however, doesn’t depend on his earlier works for its literary place: it is sui generis, defiant of classification. The nearest one can come to is to call it a thriller in the garb of a life story in the first person - for it is Shiv Kunal’s life story. And it reads like a thriller because it is incredible; the more so, because it is wholly true. His being the son of a distinguished general from a famous regiment may have helped, but not all army brats, however exalted, have this devil’s own luck. It is the kind of life most only dream of, and very few (if any) have the good fortune to live and write about.",
+    AuthorInfo:
+      "The book is a whirlwind journey through critical events in India's 1980s and 90s, narrated in an honest, exhilarating and self-deprecating manner. It offers a unique perspective for Young India, as the author is a military history writer with vast exposure to various parts of the subcontinent. The book's brutal honesty and its cinematic unfolding of events will captivate the reader. The author was raised in an Army family and had a formative childhood shaped by his mother and schooling at St. Joseph's Academy and Doon School. He later graduated from Madras Christian College and worked with Tiger Tops Mountain Travel before becoming a journalist, filmmaker, and writer. He has produced classic films and authored books, including the Northeast Trilogy and two books about wars. Currently working on a Value Education Program for schools to bring India to Indians.",
+    about_book:
+      "The book is a Force 12 hurricane, dropping only to a 10 gale now and then, for it sweeps one along breathlessly from incident to incident, place to place, name to name. From the arresting prologue itself, the book is brutally honest, exhilarating and even self-deprecating. It is a story that most of Young India must read, for it provides an incredible ring-side view to critical events in the 1980s and 90s that shaped the destiny of the nation. The author’s subsequent credentials as a military history writer, his earlier works and his vast exposure to virtually every part of the subcontinent, place him in a unique position to paint scenario after scenario where the reader is completely mesmerised by the cinematic unfolding of events. Which genre does this book fit into? This autobiography, however, doesn’t depend on his earlier works for its literary place: it is sui generis, defiant of classification. The nearest one can come to is to call it a thriller in the garb of a life story in the first person - for it is Shiv Kunal’s life story. And it reads like a thriller because it is incredible; the more so, because it is wholly true. His being the son of a distinguished general from a famous regiment may have helped, but not all army brats, however exalted, have this devil’s own luck. It is the kind of life most only dream of, and very few (if any) have the good fortune to live and write about.",
     category: "Non-Fiction",
     tags: "'Biography, Autobiography, & True Accounts', Military & Defence",
-    meta_descreption: "Shiv Kunal's gripping autobiography offers a thrilling, candid view of pivotal events in India's 1980s and 90s.",
+    meta_descreption:
+      "Shiv Kunal's gripping autobiography offers a thrilling, candid view of pivotal events in India's 1980s and 90s.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -1098,8 +1237,9 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
     id: 30,
@@ -1109,17 +1249,22 @@ export const masterData = [
     price: 695,
     isbn10: "",
     isbn13: "9789392209086",
-    amazonlink: "https://www.amazon.in/All-Stray-Dogs-Go-Heaven-ebook/dp/B0C3W3THLB/ref=sr_1_1?crid=",
-    flipkartlink: "",
+    amazonlink:
+      "https://www.amazon.in/All-Stray-Dogs-Go-Heaven-ebook/dp/B0C3W3THLB/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/all-stray-dogs-go-heaven/p/itm76865dbbdba27?pid=",
     binding: "PB",
     language: "English",
-    dimension: "",
-    pages: "413",
-    AuthorInfo:"",
-    about_book:"",
-    category: "Non-Fiction",
-    tags: "",
-    meta_descreption: "",
+    dimension: "23 x 15.5 x 3 cm",
+    pages: "540",
+    AuthorInfo:
+      "Krishna Candeth was born in Kerala. He studied English Literature at Madras University and Film making at Columbia University, New York. He has made short films and documentaries, and his poetry has been published in England and the United States. All Stray Dogs Go to Heaven is his first novel. He now lives in Colombia.",
+    about_book:
+      "Nitya is haunted by the pronouncement that he has “forgotten to live.” He leaves Suvastu, his childhood home, and the obsessive, matriarchal world of the Ammalkans to embark on journeys that will bring him in contact with the mercurial Umi whose life is vitalized by a strange discovery; Purusha, the revolutionary, who believes self-awareness must always be translated into action; the eccentric Govi who dreams of the red clouds of Jupiter; Aniyathi, whose attempt to build a life of her own is overtaken by violence and grief; and, most crucially of all, Chinma, the charismatic “guru” who seeks siddhis or psychic powers. A world of mango and biryani lovers, ghosts and philosophers, music and theyyams and calamitous natural disasters. A world full of stories about the secret worlds we inhabit. Stories that happened a long time ago and will most certainly happen again. Told from multiple perspectives and weaving past and present, dreams and reality, All Stray Dogs Go to Heaven is an astounding debut novel by Krishna Candeth. This unforgettable story explores the power of love, friendship, family, and the elusive idea of home, and compels us to revisit our own ideas of truth, the self and reality.",
+    category: "Fiction",
+    tags: "Action & Adventure",
+    meta_descreption:
+      "In 'All Stray Dogs Go to Heaven,' Nitya's journey unfolds through vibrant characters and rich tales, exploring love, truth, and the essence of home.",
     meta_title: "",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
@@ -1136,15 +1281,1319 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
-    id: 21,
+    id: 31,
+    title: "GRIT TO GLORY",
+    publish_year: 2023,
+    author: "Brig B.S. Mehta",
+    price: 895,
+    isbn10: "",
+    isbn13: "9789392209291",
+    amazonlink:
+      "https://www.amazon.in/GRIT-GLORY-Brig-B-Mehta/dp/9392209290/ref=sr_1_1?crid=G58XOF3OT7HC&dib=",
+    flipkartlink: "",
+    binding: "HB",
+    language: "English",
+    dimension: "23.6 x 16 x 2 cm",
+    pages: "214",
+    AuthorInfo:
+      "Brigadier B.S. Mehta comes from an illustrious military family, with four brothers having fought in the War of 1971. Commissioned into 45 CAVALRY in 1966, he later raised the 13 Armoured Regiment. He has served in all the Strike Corps and also an Infantry and Mountain Division with distinction. He has worked on deputation with the Cabinet Secretariat. He took premature retirement in 1998 to serve as Director with the Government of Gujarat. He ran the first course for retiring defence personnel at the Entrepreneurship Development Institute, Ahmedabad in 2000, which became the forerunner for similar courses run by Indian Institutes of Management. He spent the next 16 years in Higher Education to finally demit as Vice Chancellor of Maharishi University of Management and Technology in 2016. Post retirement, he works as an advisor to Gujarat-based NGOs helping families and dependents of martyrs.",
+    about_book:
+      "Raising a regiment is like riding bareback. The struggle is harder; the sweat, toil and tears unending. The reward is confidence in our own abilities, an understanding and respect for the esprit de corps of the cavalry, and regimental pride.’ From the annals of Indian military history comes the glorious tale of the raising of 13 Armoured Regiment — India’s only armoured regiment raised with a unique class composition of Sikh, Rajput and South Indian Classes. Brigadier Balram Singh Mehta, a veteran of the 1971 war, was reverted from RAW by General A.S. Vaidya, then Chief of Army Staff, to raise 13 AR. The regiment was raised in December 1984, in the aftermath of Operation Blue Star, a time of national turmoil and security concerns in India. Through an engaging narrative, this book weaves together the many personal and professional challenges undertaken by the unit’s officers and its first commandant, Brigadier B.S. Mehta, for the unit to be declared fit for war and assigned to an infantry division. In January 1987 while two of its squadrons participated in the Republic Day Parade at New Delhi and Allahabad, 13 AR was mobilized at short notice and inducted into a Strike RAPID Formation deployed in the desert for Exercise Brasstacks under General Hanut Singh. Pakistan’s nervous response led to President Zia-ul-Haq deploying his Army Reserves opposite Punjab, creating a warlike situation that led to a moment of truth for the leadership in politics, diplomacy and the armed forces of both nations.",
+    category: "Non-Fiction",
+    tags: "Military & Defence, 'Biography, Autobiography, & True Accounts'",
+    meta_descreption:
+      "Raising 13 Armoured Regiment tells the inspiring story of India's unique cavalry unit, blending bravery, challenges, and pride.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 32,
+    title: "Bharat ke Janjatiya Krantiveer-PB",
+    publish_year: 2023,
+    author: "Dhaval Patel",
+    price: 395,
+    isbn10: "",
+    isbn13: "9789392209222",
+    amazonlink:
+      "https://www.amazon.in/Bharat-Janjatiya-Krantiveer-PB-Dhaval-Patel/dp/9392209223/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/bharat-ke-janjaatiya-krantiveer-swatantrata-sangram-ki-75-unsuni-kahaniyaan/p/itmf5221887c7e46?pid=9789392209222&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "23.6 x 16.1 x 2.9 cm",
+    pages: "289",
+    AuthorInfo:
+      "श्री धवल पटेल ढोडिया-पटेल जनजाति से आने वाले युवा नेता है। उनका पैतृक गांव चीखली, नवसारी है और वर्तमान मैं सूरत शहर में उनका निवास स्थान है। उन्होंने इंजीनियरिंग का अभ्यास एसवीएनआईटी (SVNIT), सूरत कॉलेज से किया है। पुणे शहर की सिम्बायोसिस इांस्टीट्यूट ऑफ बिजनेस मैनेजमेंट कॉलेज से उन्होंने MBA की डिग्री प्राप्त की है।उन्हें इन्फॉमेशन टेक्नोलॉजी (IT) और कंसल्टेंसी क्षेत्र में 12 साल का अनुभव प्राप्त है। इस दौरान उन्होंने देश व विदेश मैं भी काम किया है। इसके आलावा वह एक कॉलमीनेस्ट भी है और वह पब्लिक पॉलिसी, अर्थव्यवस्था विषय पर 100 से अधिक आर्टिकल्स लिख चुके है। इसके अलावा धवल टेलीविजन और चर्चा मैं हिस्सा लेते रहते हैं। वर्तमान में धवल पटेल भारतीय जनता पार्टी की इकाई अनुसूचित जनजातीय मोर्चा से जुडे हुए हैं। वह पिछले 15 माह से भाजपा अनुसूचित जनजातीय मोर्चा के राष्ट्रीय सोशल मीडिया प्रभारी के रूप में अपना दायित्व निभा रहे हैं।वह जनजाति समाज की समस्या और उनके मुद्दों को प्रमुखता से उठाते हैं । वह जनजाति समाज की सांस्कृतिक विरासत और उनके इतिहास को जिवंत रखने का और लोगोां को अवगत कराने की दिशा में भी कार्य कर रहे हैं। जनजाति समाज का भारतीय स्वतंत्रता मैं दिए गए योगदान को सबके समक्ष रखने हेतु उन्होंने यह पुस्तक भी लिखी है।",
+    about_book:
+      "भारतवर्ष को दासता के चंगुल से मुक्त कराने व स्वराज की स्थापना करने के लिए देश के असंख्य वीर सेनानियों व क्रांतिकारियों ने अपना जीवन भारत माता के चरणों में समर्पित किया है। किन्तु दुर्भाग्यवश, उनमें से बहुत-से योद्धा ऐसे हैं, जिन्हे मानक इतिहास पुस्तकों में किसी कारणवश उनका यथोचित स्थान नहीं मिल सका। यह बात देश के विभिन्न जनजातीय समुदायों से आने वाले क्रांतिवीरों के योगदान के विषय में और भी सटीकता से लागू होती है। यह पुस्तक ऐसे ही जनजातीय क्रान्ततवीरों की अल्पज्ञात अमरगाथाओं का यशोगान कर उन्हें जनसामान्य के समक्ष रखने एक छोटा-सा प्रयास है। अदम्य साहस, अतुलनीय शौर्य व अटूट स्वाभिमान से भरी ये कथाएँ न केवल ज्ञानवर्धक हैं, अपितु सभी देशवासियों के लिए महान प्रेरणास्रोत भी हैं। यह पुस्तक मातृभूमि के प्रति निष्ठा व अपने पराक्रम से क्रांति की ज्वाला को अनवरत प्रज्वलित रखने वाले तथा स्वाधीनता की यज्ञवेदी पर अपने प्राणों को होम कर देने वाले महान् जनजातीय क्रान्ततवीरों के प्रति एक विनम्र श्रद्धासुमन है।",
+    category: "Non-Fiction",
+    tags: "'Biography, Autobiography, & True Accounts', Society & Social Sciences, Indian Languages",
+    meta_descreption:
+      "यह पुस्तक अनसुने जनजातीय क्रांतिकारियों की वीरगाथाएँ प्रस्तुत करती है, जो स्वराज की स्थापना के लिए समर्पित रहे।",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 33,
+    title: "Bharat ke Janjatiya Krantiveer-HB",
+    publish_year: 2023,
+    author: "Dhaval Patel",
+    price: 695,
+    isbn10: "",
+    isbn13: "9789392209161",
+    amazonlink:
+      "https://www.amazon.in/Bharat-Janjatiya-Krantiveer-PB-Dhaval-Patel/dp/9392209223/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/bharat-ke-janjaatiya-krantiveer-swatantrata-sangram-ki-75-unsuni-kahaniyaan/p/itmf5221887c7e46?pid=9789392209222&lid=",
+    binding: "HB",
+    language: "English",
+    dimension: "23.6 x 16.1 x 2.9 cm",
+    pages: "289",
+    AuthorInfo:
+      "श्री धवल पटेल ढोडिया-पटेल जनजाति से आने वाले युवा नेता है। उनका पैतृक गांव चीखली, नवसारी है और वर्तमान मैं सूरत शहर में उनका निवास स्थान है। उन्होंने इंजीनियरिंग का अभ्यास एसवीएनआईटी (SVNIT), सूरत कॉलेज से किया है। पुणे शहर की सिम्बायोसिस इांस्टीट्यूट ऑफ बिजनेस मैनेजमेंट कॉलेज से उन्होंने MBA की डिग्री प्राप्त की है।उन्हें इन्फॉमेशन टेक्नोलॉजी (IT) और कंसल्टेंसी क्षेत्र में 12 साल का अनुभव प्राप्त है। इस दौरान उन्होंने देश व विदेश मैं भी काम किया है। इसके आलावा वह एक कॉलमीनेस्ट भी है और वह पब्लिक पॉलिसी, अर्थव्यवस्था विषय पर 100 से अधिक आर्टिकल्स लिख चुके है। इसके अलावा धवल टेलीविजन और चर्चा मैं हिस्सा लेते रहते हैं। वर्तमान में धवल पटेल भारतीय जनता पार्टी की इकाई अनुसूचित जनजातीय मोर्चा से जुडे हुए हैं। वह पिछले 15 माह से भाजपा अनुसूचित जनजातीय मोर्चा के राष्ट्रीय सोशल मीडिया प्रभारी के रूप में अपना दायित्व निभा रहे हैं।वह जनजाति समाज की समस्या और उनके मुद्दों को प्रमुखता से उठाते हैं । वह जनजाति समाज की सांस्कृतिक विरासत और उनके इतिहास को जिवंत रखने का और लोगोां को अवगत कराने की दिशा में भी कार्य कर रहे हैं। जनजाति समाज का भारतीय स्वतंत्रता मैं दिए गए योगदान को सबके समक्ष रखने हेतु उन्होंने यह पुस्तक भी लिखी है।",
+    about_book:
+      "भारतवर्ष को दासता के चंगुल से मुक्त कराने व स्वराज की स्थापना करने के लिए देश के असंख्य वीर सेनानियों व क्रांतिकारियों ने अपना जीवन भारत माता के चरणों में समर्पित किया है। किन्तु दुर्भाग्यवश, उनमें से बहुत-से योद्धा ऐसे हैं, जिन्हे मानक इतिहास पुस्तकों में किसी कारणवश उनका यथोचित स्थान नहीं मिल सका। यह बात देश के विभिन्न जनजातीय समुदायों से आने वाले क्रांतिवीरों के योगदान के विषय में और भी सटीकता से लागू होती है। यह पुस्तक ऐसे ही जनजातीय क्रान्ततवीरों की अल्पज्ञात अमरगाथाओं का यशोगान कर उन्हें जनसामान्य के समक्ष रखने एक छोटा-सा प्रयास है। अदम्य साहस, अतुलनीय शौर्य व अटूट स्वाभिमान से भरी ये कथाएँ न केवल ज्ञानवर्धक हैं, अपितु सभी देशवासियों के लिए महान प्रेरणास्रोत भी हैं। यह पुस्तक मातृभूमि के प्रति निष्ठा व अपने पराक्रम से क्रांति की ज्वाला को अनवरत प्रज्वलित रखने वाले तथा स्वाधीनता की यज्ञवेदी पर अपने प्राणों को होम कर देने वाले महान् जनजातीय क्रान्ततवीरों के प्रति एक विनम्र श्रद्धासुमन है।",
+    category: "Non-Fiction",
+    tags: "'Biography, Autobiography, & True Accounts', Society & Social Sciences, Indian Languages",
+    meta_descreption:
+      "यह पुस्तक अनसुने जनजातीय क्रांतिकारियों की वीरगाथाएँ प्रस्तुत करती है, जो स्वराज की स्थापना के लिए समर्पित रहे।",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 34,
+    title: "The Battle For IITs",
+    publish_year: 2023,
+    author: "Rajiv Malhotra, Vijaya Viswanathan",
+    price: 250,
+    isbn10: "",
+    isbn13: "9789392209314",
+    amazonlink:
+      "https://www.amazon.in/Battle-IITs-Rajiv-Malhotra/dp/9392209312/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/the-battle-for-iits/p/itm30969330599b7?pid=9789392209314&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "21.6 x 14.1 x 1 cm",
+    pages: "149",
+    AuthorInfo:
+      "Rajiv Malhotra is a researcher and public intellectual on civilizational studies, world religions, and crosscultural encounters. He was trained initially as a physicist and then as a computer scientist specializing in artificial intelligence in the 1970s. After a successful corporate career in the USA, he became an entrepreneur and founded and ran several IT companies across twenty countries. Since the early 1990s, as the founder of his nonprofit Infinity Foundation (Princeton, USA), he has been researching civilizations from a historical, social sciences, and mind sciences perspectives. He has authored several bestselling books, which have impacted leading intellectuals worldwide. Rajiv also serves as the chairman of the board of governors of the Center for Indic Studies at the University of Massachusetts, Dartmouth, and is on the advisory board of the Indian Institute of Advanced Studies, Shimla. Vijaya Viswanathan is a mechanical engineer by training and holds an MBA from the Wharton Business School. After a successful corporate career in manufacturing and finance based in the USA, Singapore, and Europe, she turned her focus to education. As she embarked on a homeschooling journey with her children, she gained deep insights into the relevance of Indic knowledge systems in modern education. Vijaya is active in initiatives that focus on curricula, pedagogy, and mentoring. As a student under Swami Dayananda Saraswati of Arsha Vidya Gurukulam, Vijaya studied Vedanta as well as dharmic and civilizational thought. She serves on the board of Infinity Foundation.",
+    about_book:
+      "This book is part of a series that started with the flagship Snakes in the Ganga: Breaking India 2.0 in September 2022. The present volume focuses on the American project led by Harvard University to dismantle the Indian Institutes of Technology (IITs) and other institutions of excellence in India, by claiming that they propagate structural casteism. While it is beyond the scope of this book to discuss in detail Marxism, Postmodernism and other European intellectual movements of the last 150 years, the fact is that these movements have influenced what has culminated in this current battle against the IITs. Simply put, we will show that: The IITs are under attack. There are legal implications of this attack. It has severe consequences for the IITs, its students and faculty, India, and engineering education. The consequences of this attack will follow the IIT engineer and other tech professionals to their workplace anywhere in the world. Harvard’s Woke machinery is behind this attack and we need to understand the sophistication that backs it. Our evidence-based rebuttal gives IITians and other engineers the toolkit to tackle false accusations of being casteist bigots. We end with a call to action by IITians and other stakeholders.",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Law & Public Policy, Politics & Governance",
+    meta_descreption:
+      "This book examines the American-led campaign to dismantle India's IITs, revealing its roots in global intellectual movements and its far-reaching consequences.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 35,
+    title: "Varna Jati Caste",
+    publish_year: 2023,
+    author: "Rajiv Malhotra, Vijaya Viswanathan",
+    price: 250,
+    isbn10: "",
+    isbn13: "9789392209345",
+    amazonlink:
+      "https://www.amazon.in/Varna-Jati-Caste-Rajiv-Malhotra/dp/9392209347/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/varna-jati-caste/p/itm3aaa862df72f7?pid=9789392209345&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "21.6 x 14.1 x 1.1 cm",
+    pages: "149",
+    AuthorInfo:
+      "Rajiv Malhotra is a researcher and public intellectual on civilizational studies, world religions, and crosscultural encounters. He was trained initially as a physicist and then as a computer scientist specializing in artificial intelligence in the 1970s. After a successful corporate career in the USA, he became an entrepreneur and founded and ran several IT companies across twenty countries. Since the early 1990s, as the founder of his nonprofit Infinity Foundation (Princeton, USA), he has been researching civilizations from a historical, social sciences, and mind sciences perspectives. He has authored several bestselling books, which have impacted leading intellectuals worldwide. Rajiv also serves as the chairman of the board of governors of the Center for Indic Studies at the University of Massachusetts, Dartmouth, and is on the advisory board of the Indian Institute of Advanced Studies, Shimla. Vijaya Viswanathan is a mechanical engineer by training and holds an MBA from the Wharton Business School. After a successful corporate career in manufacturing and finance based in the USA, Singapore, and Europe, she turned her focus to education. As she embarked on a homeschooling journey with her children, she gained deep insights into the relevance of Indic knowledge systems in modern education. Vijaya is active in initiatives that focus on curricula, pedagogy, and mentoring. As a student under Swami Dayananda Saraswati of Arsha Vidya Gurukulam, Vijaya studied Vedanta as well as dharmic and civilizational thought. She serves on the board of Infinity Foundation.",
+    about_book:
+      "Caste is being used as a major weapon to shame Hindus. This crisp and easy primer presents a powerful counter to Western Universalism's harsh attacks on caste. It is a long over-due toolkit to help all open-minded people gain an understanding of the subtleties of Hinduism's complex social order. This social structure has, after all, produced a civilization with unparalleled diversity. The Vedic world view along with the historical journey of Varna and Jati demolishes the prevailing myths about caste. Myths that are demolished in this book",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Law & Public Policy, Politics & Governance",
+    meta_descreption:
+      "This primer counters Western attacks on caste, offering insights into Hinduism's social order and debunking prevalent myths.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 36,
+    title: "The Power of Future Machines",
+    publish_year: 2023,
+    author: "Rajiv Malhotra, T. N. Sudarshan, Manogna Sastry",
+    price: 750,
+    isbn10: "",
+    isbn13: "9789392209338",
+    amazonlink:
+      "https://www.amazon.in/Power-Future-Machines-Rajiv-Malhotra/dp/9392209339/ref=sr_1_1_mod_primary_new?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/power-future-machines/p/itm371cb22eefaec?pid=",
+    binding: "HB",
+    language: "English",
+    dimension: "23.9 x 15.9 x 2.4 cm",
+    pages: "278",
+    AuthorInfo:
+      "Rajiv Malhotra is a best-selling author of fourteen major critically acclaimed, path-breaking books. Known for challenging the established wisdom in fields as diverse and inspiring as civilizations, cross-cultural encounters, co nsciou snes s, and a rtificial intelligence, he combines his life-journey as a technocrat, an entrepreneur, and spiritual explorer, formulating new frameworks and paradigms to bring ancient knowledge into the present context. His writings have impacted intellectuals worldwide and provoke our comfort zones. Over the past half century, Rajiv’s work has straddled across the USA and India, and he is equally at home in both places. He heads the Princeton-based Infinity Foundation. Manogna Sastry is a M.Sc. from the Indian Institute of Astrophysics with a strong background in theoretical physics and mathematics. She is currently the research team leader at Infinity Foundation. Her research spans astrophysics, Indology focused on chronology and desacralization, civilizational studies, consciousness studies focused on Sri Aurobindo, sustainability, and education. She brings scientific rigor to analyses of civilizational studies and rethinking of historical constructs from non-dominant viewpoints. Her work has been published in several peer-reviewed journals and presented at conferences. Manogna is a passionate sustainability practitioner, and in her previous role, focused on pedagogies of learning and inquiry.",
+    about_book:
+      "The Power of Future Machines is a collection of essays by experts exploring the future impact of Artificial Intelligence in various fields of human endeavor. Building upon the dialectical and analytical framework provided in the book Artificial Intelligence and the Future of Power: 5 Battlegrounds, experts from various fields (military, geopolitics, strategic affairs, physics, policy, and others) engage and describe for a wider audience the potential impact of AI. Given their specific vantage points and deriving from their areas of expertise, this anthology makes for a fascinating read. The essays discuss how AI will affect policy making, both in narrow areas of expertise as well as its effect on humanity at large. Aimed at policy makers, experts and a broader audience, these varied perspectives on AI add something vital to the current skewed AI discourse. Anthology by experts exploring the future impact of Artificial Intelligence in various fields of human endeavor.",
+    category: "Non-Fiction",
+    tags: "Science & Technology, Society & Social Sciences",
+    meta_descreption:
+      " 'The Power of Future Machines' features essays by experts on AI's potential impact across fields, enriching the dialogue on technology's role in society",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 37,
+    title: "OF NEWTONS AND APPLES",
+    publish_year: 2023,
+    author: "ABHISHEK KUMAR",
+    price: 350,
+    isbn10: "",
+    isbn13: "9789392209246",
+    amazonlink:
+      "https://www.amazon.in/NEWTONS-APPLES-Abhishek-Kumar/dp/939220924X/ref=sr_1_1_mod_primary_new?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/of-newtons-and-apples/p/itm5b48d63f19e2e?pid=9789392209246&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "21.5 x 14 x 1.1 cm",
+    pages: "163",
+    AuthorInfo:
+      "He is the Principal at the Army Institute of Management, Kolkata. He teaches courses on leadership, brand management, philosophy of language and philosophy of cities. In his writings he generally explores the fertile spaces between personalities and disciplines, as can be seen in his articles on Gaston Bachelard, Roland Barthes and Herbert Marcuse. His doctoral thesis on the in-betweenness of Human Resources (HR) and marketing helped him in developing a scale to measure brand personality.",
+    about_book:
+      "Evocatively titled, Of Newtons and Apples: Insights into 50 Great Minds in Human History does exactly what it promises. It gives us a glimpse into the professional and personal lives of 50 great personalities whose names, in some cases, are a part of everyday conversation, while in others, they are familiar names about whom we know little. Just the way the falling of an apple led to major discoveries by Newton, this work tries to identify sources of the genius of the personalities across human history. These men and women were either creators or those who redefined the course of history in their field of work. Interestingly, each article focuses on a major achievement and one aspect of their personal lives. Such sharpness makes the articles short, engaging and, in many cases, poetic. The classification of personalities into Building, Doing and Thinking gives us new eyes to look at them once again and debate within ourselves, the fuzzy boundaries that exist between these three primary human activities.",
+    category: "Non-Fiction",
+    tags: "'Biography, Autobiography, & True Accounts', Science & Technology",
+    meta_descreption:
+      "'Of Newtons and Apples' offers engaging insights into 50 influential figures, blending their achievements with personal stories to inspire new perspectives.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 38,
+    title: "PROBASIR GOLPO (BENGALI)",
+    publish_year: 2023,
+    author: "Bimal Chakravarty",
+    price: 250,
+    isbn10: "9789392209307",
+    isbn13: "",
+    amazonlink: "",
+    flipkartlink: "",
+    binding: "HB",
+    language: "English",
+    dimension: "22.6 x 15.7 x 1.7 cm",
+    pages: "298",
+    AuthorInfo:
+      "The author, Bimal Chakravartty, was born in Kashi, where he spent his adolescent years. However, since his father was with the Indian Railways, he has lived in many parts of India as well. He lost his father at a very young age, and thus, his career took up a greater part of his youth. He never gave up what he liked, though - reading. Reading books written by Bankim Chandra Chattopadhyay, Rabindra Nath Tagore, Bibutibhushan Bandyopadhyay, and others has always fascinated and intrigued him. Currently, he resides in Noida, where he spends time both reading classics and writing some himself as well. He is, what many would say, a probashi Bengali - one who is not from Kolkata. But, his command over the language and his expressions and thoughts are all very much a reflection of the 'City of Joy'. Probashir Golpo Shongroho, his second book, the first being his autobiography, Jana Awjanar Majhe, is as, if not more, poetic, soulful, and warm as his first novel was.",
+    about_book:
+      "When suave writing is interwoven with simplicity, then we get a book like Probashir Golpo Shongroho. A collection of 21 stories from the author of the much-appreciated autobiography, Jana Awjanar Majhe, they peek into the author’s life, his thoughts, and his soul. The stories are layered beauties – how else would you explain a horror story speaking of ‘sorry is still so tough to say’ or the tale of how the author had gotten saved from many neardeath experiences talking subtly about ‘when the Lord protects us, we can defy death’. Each story is not more than three to four pages long, but the music that he plays with the words, moving from one note to another, surprising the reader with the unexpected, shows the deftness of the author’s writing skills. He might be a fan of the stalwarts of Bengali literature, but he, himself, is definitely one too.",
+    category: "Non-Fiction",
+    tags: "'Biography, Autobiography, & True Accounts', Indian Languages",
+    meta_descreption:
+      "'Probashir Golpo Shongroho' is a captivating collection of 21 stories blending simplicity and depth, revealing the author's life and insights.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 39,
+    title: "SYMBOLS AND PARABLES",
+    publish_year: 2023,
+    author: "Dr. Alok Pandey",
+    price: 295,
+    isbn10: "",
+    isbn13: "9789392209376",
+    amazonlink:
+      "https://www.amazon.in/SYMBOLS-PARABLES-Dr-Alok-Pandey/dp/9392209371/ref=sr_1_1?dib=",
+    flipkartlink:
+      "https://www.flipkart.com/symbols-and-parables/p/itm08e5166755d46?pid=9789392209376&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "21.5 x 13.9 x 0.7 cm",
+    pages: "122",
+    AuthorInfo:
+      "Dr Alok Pandey grew up in a family with rich spiritual values surrounded by myths and legends. Subsequent to his MD in Psychiatry from the Armed Forces Medical College, Pune and his service in the Indian Air Force, his childhood fascination with myths and legends needed a sound footing. It was through his spiritual journey through the Integral Yoga of Sri Aurobindo that he understood his deeper calling. Though he has written and spoken extensively on various subjects, the myths and legends of India, especially the worship of the Divine Mother, Shakti, remains closest to his heart.",
+    about_book:
+      "India is a land of stories which, apart from their age-old charm, are a simple way of communicating profound truths. This book is an attempt to bring alive some of the deepest mysteries of existence through the narrative of stories.",
+    category: "Non-Fiction",
+    tags: "Religion & Spirituality, Society & Social Sciences",
+    meta_descreption:
+      "Explore India's timeless stories that reveal profound truths and uncover the mysteries of existence through captivating narratives.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 40,
+    title: "Adyatmikta",
+    publish_year: 2023,
+    author: "Rajarshi Ranjan Nandy",
+    price: 495,
+    isbn10: "",
+    isbn13: "9789392209406",
+    amazonlink:
+      "https://www.amazon.in/Adhyatmikta-Rajarshi-Ranjan-Nandy/dp/9392209401/ref=sr_1_1?crid=",
+    flipkartlink: "",
+    binding: "PB",
+    language: "English",
+    dimension: "21.5 x 14 x 1.2 cm",
+    pages: "186",
+    AuthorInfo:
+      "Rajarshi Ranjan Nandy is an upasaka, speaker, and columnist, who also guides people interested in the practice of sadhana.",
+    about_book:
+      "Explorations into Hindu Spiritual Practices looks at the fundamental questions and issues faced by a dharmic spiritual practitioner in today's age. It guides one to navigate the spiritual path with a judicious mix of practical experience and guidance from the traditions and texts. The book also contains detailed articles on devatas in Hinduism. ABOUT THE AUTHOR Rajarshi Ranjan Nandy is an upasaka, speaker, and columnist, who also guides people interested in the practice of sadhana.",
+    category: "Non-Fiction",
+    tags: "Religion & Spirituality, Society & Social Sciences, Self-Help & Development",
+    meta_descreption:
+      "Explore Hindu spiritual practices with guidance on modern challenges, traditions, and devatas from expert Rajarshi Ranjan Nandy.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 41,
+    title: "Building Beyond Infra",
+    publish_year: 2023,
+    author: "Akhilesh Srivastava",
+    price: 499,
+    isbn10: "",
+    isbn13: "9789392209468",
+    amazonlink:
+      "https://www.amazon.in/Building-Beyond-Evolution-Construction-Industry/dp/9392209460/ref=sr_1_1_mod_primary_new?crid=",
+    flipkartlink: "",
+    binding: "PB",
+    language: "English",
+    dimension: "22.5 x 14.20 x 2.20 cm",
+    pages: "213",
+    AuthorInfo:
+      "Akhilesh Srivastava Akhilesh Srivastava is globally renowned as a Digital Technology leader and Mobility Expert. He has been rated as one of the 51 most impactful global leaders of smart cities for his path-breaking citizen-centric digital initiatives and e-governance reforms. He headed the implementation one of most successful digital programs of India, FASTag, the electronic toll collection system that has revolutionized the Indian highway and logistic sector. After the successful implementation of FASTag, he is now working with the world's leading organizations, the World Economic Forum, International Road Federation, and McKinsey & Co solving more considerable social challenges using technology such as 'Technology-driven Road Safety 2.0', Greener Mobility, Electric Vehicles, Digitalisation of Construction Industry and Intelligent Transportation Systems. An eloquent speaker, prolific reader, and writer, he is popular on social media and loves to share his knowledge through his books, articles, and talks on various forums. His earlier books on integrating IR-4.0 technology in construction were among the bestselling books.",
+    about_book:
+      "Artificial Intelligence (AI) is no longer confined to science fiction. Al has infiltrated the mainstream and is the new electricity for businesses. In this book, the best-selling author, strategic business advisor, and renowned futurist, Akhilesh Srivastava, shows you how to harness and integrate technologies with the construction industry. This book gives an insight on how to grow infrastructure business using technology. The book presents real-world Artificial Intelligence trends and their potential to organizational success. You can correlate how to integrate the existing advancements, and also plan for those on the way, to prepare your company for the unimaginable power of Artificial intelligence applications that are driving success, now and into the future.",
+    category: "Non-Fiction",
+    tags: "Science & Technology, 'Economics, Finance, Business & Management'",
+    meta_descreption:
+      "Discover how to leverage AI in the construction industry with insights from futurist Akhilesh Srivastava for business success.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 42,
+    title: "PURVYAM",
+    publish_year: 2023,
+    author: "Abhishek Talwar",
+    price: 599,
+    isbn10: "",
+    isbn13: "9789392209413",
+    amazonlink:
+      "https://www.amazon.in/Purvyam-Abhishek-Talwar/dp/939220941X/ref=sr_1_1?crid=",
+    flipkartlink: "",
+    binding: "PB",
+    language: "English",
+    dimension: "22 x 14.20 x 1.40 cm",
+    pages: "345",
+    AuthorInfo:
+      "Abhishek is a certified environmentalist, road – tripper, Indophile and history buff. His fascination for Indian history and way of life is reflected in his writing. Along with his wife Ritika, he is the co – founder of Biplob World, where he creates content to educate children about sustainability and Indian history through entertaining stories. These stories feature characters created by him, like Biplob the Bumblebee, the first ever eco – warrior superhero and Detective Col. Zorawar (Zoro to his friends). Abhishek lives in Mumbai with his wife, daughter and son.",
+    about_book:
+      "Purvyam is a fantasy fiction novel based in the pre – Ramayan era. It is the story of Vadhrika, who is on a quest to wipe out humanity from the face of the earth. He is driven by the belief (layered over multiple lifetimes) that the end of the earth (Pralay) is hastened due to human greed and lust. Ultimately, all of nature’s creations pay the price for this, as is evident in the world today. Hence, his simple solution for this is that humans must be wiped off the face of earth. The rulers of earth come together to try and thwart Vadhrika’s ambitions. Along the way, they have their own fears, hopes, greed and ambitions to deal with.",
+    category: "Fiction",
+    tags: "Historical & Mythological Fiction, Action & Adventure",
+    meta_descreption:
+      "Join Vadhrika on a quest to end humanity in 'Purvyam,' a fantasy novel set in the pre-Ramayan era, exploring greed and nature's wrath.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 43,
+    title: "Completing Vyasa’s Mahabharta",
+    publish_year: 2023,
+    author: "Abhinav Agarwal",
+    price: 699,
+    isbn10: "",
+    isbn13: "9789392209451",
+    amazonlink: "",
+    flipkartlink:
+      "https://www.flipkart.com/completing-vyasas-mahabharta-67-upakathas-modern-readers/p/itm3895f9505dc7f?pid=9789392209451&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "20.3 x 25.4 x 4.7 cm",
+    pages: "464",
+    AuthorInfo:
+      "Abhinav Agarwal lives in Bangalore with his wife and two children. He holds a bachelor’s degree in computer engineering from Mumbai University and is a gold medallist from the Indian Institute of Management, Bangalore. He is the author of a fiction thriller, Predators and Prey. Completing the Vyasa Mahabharata is his second book.",
+    about_book:
+      "Embedded within the primary narrative of the Mahabharata lie numerous sub-tales known as upakhyaanas or upakathas. These lesser known stories play a vital role in completing the grand tapestry of the Mahabharata, thus giving this book its apt title. Unlike verse translations found in unabridged versions, the 67 upakathas presented here serve a different purpose. While they may appear as diversions, these narratives serve as vital threads, connecting the text and offering answers to lingering questions that readers may have. For instance, why did Ambaa, the princess of Kaashi, become the catalyst for Bheeshma’s demise in a later life? The Ambaa upakhyaana holds the answers. Similarly, the stories of Sage Parashuraama reveal why a brahmana like him possessed warrior-like qualities. Two upakhyaanas shed light on this enigma. Additionally, the Yayaati upakhyaana elucidates the reasons behind the Kurus descending from Puru, Yayaati’s youngest son, rather than the eldest. Moreover, the intriguing dialogue between Duryodhana and Shalya, where Duryodhana persuades Shalya to become Karna’s charioteer, is also explored in these Upakathas.",
+    category: "Fiction",
+    tags: "Historical & Mythological Fiction",
+    meta_descreption:
+      "Explore the hidden narratives of the Mahabharata in this book, revealing vital connections and insights through 67 upakathas",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 44,
+    title: "HINDUS IN HINDU RASHTRA(ENG)",
+    publish_year: 2023,
+    author: "Anand Ranganathan",
+    price: 399,
+    isbn10: "",
+    isbn13: "9789392209475",
+    amazonlink:
+      "https://www.amazon.in/Rashtra-Eighth-Class-Citizens-Sanctioned-Apartheid/dp/9392209479/ref=sr_1_fkmr0_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/hindus-hindu-rashtra/p/itm09ea92fab07e1?pid=RBKGUZHVGBKTEQPD&lid=",
+    binding: "HB",
+    language: "English",
+    dimension: "20.3 x 25.4 x 4.7 cm",
+    pages: "152",
+    AuthorInfo:
+      "Anand Ranganathan is a scientist and an author. He has written three books, all novels: The Land of the Wilted Rose, For Love and Honour, and The Rat Eater, Souffle. His forthcoming book is on India's forgotten scientists. Hindus in Hindu Rashtra is his first non-fiction book.",
+    about_book:
+      "To those who claim we are now living in a totalitarian, fascist, Hindu Rashtra, one must ask: What kind of a Hindu Rashtra is this where a billion-strong Hindus have been, through our parliament, through our courts, our education system, and our constitution, reduced to not just second-class but, rather, eighth-class citizens? What kind of Hindu Rashtra is this where Ram Navami, Hanuman Jayanti, Durga pooja processions, and even Garba celebrations, are attacked and stoned with impunity? What kind of Hindu Rashtra is this where a sitting Prime minister says minorities have the first right to resources? What kind of Hindu Rashtra is this where Hindus are forced to be refugees in their own land, where one can settle 40,000 Rohingya Muslims but not 700,000 Kashmiri Hindus, the land’s original inhabitants; where the judiciary says it is too late to prosecute those who raped, murdered, and ethnically cleansed lacs of Hindus? What kind of Hindu Rashtra is this where Hindu temples are exclusively controlled by the State, where Hindus must beg for Waqf land to celebrate their festival while the government usurps hundreds of thousands of acres of temple land and is responsible for more than 100,000 temples losing lakhs of crores in rental income? What kind of Hindu Rashtra is this where the Right to Education Act discriminates only against Hindus and their schools, forcing tens of thousands of them to shut down? What kind of Hindu Rashtra is this where monsters like Aurangzeb and Tipu who perpetrated large-scale Hindu genocides are eulogised through State sponsored publications, naming of roads and cities, and organising of festivals? What kind of Hindu Rashtra is this where a law was about to be enacted through with only the Hindus would have been held guilty in a communal riot even if they were in a minority for example in Kashmir? What kind of Hindu Rashtra is this where court judgments like the Sabarimala and legislative enactments like the Hindu Code Bill purport to reform only Hindu religious practices but dare not touch practices of other religions, and if they do, the decisions are promptly reversed like in the Shah Bano case? What kind of Hindu Rashtra is this where The Places of Worship Act continues to deny the Hindus their legitimate right to correct historical injustices and reclaim thousands of demolished temples? What kind of Hindu Rashtra is this where the Waqf Act gives overarching powers to Muslims to declare a 1500-year-old Hindu temple to be on Islamic land when Islam is only 1300 years old? If this is how a Hindu is rewarded in a Hindu Rashtra, he’d much rather be in a Muslim Rashtra because then at least there’d be no pretence of equality - a Kafir will get what he deserves. In this searing commentary penned with clinical precision, the author shreds to smithereens once and for all the guilt-tripping, self-loathing fake narrative that Hindus have been duped with since Independence. There is no pretence, no political correctness, only unvarnished truth – that the Hindus are living under State-sanctioned Apartheid.",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Politics & Governance, Law & Public Policy, Religion & Spirituality",
+    meta_descreption:
+      "Explore the paradox of a 'Hindu Rashtra' where Hindus face systemic discrimination, revealing a truth beyond pretense.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 45,
+    title: "INVADERS AND INFIDELS- BOOK 2",
+    publish_year: 2023,
+    author: "Sandeep Balakrishna",
+    price: 699,
+    isbn10: "",
+    isbn13: "9789392209499",
+    amazonlink:
+      "https://www.amazon.in/Invaders-Infidels-Book-Sandeep-Balakrishna/dp/9392209495/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/invaders-infidels-book-2/p/itm23c0b6cf82db1?pid=9789392209499&lid=",
+    binding: "HB",
+    language: "English",
+    dimension: "20.3 x 25.4 x 4.7 cm",
+    pages: "275",
+    AuthorInfo:
+      "Sandeep Balakrishna is a veteran writer, author, editor, speaker and independent researcher with about 20 years of writing on Indian history, culture, literature and temples. During this period, he has authored over 900 articles, essays, critiques, academic papers and delivered lectures on numerous topics related to these themes at institutions like the Indian Council of Philosophical Research, IIM Bangalore, Sri Aurobindo Society, Shree Somanath Sanskrit University, Bangalore University and Amrita University, to name a few. He writes in both English and Kannada. His articles, columns and research papers have appeared in prestigious journals, newspapers and magazines in both print and digital format. Sandeep is the author of the bestselling books Tipu Sultan: The Tyrant of Mysore, which has been widely referenced and quoted in mainstream publications and television programmes, and Madurai Sultanate: A Concise History. He is also the author of the critically acclaimed work, 70 Years of Secularism: Unpopular Essays on the Unofficial Political Religion of India. He has also translated the legendary Kannada novelist Dr S.L. Bhyrappas critically acclaimed work Aavarana into English, as Aavarana: The Veil, which is now in its twelfth reprint. Sandeep is the founder and editor of The Dharma Dispatch, an online journal dedicated to Indian civilisation, culture and history, and a contributing editor at Prekshaa Journ",
+    about_book:
+      "When QUTUB-UD-DIN AIBAK died in a polo game 1210, he had left behind a rickety, fledgling Muslim kingdom in Delhi. For the next eighty-odd years, its fortunes swayed wildly, witnessing a record twelve kings. It was a period of incessant palace coups and serial political murders. The death of Balban extinguishes the so-called Muslim Slave dynasty and with it ends the short-lived Turkic Muslim imperialism. It also heralds the ascent of the Afghanistan-based Khaljis, classed as “low-born.” A straight line connects the origin of the Khaljis with the military airport built by the US in Zabul in 2006. By this time, Hindu political power in northern India is in total disarray with no unifying leader who has the vision to combat and expel the alien oppressor lodged in Delhi. No Hindu ruler exploits the repeated openings and vulnerabilities provided by internecine Sultanate warfare. Book 2 of Invaders and Infidels traces the unlikely rise of Jalal-ud-din Khalji as an ill-suited monarch and ends with the maiden Islamic raid of Devagiri, the gateway to southern India. The incident will have far-reaching consequences for the history of India for the next six hundred years. It is a heady tale of a period rife with bloody intrigues, aggressive campaigns of Islamic expansionism, heroic wars of Hindu resistance and squandered chances for civilizational reclamation. The narrative in this book is marked by a flair of vivid historical storytelling, juxtaposing the oscillating fortunes of both Islamic conquests and the ensuing Hindu responses. It unearths a slew of eye-opening and forgotten details about the socio-political and economic life of the era whose impact is visible even today. Written in a fast-paced and engaging style, Book 2 of Invaders and Infidels is a riveting read of a critical juncture in the history of early Muslim rule of India.",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Politics & Governance",
+    meta_descreption:
+      "Uncover the turbulent rise of the Khaljis and the struggle for Hindu resistance in this gripping historical narrative.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 46,
+    title: "SOBHA SINGH ARTIST",
+    publish_year: 2023,
+    author: "HIRDAY PAUL SINGH",
+    price: 799,
+    isbn10: "",
+    isbn13: "9789392209369",
+    amazonlink:
+      "https://www.amazon.in/Sobha-Singh-Artist-Life-Legacy/dp/9392209363/ref=sr_1_1?crid=",
+    flipkartlink: "",
+    binding: "PB",
+    language: "English",
+    dimension: "22.8 x 15.8 x 1.9 cm",
+    pages: "312",
+    AuthorInfo:
+      "Hirday Paul Singh is a communication professional with more than 36 years of diverse experience in Public Relations, Journalism and Communication. His mission is to preserve and propagate art, life, and philosophy of his grandfather Sobha Singh Artist. This book is his humble effort to present a simple biography of the eminent artist with some glimpses of his art and philosophy. Dr Singh also has an abiding interest in preserving and popularizing Kangra folk art and culture.",
+    about_book:
+      "The magic of eminent artist Sardar Sobha Singh continues to live even after his death in the year 1986.. Despite an uneasy childhood, Sobha Singh rose to a widely loved and respected artist with innumerable admirers in India and several other countries. A man of vision, Sobha Singh was a versatile genius.. Though a renowned artist, several other facets of his persona have mostly remained unknown. This biography records the life of the artist besides providing some glimpses of his art. This book is an extension of the author’s mission to preserve and propagate art and the philosophy of his grandfather Sobha Singh Artist so that with the passage of time facts are not replaced with unsubstantiated matter.",
+    category: "Non-Fiction",
+    tags: "Biography, Autobiography, & True Accounts",
+    meta_descreption:
+      "Discover the inspiring life and art of Sardar Sobha Singh, a revered artist whose legacy continues to enchant the world.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 47,
+    title: "The Never-dying Fire",
+    publish_year: 2023,
+    author: "Luc Venet",
+    price: 699,
+    isbn10: "",
+    isbn13: "9789392209659",
+    amazonlink:
+      "https://www.amazon.in/Never-dying-Fire-Life-Thought-Aurobindo/dp/9392209657/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/never-dying-fire/p/itm7e58e409792ac?pid=9789392209659&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "14 x 21.6 x 1 cm",
+    pages: "292",
+    AuthorInfo:
+      "Born in Paris in 1943, Luc Venet discovered Sri Aurobindo at the time of the 1968 student uprisings in Paris. A seeker and teacher in mathematics, he soon understood that his kind of revolution was not to be found picketing in the streets of Paris. At 26, he left for Pondicherry, where he remained for several years.",
+    about_book:
+      "Little known in his own country, Sri Aurobindo was nevertheless one of the more significant personalities of 20th-century India. After studying Humanities in England, he embarked on a political struggle to challenge Britain's colonial domination over India. In 1906, he founded the newspaper Bande Mataram, laying the groundwork of India's future independence, notably through passive resistance, which was later adopted by Gandhi. But far from Gandhi's pacifism, Sri Aurobindo was convinced that freedom could only be achieved via action, and even via armed struggle. Absorbed by India's century-old wisdom, his commitment to his country was doubled by an unremitting inner spiritual quest. In 1910, Sri Aurobindo began another life in Pondicherry. In his written works, notably The Life Divine, published in 1920, he propounded an Integral Yoga describing the conditions of the The Great Passage, meant to lead to the next evolution of mankind. His work influenced and attracted disciples from around the world to his Ashram, founded in 1926, with his companion Mirra Alfassa, and later to the Auroville community, a few kilometres from Pondicherry. Through this biography, Luc Venet reveals the unfolding of Sri Aurobindo's exceptional force and opens up the path to a new evolution of humanity",
+    category: "Non-Fiction",
+    tags: "'Biography, Autobiography, & True Accounts', Society & Social Sciences",
+    meta_descreption:
+      "Explore the life of Sri Aurobindo, a key figure in India's independence and spiritual evolution, blending activism and philosophy.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 48,
+    title: "The Veda Made Simple",
+    publish_year: 2023,
+    author: "Dr. Pariksith Singh",
+    price: 699,
+    isbn10: "",
+    isbn13: "9789392209512",
+    amazonlink:
+      "https://www.amazon.in/Veda-Made-Simple-Pariksith-Singh/dp/9392209517/ref=sr_1_1_mod_primary_new?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/veda-made-simple/p/itm2768f69ce323c?pid=9789392209512&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "5.31 x 8.50 inches",
+    pages: "200",
+    AuthorInfo:
+      "Pariksith Singh, MD, is a passionate and acutely intelligent student and exponent of Hindu Dharma, and one who has been deeply engaged spiritually and intellectually with Sri Aurobindo and his Yoga for almost all his adult life. Singh is also the author of two other remarkably enlightening books on the Master and his works—Sri Aurobindo and the Literary Renaissance of India (2021) and Sri Aurobindo and Philosophy (2022). Singh’s approach and writings are uniquely personal, and not academic at all: his works, though of a commendable intellectual calibre, are permeated with bhakti-psychic devotion for the subject that he has chosen as his oeuvre: Sri Aurobindo himself.",
+    about_book:
+      "Veda Made Simple is an important book. In a strikingly clear, lucid and straightforward manner, the author reveals the rich and complex philosophy and symbolism of the Veda for anyone who is open in mind and heart to receive the wisdom of humanity’s oldest spiritual scripture. That the author does this in the light of Sri Aurobindo—inarguably among the very few who realised and lived the deepest and highest Vedic truths in their beings—makes it even more significant. This book comes at the right time too, as Indians globally begin to reawaken to their timeless Vedic and Sanatan heritage.",
+    category: "Non-Fiction",
+    tags: "Religion & Spirituality, Society & Social Sciences",
+    meta_descreption:
+      "Discover Veda Made Simple: a clear guide to Vedic wisdom, revealing deep philosophy through the insights of Sri Aurobindo.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 49,
+    title: "MODI KA BANARAS",
+    publish_year: 2023,
+    author: "Arvind Chaturvedi",
+    price: 449,
+    isbn10: "",
+    isbn13: "9789392209956",
+    amazonlink:
+      "https://www.amazon.in/Modi-Ka-Banaras-Arvind-Chaturvedi/dp/9392209959/ref=sr_1_1_mod_primary_new?crid=",
+    flipkartlink: "",
+    binding: "PB",
+    language: "English",
+    dimension: "5.31 x 8.50 inches",
+    pages: "280",
+    AuthorInfo:
+      "अरविन्द चतुर्वेदी वरिष्ठ पत्रकार हैं। विंध्याचल धाम के लिए प्रसिद्ध मिर्ज़ापुर जिले में जन्म लेने वाले अरविंद का शुरुआती समय विश्वनाथ की नगरी काशी की गलियों में बीता । बनारस हिंदू विश्वविद्यालय से मास्टर ऑफ सोशियोलॉजी की डिग्री हासिल करने के बाद अरविंद ने पत्रकारिता को अपना लिया दिल्ली पहुंचे। कई बड़े न्यूज चैनलों में काम कर चुके अरविंद इन दिनों एक प्रतिष्ठित न्यूज चैनल में काम कर रहे हैं। प्रधानमंत्री नरेंद्र मोदी पर केंद्रित 'द रियल मोदी' उनकी पहली प्रकाशित पुस्तक है, जिसे अंतरराष्ट्रीय प्रकाशक ब्लूम्सबरी ने प्रकाशित किया। 'द रियल मोदी' अब तक तीन भाषाओं - हिंदी, अंग्रेजी और गुजराती में प्रकाशित हो चुकी है। यह पुस्तक पूरे देश और दुनिया में बेस्ट सेलर रही। इस पुस्तक ने लेखक को अलग पहचान दी। हमेशा कुछ हटकर करने वाले अरविन्द की नरेंद्र मोदी पर लिखी यह दूसरी किताब है।",
+    about_book:
+      "यह सिर्फ़ पुस्तक नहीं यात्रा है । गंगा यहाँ की जीवनरेखा है । गंगा ,बाबा विश्वनाथ के बिना इस नगरी की कल्पना अधूरी है । नरेन्द्र मोदी का बनारस से चुनाव लड़ना राजनीति की असाधारण घटना है । बनारस का सामर्थ्य ,कर्तव्य को पूरी दुनिया ने देखा है ।अगर सोच लिया जाए, ठान लिया जाए, तो कुछ भी असंभव नहीं है । नरेन्द्र मोदी ने बनारस में अपने तप से चुनाव तो जीता ही, साथ ही बनारस में अपने ख़िलाफ़ की जाने वाले दूसरी पार्टी नेताओं की साज़िशो को भी विफल कर दिया । देखते ही देखते मोदी ने अपने जीत का परचम बिहार, झारखंड, बंगाल तक फहरा दिया । मोदी की जीत एवं बनारस को लेकर लिए गए फ़ैसलों की कहानी है यह पुस्तक, जिसे हमेशा याद रखा जाएगा । यह पुस्तक आपको यह भी बताएगी कि बनारस से जीत की पटकथा कैसे लिखी गई, उसकी रूपरेखा किसने तैयार की थी। अमित शाह ने वर्ष 2010 में बनारस में क्या संकल्प लिया था । जिसे पूरा करने के लिए उन्होंने ना दिन देखा ना रात । यूपी और बनारस का चुनाव जीतने के लिए अमित शाह ने राजनाथ सिंह से ऐसा क्या वचन लिया था, जिसे लेकर सबके बीच में उन्होंने कह दिया कि मैं होता तो यह वचन कभी नहीं देता। नरेंद्र मोदी ने कोविड काल के समय को ही बाबा विश्वनाथ मंदिर के कायाकल्प के लिए क्यों चुना । क्या आप को पता है कि बाबा विश्वनाथ मंदिर के लिए जमीन एकत्र करने के क्रम में जमीनों की सभी रजिस्ट्री एक विशेष समय में की गई थी। आखिर क्यों? क्या आप यह जानते हैं कि बनारस के विश्वनाथ मंदिर में कितना सोना लगा है ? एक आश्रम का तिलिस्म जिसकी जमीन को खाली करवाने में एक साल लग गया। आखिर कैसे खाली हुई वह जमीन। कैसे पीएम मोदी ने आर्किटेक्ट के पहले बने नक्शे को खारिज कर दिया था। क्योटो में ऐसा क्या है जो उसे बनारस से जोड़ देता है। मोदी ने जापान के शहर क्योटो को ही क्यों चुना? बनारस का ऐसा घाट जहां पर आप हेलीकॉप्टर से पहुंच सकते हैं। फ़्रांस के राष्ट्रपति ने बनारस में ऐसा क्या पूछ लिया, जिसकी पूरी दुनिया में चर्चा होने लगी। इन सब सवालों और जिज्ञासाओं का उत्तर आप को इस पुस्तक मोदी के बनारस में ही मिलेगा।",
+    category: "Non-Fiction",
+    tags: "'Biography, Autobiography, & True Accounts', Politics & Governance",
+    meta_descreption:
+      "मोदी के बनारस: गंगा, विश्वनाथ और चुनावी जीत की अद्भुत यात्रा। जानें बनारस की राजनीति और ऐतिहासिक फैसले।",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 50,
+    title: "India and the Changing World Order",
+    publish_year: 2023,
+    author: "S. Gurumurthy",
+    price: 799,
+    isbn10: "",
+    isbn13: "9789392209482",
+    amazonlink:
+      "https://www.amazon.in/Changing-Emerging-paradigm-changing-political/dp/9392209487/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/india-changing-world-order/p/itm2005054429234?pid=9789392209482&lid=",
+    binding: "HB",
+    language: "English",
+    dimension: "5.5 x 8.5 inches",
+    pages: "328",
+    AuthorInfo:
+      "Swaminathan Gurumurthy is highly popular as a writer and journalist in India. Celebrated for his investigative journalism, he has ceaselessly campaigned against corruption at high places, exposing the bribery in Bofors arms deal and the nexus between corporates and government. Hamish McDonald, well-known Australian journalist, wrote in his book Polyester Prince, that Gurumurthy's investigative work must rank among the most powerful examples of investigative journalism anywhere in the world, adding that Gurumurthy had a strong sense of probity. Business Baron Magazine rated Gurumurthy's knowledge of economics, finance and accounts as outstanding. In his biography on the media baron Ramnath Goenka, BG Verghese, a highly respected editor and writer, described Gurumurthy as a brilliant chartered accountant and exceedingly astute amateur lawyer. Mr. Gurumurthy is a Visiting Faculty member at IIT Bombay in the domains of Economics, Finance and Management. He is also a Distinguished Professor for Legal Anthropology in Sastra University. A chartered accountant by profession, Mr. Gurumurthy is also a corporate adviser of high standing. One of the founders of the Vivekananda International Foundation, Swaminathan Gurumurthy is also the chairman of its board of trustees.",
+    about_book:
+      "India and the Changing World breaks free from conventional boundaries, delving fearlessly into the realms of emerging civilizational, religious, and historical matters. Its purpose lies in sparking essential conversations about broader matters, such as civilizational, cultural, and social diversity issues that have been overlooked in the shaping of the post-World War II and post-Cold War global order. As the existing global order confronts unprecedented challenges, this book serves as a catalyst, fueling a discourse that captures the essence of a rapidly evolving world. Through a comparative study, the book offers fresh insights into the contrasting approaches of short-termist liberal democracies and long-termist autocratic China, shedding light on the distinctive qualities of a liberal and civilizational democracy as exemplified by India. Within its illuminating pages, you will uncover the critical challenges that Indian democracy faces, navigating the complexities of its relationship with both autocratic China and the liberal West. Additionally, the book examines the fundamental differences between market economics and market societies. It artfully unravels contemporary geopolitical, geo-economic, and geostrategic issues, offering intricate analysis of India's strategic connections with select nations and its ever-growing ties with the USA. Moreover, it dares to propose innovative solutions like astronomy-based education as a means to foster conflict resolution. With an invitation that resonates deeply, India and the Changing World Order calls upon you to partake in a discourse that reevaluates the past, contextualises the present, and ultimately shapes the trajectory of our shared future.",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Politics & Governance, Law & Public Policy",
+    meta_descreption:
+      "Explore 'India and the Changing World': a bold analysis of civilizational shifts, democracy, and India's role in a new global order",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 51,
+    title: "Gods Dancing Among Men",
+    publish_year: 2023,
+    author: "PUSHPA KURUP",
+    price: 1999,
+    isbn10: "",
+    isbn13: "9789392209727",
+    amazonlink:
+      "https://www.amazon.in/Gods-Dancing-Among-Pushpa-Kurup/dp/939220972X/ref=sr_1_1?crid=",
+    flipkartlink: "",
+    binding: "PB",
+    language: "English",
+    dimension: "8.5 X 11 inches",
+    pages: "176",
+    AuthorInfo:
+      "Pushpa Kurup is a history buff and travel enthusiast. She left a successful career in the corporate sector to pursue her passions. She lives in Trivandrum, India.",
+    about_book:
+      "Theyyam, an ancient tradition of North Malabar, is a captivating blend of folk art, religious ritual, and profound spirituality. Gods Dancing among Men: The Mystical World of Theyyams of North Malabar delves deep into the rich history of theyyam, exploring its roots and relevance in contemporary belief and worship. This book sheds light on both the luminous and shadowy facets of this tradition as well as the enigmatic grey areas that define it. Every aspect of the theyyam cult, from the vibrant and intricate costumes to the wild and transcendent dances, is fascinating. The practitioners of theyyam display astonishing abilities, including clairvoyance, prophecy, and the power to fulfil wishes. The pantheon of theyyam includes Shaivite and Vaishnavite manifestations alongside a diverse array of Bhagvathy theyyams. Popular deities such as Muthappan, Muchilot Bhagavathi, Thee Chamundi, Gulikan, Kuttichathan, and Pottan Deiyvam hold a special place in the hearts of the people. Additionally, the theyyam tradition incorporates animals into its repertoire with performances featuring monkeys, tigers, buffaloes, crocodiles, bees, and snakes. One of the most astonishing aspects of theyyam is the fearless interaction with fire. Performers nonchalantly walk on embers and even hurl themselves onto immense mounds of fire, known as meleri, repeatedly. Despite the influence of Aryanization, the sanitizing impact of British colonial rule, the teachings of social reformers, the remarkable literacy rates, and the prevalent communist ideology in the region, the sanctity of the theyyam tradition remains unblemished. Theyyams are living gods, cherished and revered by the people of North Malabar, and their blessings hold immense significance.",
+    category: "Non-Fiction",
+    tags: "Religion & Spirituality, Society & Social Sciences",
+    meta_descreption:
+      "Discover 'Gods Dancing among Men': a deep dive into the vibrant theyyam tradition of North Malabar, blending art, spirituality, and history.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 52,
+    title: "Arc of Governance",
+    publish_year: 2023,
+    author: "M.G. Devasahayam",
+    price: 799,
+    isbn10: "",
+    isbn13: "9789392209871",
+    amazonlink:
+      "https://www.amazon.in/Arc-Governance-M-G-Devasahayam/dp/9392209878/ref=sr_1_1?crid=",
+    flipkartlink: "",
+    binding: "PB",
+    language: "English",
+    dimension: "5.31 x 8.50 inches",
+    pages: "298",
+    AuthorInfo:
+      "M.G. Devasahayam is a soldier, administrator and economist with a distinguished career spanning over several decades. He has direct and first-hand experience in the working and ethos of the Indian Army, Indian Administrative Service (IAS), public and private sector, political system as well as NGOs. He fought the India–Pakistan War of 1965, participated in the counter-insurgency operations in Nagaland (1967-68) and entered the IAS in 1968. As an IAS officer, he has held key assignments in the governments of Haryana and the union territory of Chandigarh. He was a member of the Government of India High-Powered Committee on Agricultural Policy set up in 1990. He has worked in corporate, academic and voluntary sectors. Devasahayam is a prolific writer; he has written op-eds, articles and columns for several publications. He writes on democracy, governance, civil services, urban development, the economy, environment and politics. His books include India's Second Freedom: An Untold Saga (2003), JP in Jail: An Uncensored Account (2006), JP Movement, Emergency and India's Second Freedom (2011) and A Drop of Love: Memoir of Saint Teresa (2016). He has also contributed chapters in two edited volumes: Indian Democracy: Contradictions and Reconciliations (2020) and Saint Devasahayam: Sacrifice and Crown of Glory (2022). He is the editor of the book Electoral Democracy: An Inquiry into the Fairness and Integrity of Elections in India (2022). He was closely associated with Lok Nayak Jayaprakash Narayan (JP) and St Mother Teresa.",
+    about_book:
+      "Governance is a 360-degree process; this book is an arc. New India dawned on 26 May 2014 when the Union government headed by Prime Minister Narendra Damodardas Modi was sworn in by the president of the Republic of India. Its governance agenda was unveiled by the president in Parliament on 9 June 2014 with this stentorian statement: My government is dedicated to the poor…. With a firm belief that the first claim on development belongs to the poor, my government pledges itself to the principle of sabke saath, sabka vikas…. My government will function on the mantra of minimum government, maximum governance, and we will work together to re-establish the credibility of the institutions of democracy. The government got a second mandate in 2019. This book, which is a compilation of the authors articles and papers, will take the reader through different dimensions of governance, government, institutions, democracy and development critically, analysing the flavour of New India in them.",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Politics & Governance",
+    meta_descreption:
+      "Explore 'Governance Arc': a critical analysis of New India's journey under Modi, highlighting democracy, development, and institutions.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 53,
+    title: "Hindus In Hindu Rashtra (Hindi)",
+    publish_year: 2023,
+    author: "Anand Ranganathan",
+    price: 350,
+    isbn10: "",
+    isbn13: "9789392209949",
+    amazonlink:
+      "https://www.amazon.in/Arc-Governance-M-G-Devasahayam/dp/9392209878/ref=sr_1_1?crid=",
+    flipkartlink: "",
+    binding: "HB",
+    language: "Hindi",
+    dimension: "7.79 x 5.03 inches",
+    pages: "184",
+    AuthorInfo:
+      "अआनंद रंगनाथन एक विज्ञानवेत्ता और लेखक हैं। उन्होंने चार उपन्यास लिखे हैं: ‘द लैंड ऑफ़ द विल्टेड रोज’(रूपा, 2012), फॉर लव एंड ऑनर(ब्लूम्सबरी, 2015), द रैट ईटर(ब्लूम्सबरी, 2019, सह-लेखन), सौफ्ले (पेंगुइन-2023)। इंडियाज फॉरगॉटन साइंटिस्ट्स(पेंगुइन 2023, सह-लेखन) उनकी आने वाली अगली किताब है। ‘हिन्दूज इन हिन्दू राष्ट्र’ उनकी पहली कथेतर साहित्य की किताब है।",
+    about_book:
+      "जो यह दावा करते हैं कि हम एक अधिनायकवादी हिंदू राष्ट्र में रह रहे हैं उनसे यह पूछा जाना चाहिए कि यह किस प्रकार का हिंदू राष्ट्र है जहां एक अरब शक्तिशाली हिंदू यहाँ की संसद, अदालतों, शिक्षा व्यवस्था और हमारे संविधान द्वारा न सिर्फ दोयम दर्जे के नागरिक करार दिए गए हैं बल्कि उससे भी नीचे धकेल दिए गए? यह कैसा हिंदू राष्ट्र है जिसमें दुर्गा पूजा और गरबा के आयोजनों पर बेरोकटोक पत्थरबाजी की जाती है और प्रधानमंत्री की कुर्सी पर बैठा एक शख्स कहता है कि इस देश के संसाधनों पर पहला हक अल्पसंख्यकों का है? यह कैसा हिंदू राष्ट्र है जहाँ हिंदुओं को अपनी ही धरती पर शरणार्थियों की तरह रहना पड़ता है और जहाँ कोई 40 हजार रोहिंग्या मुसलमानों को तो बसा सकता है लेकिन इसी देश के धरतीपुत्र 7 लाख कश्मीरी पंडितों को नहीं और जहाँ अदालतों का कहना हैं कि हिंदुओं की हत्या, बलात्कार और जातीय संहार करने वालों पर मुकदमा चलाने के लिए अब बहुत देर हो चुकी है? यह किस तरह का हिंदू राष्ट्र है जहाँ हिंदुओं के मंदिर सरकारों के कब्जे में हैं और अपने त्यौहार मनाने के लिए हिंदुओं को वक्फ बोर्ड के सामने जमीन के लिए हाथ फैलाने पड़ते हैं? यह किस तरह का हिंदू राष्ट्र है जहाँ शिक्षा का अधिकार अधिनियम में केवल हिंदुओं के स्कूलों के साथ भेदभाव किया जाता है और उन्हें ताला लगाने को मजबूर कर दिया जाता है? यह किस तरह का हिंदू राष्ट्र है जहां औरंगज़ेब और टीपू जैसे बर्बर शासकों को लेकर सरकारी खर्चे पर प्रकाशन किए जाते हैं, सड़कों के नाम रखे जाते हैं और त्योहारों का आयोजन होता है? यह किस तरह का हिंदू राष्ट्र है जहाँ एक ऐसा कानून बिल्कुल बन ही जाने ही वाला था जिसमें केवल हिंदुओं को, जबकि वे अल्पसंख्यक थे, सांप्रदायिक दंगों के लिए दोषी ठहराया जाता जैसा कि कश्मीर में देखा गया? यह किस तरह का हिंदू राष्ट्र है जहाँ सबरीमाला प्रकरण में अदालतों के फैसले और विधायी कानून केवल हिंदुओं के धर्माचारों में सुधार के लिए किए जाएँ लेकिन दूसरे धर्म को छुआ तक न जाए और अगर ऐसा कोई करे भी, तो वहाँ शाहबानो के मामले की तरह फैसले को पलट दिया जाए? यह किस तरह का हिंदू राष्ट्र है जहाँ हिंदू पूजा स्थल अधिनियम आज भी हिंदुओं को उनके प्रति हुए ऐतिहासिक अन्यायों को दुरुस्त करने के उनके विधिसम्मत अधिकार पर रोक लगता है जबकि वक्फ एक्ट मुसलमानों को एक 1500 वर्ष पुराने हिंदू मंदिर को इस्लामी संपदा घोषित करने की अनियंत्रित शक्ति दे देता है, गो कि इस्लाम अपने आप में महज 1300 वर्ष पुराना है? अगर एक हिंदू राष्ट्र में हिंदू को इस तरह नवाजा जा रहा हो तो इससे अच्छा है कि वह एक मुस्लिम राष्ट्र में रहे क्योंकि वहाँ कम से कम बराबरी का ढोंग तो नहीं होगा, एक काफिर को वही मिलेगा जो उसे मिलना चाहिए। अपनी इस कड़वे बयान में आनंद रंगनाथन आजादी के बाद से हिंदुओं के साथ धोखेबाज़ी करने वाली ग्लानि भरी झूठी कहानी और आत्मदोषानुभूति पर एक निर्णायक प्रहार करते हुए उसे चकनाचूर कर देते हैं। यहाँ कोई स्वांग या राजनीतिक शुचिता नहीं है, अगर है तो केवल राज्य प्रायोजित नस्ल भेद की वह ठोस सच्चाई जिसके साथ हिंदू जी रहे हैं।",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Politics & Governance, Law & Public Policy, Religion & Spirituality, Indian Languages",
+    meta_descreption:
+      "आनंद रंगनाथन की किताब में जानें: क्या है असली हिंदू राष्ट्र की परिभाषा, जहां हिंदू समुदाय का हक और समानता पर सवाल है?",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 54,
+    title: "Hindus In Hindu Rashtra (Marathi)",
+    publish_year: 2023,
+    author: "Anand Ranganathan",
+    price: 350,
+    isbn10: "",
+    isbn13: "9789392209819",
+    amazonlink: "",
+    flipkartlink:
+      "https://www.flipkart.com/hindus-hindu-rashtra-marathi-edition/p/itm95361ea20e90b?pid=9789392209819&lid=",
+    binding: "HB",
+    language: "Marathi",
+    dimension: "7.79 x 5.03 inches",
+    pages: "184",
+    AuthorInfo:
+      "Anand Ranganathan is a scientist and an author. He has written three books, all novels: The Land of the Wilted Rose (Rupa, 2012), For Love and Honour (Bloomsbury, 2015), and The Rat Eater (Bloomsbury, 2019; co-authored). Soufflé is his fourth novel. His next book is on India's forgotten scientists (Penguin, 2023; co-authored).",
+    about_book:
+      "To those who claim we are now living in a totalitarian, fascist, Hindu Rashtra, one must ask: What kind of a Hindu Rashtra is this where a billion-strong Hindus have been, through our parliament, through our courts, our education system, and our constitution, reduced to not just second-class but, rather, eighth-class citizens? What kind of Hindu Rashtra is this where Ram Navami, Hanuman Jayanti, Durga pooja processions, and even Garba celebrations, are attacked and stoned with impunity? What kind of Hindu Rashtra is this where a sitting Prime minister says minorities have the first right to resources? What kind of Hindu Rashtra is this where Hindus are forced to be refugees in their own land, where one can settle 40,000 Rohingya Muslims but not 700,000 Kashmiri Hindus, the land’s original inhabitants; where the judiciary says it is too late to prosecute those who raped, murdered, and ethnically cleansed lacs of Hindus? What kind of Hindu Rashtra is this where Hindu temples are exclusively controlled by the State, where Hindus must beg for Waqf land to celebrate their festival while the government usurps hundreds of thousands of acres of temple land and is responsible for more than 100,000 temples losing lakhs of crores in rental income? … If this is how a Hindu is rewarded in a Hindu Rashtra, he’d much rather be in a Muslim Rashtra because then at least there’d be no pretence of equality - a Kafir will get what he deserves. In this searing commentary penned with clinical precision, the author shreds to smithereens once and for all the guilt-tripping, self-loathing fake narrative that Hindus have been duped with since Independence. There is no pretence, no political correctness, only unvarnished truth – that the Hindus are living under State-sanctioned Apartheid. About The Author- Anand Ranganathan is a scientist and an author. His forthcoming book is on Indias forgotten scientists. Hindus in Hindu Rashtra is his first non-fiction book.",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Politics & Governance, Law & Public Policy, Religion & Spirituality, Indian Languages",
+    meta_descreption:
+      "Anand Ranganathan's 'Hindus in Hindu Rashtra' critiques the reality of Hindu identity and rights in a claimed totalitarian state.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 55,
+    title: "The Vaccine War",
+    publish_year: 2023,
+    author: "Vivek Ranjan Agnihotri",
+    price: 699,
+    isbn10: "",
+    isbn13: "9789392209741",
+    amazonlink:
+      "https://www.amazon.in/Vaccine-War-Vivek-Ranjan-Agnihotri/dp/9392209746/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/the-vaccine-war/p/itm74524bd74dfe8?pid=9789392209741&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "5.31 x 8.50 inches",
+    pages: "328",
+    AuthorInfo:
+      "Vivek Ranjan Agnihotri is a national award–winning filmmaker, bestselling author and freethinker. He was an advertising man before switching gear and becoming a filmmaker. He is popular among the masses and speaks on various socio political issues, creative thinking and innovation at top global institutes. Vivek is an Indic civilisation crusader and the recipient of several national and international awards. Vivek’s Buddha in a Traffic Jam (2016) deals with the contentious theme of urban Naxalism; the film opened with critical reviews but went on to receive a cult following. His film The Kashmir Files (2022) won the Nargis Dutt Award for Best Feature Film on National Integration at the 69th National Film Awards. His latest, The Vaccine War, hits theaters in September 2023. Vivek’s debut book, Urban Naxals, became the fastest-selling #1 bestseller. He is married to the national award–winning actor Pallavi Joshi. They run an NGO, I Am Buddha Foundation, which mentors and trains disadvantaged youth in creative thinking. They have two children.",
+    about_book:
+      "As the COVID-19 pandemic rages on, Dr Bhargava, the director general of Indian Council of Medical Research, assembles a crack team of India’s most brilliant minds, including Dr Nivedita Gupta, Dr Priya Abraham and Dr Pragya Yadav. Together they mount a mission to save humanity from the unseen enemy. The challenges they face are daunting. They must navigate the treacherous waters of international diplomacy and deal with excessive bureaucratic control. Often enough, they find themselves battling against time and misinformation fuelled by fake news. Along the way, they are forced into moral dilemmas to make life-or-death decisions that affect the nation and its people. As they work tirelessly to develop and distribute a vaccine against the deadly coronavirus that threatened to ravage India, they face opposition from foreign interests and intense scrutiny from the media. The Vaccine War is an inspiring tale of scientific ingenuity, perseverance and the triumph of the human spirit. It celebrates the heroes who fought relentlessly behind the scenes to protect their nation and offers a poignant reminder that unity and science can overcome even the most formidable challenges.",
+    category: "Fiction",
+    tags: "Arts, Film & Photography",
+    meta_descreption:
+      "In 'The Vaccine War,' a team of brilliant Indian scientists battles COVID-19, facing bureaucratic hurdles and misinformation to save lives.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 56,
+    title: "Ram Janmabhoomi",
+    publish_year: 2024,
+    author: "Rashmi Samant",
+    price: 499,
+    isbn10: "",
+    isbn13: "9789392209833",
+    amazonlink:
+      "https://www.amazon.in/Ram-Janmabhoomi-Inspiration-Hindu-Resurgence/dp/9392209835/ref=sr_1_2?crid=",
+    flipkartlink: "",
+    binding: "PB",
+    language: "English",
+    dimension: "8.50 x 5.31 inch",
+    pages: "240",
+    AuthorInfo:
+      "Rashmi Samant is an emerging young leader with fire and drive. She scripted history by becoming the first Bharatiya female president of the Oxford University Student Union. She often appears on national television debates, occasionally writes columns for prominent national dailies, and is a vocal human rights advocate for marginalised indigenous communities. Her impactful work involves collaborating with the media, think tanks, and governments. Samant’s most notable contributions to global peace include presenting in the British Parliament a comprehensive report on human rights violation against majorities. She runs a non-profit foundation called ATMAH. Her debut book, A Hindu in Oxford, became a bestseller within hours of its release. Rashmi wears many hats. Besides being a thought leader, she is an entrepreneur and the executive director of Punarnava.",
+    about_book:
+      "A civilization that forgets its struggles is condemned to repeat its mistakes and spiral into a self-destructive cycle. The battles for freedom and the resistance against occupation and atrocities all too often recede from collective memory, overshadowed by the weight of oppression and systematically orchestrated efforts to erase the Hindu identity through manipulated narratives. The sacred geography of Bharat, the cradle of Hindu dharma and the ancestral home of the Hindu people, has borne witness to relentless invasions, leaving scars on the collective psyche. The Ram Janmabhoomi movement stands as a poignant testament to the devastation inflicted upon the roots of Hindu civilization and the arduous battle to reclaim it. In an era dominated by weaponized narratives, where the perpetrators of atrocities are romanticised as victims and the victims are crowned as oppressors, this book reminds of the facts and the inconvenient truths—of the blood, sweat and tears that many Hindus shed in fighting the good fight. It is a call to ensure that every Hindu born in an age, removed from those trials and tribulations, never forgets the sacrifices made by those who went before them. For if we forget, we are complicit in normalising the obliteration of our great civilization.",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Politics & Governance, Law & Public Policy, Religion & Spirituality",
+    meta_descreption:
+      "This book urges Hindus to remember their struggles against oppression, reclaim their identity, and honor sacrifices of the past.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 57,
+    title: "Modis Governance Triump",
+    publish_year: 2024,
+    author: "Tarun Chugh",
+    price: 499,
+    isbn10: "",
+    isbn13: "9789392209970",
+    amazonlink:
+      "https://www.amazon.in/Modis-Governance-Triumph-Reshaping-Prosperity/dp/B0D63VQYPQ/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/modi-s-governance-triumph/p/itm24f5496b569b4?pid=9789392209970&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "7.79 x 5.03 inch",
+    pages: "292",
+    AuthorInfo:
+      "Tarun Chugh is one of India’s leading politicians. He is currently serving his second term as the national general secretary of the Bharatiya Janata Party. Chugh is also the party in-charge of Jammu and Kashmir, Ladakh and Telangana, besides being a mentor to the youth wing of the party. He is an erudite politician and a leading debater in the political space in India. He takes keen interest in literature and art. Chugh hails from Amritsar in Punjab. He shot to national limelight in 1999 after taking out a 2,100-km-long Yuva Chetna Yatra to awaken the youth to national duty. Chugh has risen through the ranks of the BJP from the grassroots. He is a nationalist at heart and aspires to see India emerge as an economic superpower. Chugh has been actively involved in mentoring youths and students by overseeing training programmes to groom future leaders of the country.",
+    about_book:
+      "Meticulously researched and analysed, Modi’s Governance Triumph: Reshaping India’s Path to Prosperity delves into the Modi government’s key initiatives, reforms and innovations that have left an indelible imprint on India’s socio economic and political fabric. From the ambitious ‘Make in India’ campaign to sweeping changes in the taxation system with the introduction of the goods and services tax (GST), each chapter unpacks the narrative of a leader who has redefined governance in the world’s largest democracy. The book not only examines the achievements but also critically evaluates the challenges and controversies that have marked Modi’s tenure, providing a well-rounded perspective on his leadership. It is an essential read for anyone interested in understanding changes taking place in India and the role Prime Minister Narendra Modi plays in reshaping the nation’s future.",
+    category: "Non-Fiction",
+    tags: "'Biography, Autobiography, & True Accounts', Politics & Governance",
+    meta_descreption:
+      "'Modi’s Governance Triumph' explores key reforms and challenges of Modi’s tenure, redefining India's path to prosperity.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 58,
+    title: "Compulsive Nose-Picking and Other True Tales",
+    publish_year: 2024,
+    author: "Anil Maheshwari",
+    price: 399,
+    isbn10: "",
+    isbn13: "9789392209987",
+    amazonlink:
+      "https://www.amazon.in/Compulsive-Nose-Picking-Other-True-Tales/dp/9392209983/ref=sr_1_1?crid=",
+    flipkartlink:
+      "https://www.flipkart.com/compulsive-nose-picking-other-true-tales/p/itm907a6ec90818c?pid=9789392209987&lid=",
+    binding: "PB",
+    language: "English",
+    dimension: "8.50 x 5.31 inch",
+    pages: "214",
+    AuthorInfo:
+      "The septuagenarian Anil Maheshwari segued through the rough and tumble of journalism for five decades before superannuating from Hindustan Times as a special correspondent. He has twice been a short-term fellow at Aligarh Muslim University. He has written about a dozen books and is proficient in English and Hindi with a smattering of Urdu. He has contributed to various magazines and newspapers, including the Economic and Political Weekly and Frontier.",
+    about_book:
+      "Compulsive Nose-Picking and Other True Tales is a collection of short stories that touches upon subjects ranging from love to loss to survival and unbelievable coincidences, including some wild ones. The anecdotes, written in an accessible style and laced with dollops of humor, are sure to inform, entertain and inspire readers.",
+    category: "Fiction",
+    tags: "Short Stories & Anthologies",
+    meta_descreption:
+      "'Compulsive Nose-Picking' is a humorous collection of short stories about love, loss, survival, and wild coincidences.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 59,
+    title: "Waiting for Shiva",
+    publish_year: 2024,
+    author: "Vikram Sampath",
+    price: 699,
+    isbn10: "",
+    isbn13: "9788196737597",
+    amazonlink:
+      "https://www.amazon.in/Waiting-Shiva-Unearthing-Truth-Kashis/dp/B0CPVSW5HG/ref=sr_1_1?crid=",
+    flipkartlink: "",
+    binding: "HB",
+    language: "English",
+    dimension: "20.3 x 25.4 x 4.7 cm",
+    pages: "328",
+    AuthorInfo:
+      "Dr Vikram Sampath is a historian based in Bangalore. He is the author of eight acclaimed books including Splendours of Royal Mysore: The Untold Story of the Wodeyars, Voice of the Veena: S. Balachander, Women of the Records and Indian Classical Music and the Gramophone, 1900–1930. His twovolume biography of V.D. Savarkar, Savarkar: Echoes from a Forgotten Past, 1881–1924, and Savarkar: A Contested Legacy, 1924–1966, and his latest book, Bravehearts of Bharat: Vignettes from Indian History, have gone on to become national bestsellers.In 2021, Vikram was elected a fellow of the prestigious Royal Historical Society. He was awarded the Sahitya Akademi’s first Yuva Puraskar in English literature and the ARSC International Award for excellence in historical research in New York for his book My Name Is Gauhar Jaan: The Life and Times of a Musician. The book has been adapted for a play, Gauhar, by Lillette Dubey. He was among four writers and artists selected as writersinresidence at the Rashtrapati Bhawan in 2015. Vikram has a doctorate in history and music from the University of Queensland, Australia, and was a senior research fellow at the Nehru Memorial Museum and Library, New Delhi (2017–2019). He was also a fellow of Aspen Global Leadership Network and Eisenhower Fellowships 2020 and a visiting fellow at the Wissenschaftskolleg zu Berlin in 2010. Currently, he is an adjunct senior fellow at Monash University, Australia. He has an engineering and mathematics degree from BITS Pilani with an MBA in finance from S.P. Jain Institute of Management and Research, Mumbai. Vikram is also a trained Carnatic vocalist. He established the Foundation for Indian Historical and Cultural Research to promote original, primary source–based research on Indian history and the Archive of Indian Music, India’s first digital sound archive for vintage recordings. He is the founderdirector of the Bangalore Literature Festival and curates the ZEE Group’s cultural fest, Arth. Dr Vikram Sampath is a historian based in Bangalore. He is the author of eight acclaimed books including Splendours of Royal Mysore: The Untold Story of the Wodeyars, Voice of the Veena: S. Balachander, Women of the Records and Indian Classical Music and the Gramophone, 1900–1930. His twovolume biography of V.D. Savarkar, Savarkar: Echoes from a Forgotten Past, 1881–1924, and Savarkar: A Contested Legacy, 1924–1966, and his latest book, Bravehearts of Bharat: Vignettes from Indian History, have gone on to become national bestsellers In 2021, Vikram was elected a fellow of the prestigious Royal Historical Society. He was awarded the Sahitya Akademi’s first Yuva Puraskar in English literature and the ARSC International Award for excellence in historical research in New York for his book My Name Is Gauhar Jaan: The Life and Times of a Musician. The book has been adapted for a play, Gauhar, by Lillette Dubey. He was among four writers and artists selected as writersinresidence at the Rashtrapati Bhawan in 2015. Vikram has a doctorate in history and music from the University of Queensland, Australia, and was a senior research fellow at the Nehru Memorial Museum and Library, New Delhi (2017–2019). He was also a fellow of Aspen Global Leadership Network and Eisenhower Fellowships 2020 and a visiting fellow at the Wissenschaftskolleg zu Berlin in 2010. Currently, he is an adjunct senior fellow at Monash University, Australia. He has an engineering and mathematics degree from BITS Pilani with an MBA in finance from S.P. Jain Institute of Management and Research, Mumbai. Vikram is also a trained Carnatic vocalist. He established the Foundation for Indian Historical and Cultural Research to promote original, primary source–based research on Indian history and the Archive of Indian Music, India’s first digital sound archive for vintage recordings. He is the founderdirector of the Bangalore Literature Festival and curates the ZEE Group’s cultural fest, Arth. Turn on screen reader support To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slashVaibhav Saxena has joined the document.",
+    about_book:
+      "Few places in the world carry the heavy burden of history as effortlessly as Kashi, or Varanasi, has. The holy city embodies the very soul of our civilization and personifies the resilience that we have displayed over centuries in the face of numerous adversities and fatal attacks. Waiting for Shiva: Unearthing the Truth of Kashi’s Gyan Vapi recreates the history, antiquity and sanctity of Kashi as the abode of Bhagwan Shiva in the form of Vishweshwara, or Vishwanath. Shiva himself assured his devotees of salvation if they leave their mortal coils in the city. The book delves into the history of this selfmanifested swayambhu jyotirlinga shrine of Vishweshwara, which for centuries has been both a refuge for the devout and a target of the bloodiest waves of iconoclasm. However, each time an attempt was made to obliterate the temple by demolishing it, it managed to rise and prosper. Every iconoclastic storm was followed by an episode of persistence, tenacity and stubborn resolve. Shrines fell and shrines rose, but the Hindus of Kashi never gave up—not even once. Waiting for Shiva documents these cataclysmic events in the temple’s history. The final death blow was dealt in 1669 by the Mughal despot Aurangzeb, who demolished the temple and erected few domes on the partially destroyed western wall to call it a mosque. The temple complex was desecrated and left strewn with ruins as a grim reminder of the humiliation and insult that Hindus had to face as a consequence of their holiest shrine being torn down to smithereens. The area that is now called the Gyan Vapi mosque and the surrounding land that lies adjacent to the new temple of Vishwanath, which came up towards the end of the 18th Century, has always been one of intense contestation. Bloody riots overran Varanasi over this issue multiple times in the past. During the colonial era, the doors of the British courts were knocked at to settle the occupancy issue, and they adjudicated the matter several times. PostIndependence, too, the desire to ‘liberate’ the complex has been seething in the Hindu imagination. A new suit filed in 2021 before the Varanasi civil court reopened a longfestering historical wound. Despite several appeals right up to the Supreme Court to dismiss the plaint, a survey by the Archaeological Survey of India (ASI) was ordered, which would lay bare the truth in its findings by the end of 2023. Vikram Sampath’s latest offering retraces the long history of this bitterly disputed site and the dramatic twists and turns in the checkered past of this hoary shrine. Piecing together numerous documents and accounts—Vedic and Puranic texts, Sanskrit literary sources, Agama shastras, Jataka tales, Persian accounts, travelogues of foreigners, archival records and copious legal documents detailing the contestation from the British era to modern Indian courts—the book recreates, for the first time with facts and cogent arguments, this stormy history right up to the present times. The longsuppressed secrets that lay hidden in Gyan Vapi finally finds a voice through this book.",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Politics & Governance, Law & Public Policy, Religion & Spirituality",
+    meta_descreption:
+      "'Waiting for Shiva' uncovers Kashi's rich history, resilience, and the ongoing contest over the Gyan Vapi site, blending ancient texts with modern struggles.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 60,
+    title: "SNAKES IN THE GANGA (PB)",
+    publish_year: 2024,
+    author: "Rajiv Malhotra",
+    price: 799,
+    isbn10: "",
+    isbn13: "9788196737504",
+    amazonlink: "",
+    flipkartlink: "",
+    binding: "PB",
+    language: "English",
+    dimension: "9.21 x 6.06 inch",
+    pages: "692",
+    AuthorInfo:
+      "Rajiv Malhotra is a researcher and public intellectual on civilizational studies, world religions, and crosscultural encounters. He was trained initially as a physicist and then as a computer scientist specializing in artificial intelligence in the 1970s. After a successful corporate career in the USA, he became an entrepreneur and founded and ran several IT companies across twenty countries. Since the early 1990s, as the founder of his nonprofit Infinity Foundation (Princeton, USA), he has been researching civilizations from a historical, social sciences, and mind sciences perspectives. He has authored several bestselling books, which have impacted leading intellectuals worldwide. Rajiv also serves as the chairman of the board of governors of the Center for Indic Studies at the University of Massachusetts, Dartmouth, and is on the advisory board of the Indian Institute of Advanced Studies, Shimla. Vijaya Viswanathan is a mechanical engineer by training and holds an MBA from the Wharton Business School. After a successful corporate career in manufacturing and finance based in the USA, Singapore, and Europe, she turned her focus to education. As she embarked on a homeschooling journey with her children, she gained deep insights into the relevance of Indic knowledge systems in modern education. Vijaya is active in initiatives that focus on curricula, pedagogy, and mentoring. As a student under Swami Dayananda Saraswati of Arsha Vidya Gurukulam, Vijaya studied Vedanta as well as dharmic and civilizational thought. She serves on the board of Infinity Foundation.",
+    about_book:
+      "Snakes in the Ganga unveils uncomfortable truths concerning India’s vulnerabilities: Intense warfare against India’s integrity is the work of a wellorchestrated global machinery driven by a new ideology. Marxism has been reincarnated as critical race theory in US academia and serves as the framework to address America’s racism. This has been recklessly mapped on to India: Caste is equated with Race. Marginalized communities of India are considered as Blacks and Brahmins as the Whites of India. Groups claiming grievances (like Muslims and LGBTQ+) are artificially clubbed together. Popularly called the woke movement, the mission is to dismantle Indian civilization and heritage by waging an uncompromising war against India’s government, educational institutions, culture, industry, and society. Harvard University is ground zero of these social theories developed in collaboration with Indian scholars, activists, journalists, and artists. This represents a clear and present danger to India’s sovereignty and national security. Several Indian elites are hoisting Harvard as the vishwa guru with their money and family names. Some private universities within India are importing wokeism that has serious repercussions for India’s stability. Indian corporates are bringing the latest Western rubric of environmental, social, and governance ratings into their workplaces. This is aligned with the global social justice movement. China has exploited this latest infrastructure as a passage to India. Wokeism has penetrated some of the Indian government’s policies. For instance, the National Education Policy 2020 is propagating Harvard’s liberal arts. An entire ecosystem of ideologies, institutions, and young leaders is emerging for the recolonization of India. Is India for sale?",
+    category: "Non-Fiction",
+    tags: "Society & Social Sciences, Law & Public Policy, Politics & Governance",
+    meta_descreption:
+      "'Snakes in the Ganga' exposes vulnerabilities in India, revealing how global ideologies threaten its sovereignty and heritage.",
+    meta_title: "",
+    book_thumbnail: [
+      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
+      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
+    ],
+    genre: "Drama",
+    book_format: "Hardcover",
+    weight: "166 gm",
+    endorsement: [
+      "Lorem Ipsum is simply dummy",
+      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
+      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
+    ],
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
+  },
+  {
+    id: 61,
     title: "",
-    publish_year: 2022,
+    publish_year: 2024,
     author: "",
-    price: 595,
+    price: 1,
     isbn10: "",
     isbn13: "",
     amazonlink: "",
@@ -1153,8 +2602,8 @@ export const masterData = [
     language: "English",
     dimension: "",
     pages: "413",
-    AuthorInfo:"",
-    about_book:"",
+    AuthorInfo: "",
+    about_book: "",
     category: "Non-Fiction",
     tags: "",
     meta_descreption: "",
@@ -1174,15 +2623,16 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
-    id: 21,
+    id: 62,
     title: "",
-    publish_year: 2022,
+    publish_year: 2024,
     author: "",
-    price: 595,
+    price: 1,
     isbn10: "",
     isbn13: "",
     amazonlink: "",
@@ -1191,8 +2641,8 @@ export const masterData = [
     language: "English",
     dimension: "",
     pages: "413",
-    AuthorInfo:"",
-    about_book:"",
+    AuthorInfo: "",
+    about_book: "",
     category: "Non-Fiction",
     tags: "",
     meta_descreption: "",
@@ -1212,15 +2662,16 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
-    id: 21,
+    id: 63,
     title: "",
-    publish_year: 2022,
+    publish_year: 2024,
     author: "",
-    price: 595,
+    price: 1,
     isbn10: "",
     isbn13: "",
     amazonlink: "",
@@ -1229,8 +2680,8 @@ export const masterData = [
     language: "English",
     dimension: "",
     pages: "413",
-    AuthorInfo:"",
-    about_book:"",
+    AuthorInfo: "",
+    about_book: "",
     category: "Non-Fiction",
     tags: "",
     meta_descreption: "",
@@ -1250,15 +2701,16 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
-    id: 21,
+    id: 64,
     title: "",
-    publish_year: 2022,
+    publish_year: 2024,
     author: "",
-    price: 595,
+    price: 1,
     isbn10: "",
     isbn13: "",
     amazonlink: "",
@@ -1267,8 +2719,8 @@ export const masterData = [
     language: "English",
     dimension: "",
     pages: "413",
-    AuthorInfo:"",
-    about_book:"",
+    AuthorInfo: "",
+    about_book: "",
     category: "Non-Fiction",
     tags: "",
     meta_descreption: "",
@@ -1288,15 +2740,16 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
-    id: 21,
+    id: 65,
     title: "",
-    publish_year: 2022,
+    publish_year: 2023,
     author: "",
-    price: 595,
+    price: 1,
     isbn10: "",
     isbn13: "",
     amazonlink: "",
@@ -1305,8 +2758,8 @@ export const masterData = [
     language: "English",
     dimension: "",
     pages: "413",
-    AuthorInfo:"",
-    about_book:"",
+    AuthorInfo: "",
+    about_book: "",
     category: "Non-Fiction",
     tags: "",
     meta_descreption: "",
@@ -1326,15 +2779,16 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
-    id: 21,
+    id: 66,
     title: "",
-    publish_year: 2022,
+    publish_year: 2023,
     author: "",
-    price: 595,
+    price: 1,
     isbn10: "",
     isbn13: "",
     amazonlink: "",
@@ -1343,8 +2797,8 @@ export const masterData = [
     language: "English",
     dimension: "",
     pages: "413",
-    AuthorInfo:"",
-    about_book:"",
+    AuthorInfo: "",
+    about_book: "",
     category: "Non-Fiction",
     tags: "",
     meta_descreption: "",
@@ -1364,15 +2818,16 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
   {
-    id: 21,
+    id: 67,
     title: "",
-    publish_year: 2022,
+    publish_year: 2023,
     author: "",
-    price: 595,
+    price: 1,
     isbn10: "",
     isbn13: "",
     amazonlink: "",
@@ -1381,8 +2836,8 @@ export const masterData = [
     language: "English",
     dimension: "",
     pages: "413",
-    AuthorInfo:"",
-    about_book:"",
+    AuthorInfo: "",
+    about_book: "",
     category: "Non-Fiction",
     tags: "",
     meta_descreption: "",
@@ -1402,236 +2857,8 @@ export const masterData = [
       "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    Authorimage:
+      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    author_twitter: "",
   },
-  {
-    id: 21,
-    title: "",
-    publish_year: 2022,
-    author: "",
-    price: 595,
-    isbn10: "",
-    isbn13: "",
-    amazonlink: "",
-    flipkartlink: "",
-    binding: "PB",
-    language: "English",
-    dimension: "",
-    pages: "413",
-    AuthorInfo:"",
-    about_book:"",
-    category: "Non-Fiction",
-    tags: "",
-    meta_descreption: "",
-    meta_title: "",
-    book_thumbnail: [
-      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
-    ],
-    genre: "Drama",
-    book_format: "Hardcover",
-    weight: "166 gm",
-    endorsement: [
-      "Lorem Ipsum is simply dummy",
-      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
-      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
-    ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
-  },
-  {
-    id: 21,
-    title: "",
-    publish_year: 2022,
-    author: "",
-    price: 595,
-    isbn10: "",
-    isbn13: "",
-    amazonlink: "",
-    flipkartlink: "",
-    binding: "PB",
-    language: "English",
-    dimension: "",
-    pages: "413",
-    AuthorInfo:"",
-    about_book:"",
-    category: "Non-Fiction",
-    tags: "",
-    meta_descreption: "",
-    meta_title: "",
-    book_thumbnail: [
-      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
-    ],
-    genre: "Drama",
-    book_format: "Hardcover",
-    weight: "166 gm",
-    endorsement: [
-      "Lorem Ipsum is simply dummy",
-      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
-      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
-    ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
-  },
-  {
-    id: 21,
-    title: "",
-    publish_year: 2022,
-    author: "",
-    price: 595,
-    isbn10: "",
-    isbn13: "",
-    amazonlink: "",
-    flipkartlink: "",
-    binding: "PB",
-    language: "English",
-    dimension: "",
-    pages: "413",
-    AuthorInfo:"",
-    about_book:"",
-    category: "Non-Fiction",
-    tags: "",
-    meta_descreption: "",
-    meta_title: "",
-    book_thumbnail: [
-      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
-    ],
-    genre: "Drama",
-    book_format: "Hardcover",
-    weight: "166 gm",
-    endorsement: [
-      "Lorem Ipsum is simply dummy",
-      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
-      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
-    ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
-  },
-  {
-    id: 21,
-    title: "",
-    publish_year: 2022,
-    author: "",
-    price: 595,
-    isbn10: "",
-    isbn13: "",
-    amazonlink: "",
-    flipkartlink: "",
-    binding: "PB",
-    language: "English",
-    dimension: "",
-    pages: "413",
-    AuthorInfo:"",
-    about_book:"",
-    category: "Non-Fiction",
-    tags: "",
-    meta_descreption: "",
-    meta_title: "",
-    book_thumbnail: [
-      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
-    ],
-    genre: "Drama",
-    book_format: "Hardcover",
-    weight: "166 gm",
-    endorsement: [
-      "Lorem Ipsum is simply dummy",
-      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
-      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
-    ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
-  },
-  {
-    id: 21,
-    title: "",
-    publish_year: 2022,
-    author: "",
-    price: 595,
-    isbn10: "",
-    isbn13: "",
-    amazonlink: "",
-    flipkartlink: "",
-    binding: "PB",
-    language: "English",
-    dimension: "",
-    pages: "413",
-    AuthorInfo:"",
-    about_book:"",
-    category: "Non-Fiction",
-    tags: "",
-    meta_descreption: "",
-    meta_title: "",
-    book_thumbnail: [
-      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
-    ],
-    genre: "Drama",
-    book_format: "Hardcover",
-    weight: "166 gm",
-    endorsement: [
-      "Lorem Ipsum is simply dummy",
-      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
-      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
-    ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
-  },
-  {
-    id: 21,
-    title: "",
-    publish_year: 2022,
-    author: "",
-    price: 595,
-    isbn10: "",
-    isbn13: "",
-    amazonlink: "",
-    flipkartlink: "",
-    binding: "PB",
-    language: "English",
-    dimension: "",
-    pages: "413",
-    AuthorInfo:"",
-    about_book:"",
-    category: "Non-Fiction",
-    tags: "",
-    meta_descreption: "",
-    meta_title: "",
-    book_thumbnail: [
-      "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/Waiting-for-Shiva-Telugu.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/06/How-to-get-into-IAS.jpg",
-      "https://bluone.ink/wp-content/uploads/2024/07/Being-Hindu.jpg",
-    ],
-    genre: "Drama",
-    book_format: "Hardcover",
-    weight: "166 gm",
-    endorsement: [
-      "Lorem Ipsum is simply dummy",
-      "of the printing and typesetting industry. Lorem Ipsum has been the industry’s",
-      "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
-    ],
-    Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
-  },
-  
-]
+];

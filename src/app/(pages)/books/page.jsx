@@ -315,7 +315,7 @@ export default function Home() {
                               className="mt-4 text-black py-2 px-4 rounded-3xl hover:bg-[#241b6d] hover:text-white w-full"
                               onClick={resetFilters}
                             >
-                              Reset Filters
+                              Reset
                             </button>
                           </div>
                         </div>
@@ -361,9 +361,9 @@ export default function Home() {
                 >
                   <BooksCards
                     title={book.title}
-                    coverImage={book.image}
+                    coverImage={book.book_image}
                     bookPrice={book.price}
-                    authorName={author ? author.author_name : "Unknown Author"}
+                    authorName={book.author? book.author : "No Author"}
                   />
                 </Link>
               </div>
