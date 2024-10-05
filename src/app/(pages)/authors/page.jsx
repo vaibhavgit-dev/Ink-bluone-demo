@@ -113,7 +113,7 @@ export default function Home() {
                 authorName={author.author_name || 'Unknown Author'}
               />
             </Link> */}
-            <Link href={`/authors/${author.id}`}>
+            <Link href={`/authors/${author.authslug}`}>
               <AuthorsCards
                 coverImage={author.image}
                 authorName={author.author_name || 'Unknown Author'}

@@ -1,184 +1,753 @@
 export const AuthorsList = [
   {
     id: 1,
-    slug: "pariksith-singh",
-    author_name: "Pariksith Singh",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg"
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Pariksith Singh, MD, is a practicing physician of 30 years. Board Certified in Internal Medicine, he believes unsettling changes in the healthcare industry can also be transformative. “For me it is a time for remarkable opportunity, growth, and innovation,” he says. “I can look back at what I have accomplished, but also look forward in eager anticipation at what is possible.” Dr. Singh watched his organization, Access Health Care Physicians, LLC, grow from a simple, multi-service provider in 2001 to one that has multiplied in size and is now respected throughout the state of Florida. In addition to heading up this leading IPA, he has started a healthcare HMO, an ACO, and created one of the best healthcare corporate infrastructures in the business. Dr. Singh also finds time to be a published poet, philosopher, and author. His medical contributions include The Florida Guide to Prescription, Controlled Substance and Pain Medicine Laws (coauthored by Rachel Barlow, Alan Gassman, and Lester Perling), The Essential Planning Guide to 2013 Income & Estate Taxes, and Excerpts From Creditor Protection From Florida Physicians, a Comprehensive Handbook for Physicians and Their Advisors. Add to this the fictional works of Dr. Singh - The Shoreless River, Chutti Ke Din, and his favorite, Riddles for Pesky Teenagers. This is Dr. Singh’s fifth edition of A Primer in Health Care. In addition to publishing books on cutting-edge topics of interest to physicians and administrators, his organization is now a learning organization involving Graduate Medical Education residents.",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 2,
-    author_name: "Brigitte Borja de Mozota/Amland",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5Z0emAcgypnoAIiI3n2YODgqrNvzJFI3BA&s"
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Jane Smith is an up-and-coming science fiction writer with a knack for creating imaginative worlds and gripping narratives. Her debut novel, 'Echoes of Tomorrow,' was a critical success and has been nominated for several awards.",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 3,
-    author_name: "George Orwell",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
-    },
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Li Wang is a poet known for his evocative language and exploration of cultural themes. His work has been translated into several languages and featured in prominent literary journals.",
+
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
   {
     id: 4,
-    author_name: "Brig Jasbir Singh, SM",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Pv10d1_VMwATrIBDDVtVcQw2R-LMxHpamQ&s",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Miguel Garcia is a playwright whose works have been staged across the globe. His plays are known for their humor, social commentary, and thought-provoking themes.",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 5,
-    author_name: "PARTHO",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/06/Partho-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Aisha Khan is a children's book author whose stories capture the imagination of young readers. Her books are filled with whimsical characters, exciting adventures, and valuable lessons.",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 6,
-    author_name: "George Orwell",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Emily Chen is a historical fiction writer who brings forgotten stories to life. Her novels are based on extensive research and explore important events and figures from the past.",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 7,
-    author_name: "Herman Melville",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "David Kim is a mystery writer known for his intricate plots and clever twists. His novels keep readers guessing until the very end, with unexpected revelations and thrilling conclusions.",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 8,
-    author_name: "Fyodor Dostoevsky",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Olivia Taylor is a romance writer who creates heartwarming and emotionally resonant stories. Her novels explore themes of love, loss, and finding one's place in the world.",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 9,
-    author_name: "Franz Kafka",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Noah Patel is a young adult fiction writer who tackles contemporary issues with sensitivity and insight. His novels explore themes of friendship, identity, and finding one's way in the world.",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 10,
-    author_name: "Gabriel Garcia Marquez",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Ava Lee is a fantasy writer who creates immersive worlds filled with magic, adventure, and mythical creatures. Her novels are perfect for readers who love epic quests and imaginative storytelling.",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 11,
-    author_name: "Virginia Woolf",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Emily Carter is a bestselling author known for her historical fiction novels...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 12,
-    author_name: "J.D. Salinger",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "David Lee is a renowned science fiction author who has won multiple awards for his innovative works...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 13,
-    author_name: "James Joyce",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Olivia Kim is a popular romance novelist whose books have been adapted into successful movies...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 14,
-    author_name: "Marcel Proust",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Noah Patel is a rising star in the literary world, known for his thought-provoking essays and short stories...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 15,
-    author_name: "Ernest Hemingway",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Ava Lee is a celebrated fantasy author whose novels have captivated readers around the globe...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 16,
-    author_name: "Vladimir Nabokov",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Ethan Carter is a mystery writer known for his complex plots and unexpected twists...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 17,
-    author_name: "John Steinbeck",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Sophia Lee is a popular children's book author whose stories are filled with imagination and adventure...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 18,
-    author_name: "Isaac Asimov",
-    image:
-      "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Liam Kim is a critically acclaimed poet whose work explores themes of identity, loss, and hope...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 19,
-    author_name: "Kurt Vonnegut",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Avery Patel is a rising star in the literary world, known for her innovative approach to storytelling...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 20,
-    author_name: "Toni Morrison",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Lucas Lee is a bestselling author of thrillers that keep readers on the edge of their seats...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
-
   {
     id: 21,
-    author_name: "George Eliot",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Maya Carter is a renowned author of dystopian fiction, exploring themes of societal collapse and human resilience...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 22,
-    author_name: "Thomas Hardy",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Oliver Lee is a critically acclaimed author of historical fiction, bringing forgotten stories to life...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 23,
-    author_name: "Edgar Allan Poe",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Noah Kim is a rising star in the literary world, known for his innovative approach to science fiction...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 24,
-    author_name: "Oscar Wilde",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Ava Patel is a celebrated author of fantasy novels, creating immersive worlds filled with magic and adventure...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 25,
-    author_name: "Arthur Conan Doyle",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Lucas Lee is a bestselling author of thrillers that keep readers on the edge of their seats...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 26,
-    author_name: "Lewis Carroll",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Ethan Carter is a mystery writer known for his complex plots and unexpected twists...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 27,
-    author_name: "Jules Verne",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Sophia Lee is a popular children's book author whose stories are filled with imagination and adventure...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 28,
-    author_name: "Robert Louis Stevenson",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Liam Kim is a critically acclaimed poet whose work explores themes of identity, loss, and hope...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 29,
-    author_name: "H.G. Wells",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Avery Patel is a rising star in the literary world, known for her innovative approach to storytelling...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
   {
     id: 30,
-    author_name: "H.P. Lovecraft",
-    image:
-      "https://bluone.ink/wp-content/uploads/2024/08/Abhijit-Majumdar-300x400.jpg",
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Lucas Lee is a bestselling author of thrillers that keep readers on the edge of their seats...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 31,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Maya Carter is a renowned author of dystopian fiction, exploring themes of societal collapse and human resilience...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 32,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Oliver Lee is a critically acclaimed author of historical fiction, bringing forgotten stories to life...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 33,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Noah Kim is a rising star in the literary world, known for his innovative approach to science fiction...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 34,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Ava Patel is a celebrated author of fantasy novels, creating immersive worlds filled with magic and adventure...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 35,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Lucas Lee is a bestselling author of thrillers that keep readers on the edge of their seats...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 36,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Ethan Carter is a mystery writer known for his complex plots and unexpected twists...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 37,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Sophia Lee is a popular children's book author whose stories are filled with imagination and adventure...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 38,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Liam Kim is a critically acclaimed poet whose work explores themes of identity, loss, and hope...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 39,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Avery Patel is a rising star in the literary world, known for her innovative approach to storytelling...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 40,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Lucas Lee is a bestselling author of thrillers that keep readers on the edge of their seats...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 41,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Maya Carter is a renowned author of dystopian fiction, exploring themes of societal collapse and human resilience...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 42,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Oliver Lee is a critically acclaimed author of historical fiction, bringing forgotten stories to life...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 43,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Noah Kim is a rising star in the literary world, known for his innovative approach to science fiction...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 44,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Ava Patel is a celebrated author of fantasy novels, creating immersive worlds filled with magic and adventure...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 45,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Lucas Lee is a bestselling author of thrillers that keep readers on the edge of their seats...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 46,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Ethan Carter is a mystery writer known for his complex plots and unexpected twists...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 47,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Sophia Lee is a popular children's book author whose stories are filled with imagination and adventure...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 48,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Liam Kim is a critically acclaimed poet whose work explores themes of identity, loss, and hope...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 49,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Avery Patel is a rising star in the literary world, known for her innovative approach to storytelling...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
+  },
+  {
+    id: 50,
+    authslug: "pariksith-singh",
+    author_name: "Pariksith Singh", 
+    image: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
+    authorDescription:
+      "Lucas Lee is a bestselling author of thrillers that keep readers on the edge of their seats...",
+    authorSocial: [
+      "linkedin.com/in/yourprofile",
+      "facebook.com/yourprofile",
+      "instagram.com/yourprofile",
+      "youtube.com/c/yourchannel",
+      "twitter.com/yourprofile",
+    ],
   },
 ];

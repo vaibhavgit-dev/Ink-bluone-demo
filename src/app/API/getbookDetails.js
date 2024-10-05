@@ -1,3 +1,5 @@
+import { AuthorsList } from "./allAuthorList";
+
 export const BooksDetails = [
   {
     id: 1,
@@ -37,7 +39,8 @@ export const BooksDetails = [
       "text ever since the 1500s, unknown printer took a galley of type it to make a type specimen book."
     ],
     Authorimage: "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
-    author_twitter: ""
+    author_twitter: "",
+    author_slug: AuthorsList.find(author => author.id === 1)?.authslug,
   },
   
   {
@@ -77,7 +80,8 @@ export const BooksDetails = [
       "text ever since the 1500s,  unknown printer took a galley of type it to make a type specimen book. ",
     ],
     Authorimage: "https://bluone.ink/wp-content/uploads/2023/07/Abhinav-Agarwal-300x400.jpg",
-    author_twitter: ""
+    author_twitter: "",
+    author_slug: AuthorsList.find(author => author.id === 2)?.authslug,
   },
   {
     id: 3,
@@ -822,6 +826,7 @@ export const BooksDetails = [
   {
     id: 22,
     title: "CHUTTI KE DIN - HINDI POETRY",
+    slug:"chutti-ke-din-hindi-poetry",
     publish_year: 2022,
     author: "Pariksith Singh",
     price: 699,

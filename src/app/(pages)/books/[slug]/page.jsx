@@ -1,5 +1,6 @@
 "use client";
 import { BooksDetails } from "@/app/API/getbookDetails";
+import { AuthorsList } from "@/app/API/allAuthorList";
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -29,8 +30,8 @@ const testimonials = [
 ];
 
 const Page = ({ params }) => {
-  const { slug } = params; // Change from pageNo to slug
-  const bookInfo = BooksDetails.find((book) => book.slug === slug); // Find book by slug
+  const { slug } = params;
+  const bookInfo = BooksDetails.find((book) => book.slug === slug);
 
   if (!bookInfo) {
     return <div>Loading...</div>;
@@ -46,7 +47,7 @@ const Page = ({ params }) => {
       : [book.author];
     return (
       bookAuthorsArray.join(", ") === authorsArray.join(", ") &&
-      book.slug !== bookInfo.slug // Change id to slug
+      book.slug !== bookInfo.slug
     );
   });
 
@@ -237,7 +238,7 @@ const Page = ({ params }) => {
           {isReadMore ? 'Read Less' : 'Read More'}
         </p> */}
         <div className="w-full">
-        <Link href={`/authors/${bookInfo.id}`} className="text-blue-500 underline">
+        <Link href={`/authors/${bookInfo.author_slug}`} className="text-blue-500 underline">
           Visit the Author Page
         </Link>
         </div>
@@ -263,10 +264,10 @@ const Page = ({ params }) => {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {authorBooks.map((book, i) => (
               <div key={i} className="p-4">
-                <Link href={`./${book.id}`} style={{ textDecoration: "none" }}>
+                <Link href={`./${book.slug}`} style={{ textDecoration: "none" }}>
                   <BooksCards
                     title={book.title}
-                    coverImage={bookInfo.image}
+                    coverImage={book.book_image}
                     bookPrice={book.price}
                     authorName={book.author}
                   />

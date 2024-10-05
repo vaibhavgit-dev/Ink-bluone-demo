@@ -349,7 +349,7 @@ export default function Home() {
 
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 pt-8 pb-6">
           {currentBooks.map((book) => {
-            const author = getAuthorById(book.authorId);
+            const author = getAuthorById(book.author);
             return (
               <div
                 key={book.id}
