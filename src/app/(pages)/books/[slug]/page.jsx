@@ -79,7 +79,7 @@ const Page = ({ params }) => {
   <div className="slider-track flex items-center">
     {/* Duplicating thumbnails for continuous scroll */}
     {clonedThumbnails.concat(clonedThumbnails).map((thumbnail, index) => (
-      <div key={index} className="flex-none slide_item w-1/4">
+      <div key={index} className="flex-none slide_item h-[400px] object-cover">
         <img
           className="w-full object-cover"
           src={thumbnail || noImageUrl}

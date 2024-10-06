@@ -394,6 +394,7 @@ export const BooksList = [
   {
     id: 11,
     title: "Somewhere Among The Stars HB",
+    slug: "somewhere-among-the-stars-hb",  
     publish_year: 2022,
     author: "Adi Varuni",
     price: 750,
@@ -432,6 +433,7 @@ export const BooksList = [
   {
     id: 12,
     title: "Identity's Last Secret",
+    slug: "identitys-last-secret",  
     publish_year: 2022,
     author: "Dr.Makarand R. Paranjape",
     price: 1495,
@@ -470,6 +472,7 @@ export const BooksList = [
   {
     id: 13,
     title: "The Eternal Feminine",
+    slug: "the-eternal-feminine",  
     publish_year: 2021,
     author: "Dr. Alok Pandey",
     price: 699,
@@ -508,6 +511,7 @@ export const BooksList = [
   {
     id: 14,
     title: "HOP'S SPECTACULAR ADVENTURE",
+    slug: "hops-spectacular-adventure",
     publish_year: 2022,
     author: "ZAIN HASHMY",
     price: 350,
@@ -546,6 +550,7 @@ export const BooksList = [
   {
     id: 15,
     title: "How The Rainbow Got Is Colour",
+    slug: "how-the-rainbow-got-is-colour",
     publish_year: 2022,
     author: "Gaatha Shakti",
     price: 299,
@@ -584,6 +589,7 @@ export const BooksList = [
   {
     id: 16,
     title: "Confidence Cures",
+    slug: "confidence-cures",
     publish_year: 2022,
     author: "Lt.Gen.S.B.Sehajpal / Mrs. Kiran Sehajpal",
     price: 495,
@@ -622,6 +628,7 @@ export const BooksList = [
   {
     id: 17,
     title: "SrI AUROBINDO AND Philosophy HB",
+    slug: "sri-aurobindo-and-philosophy-hb",
     publish_year: 2022,
     author: "Pariksith Singh",
     price: 995,
@@ -660,6 +667,7 @@ export const BooksList = [
   {
     id: 18,
     title: "SrI AUROBINDO AND Philosophy HB",
+    slug: "sri-aurobindo-and-philosophy-hb",
     publish_year: 2022,
     author: "Pariksith Singh",
     price: 595,
@@ -698,6 +706,7 @@ export const BooksList = [
   {
     id: 19,
     title: "Snakes in the Ganga",
+    slug: "snakes-in-the-ganga",  
     publish_year: 2022,
     author: "Rajiv Malhotra, Vijaya Viswanathan",
     price: 895,
@@ -736,6 +745,7 @@ export const BooksList = [
   {
     id: 20,
     title: "The Eternal Gene",
+    slug: "the-eternal-gene",  
     publish_year: 2022,
     author: "Ankush Singh Thorpe",
     price: 495,
@@ -774,6 +784,7 @@ export const BooksList = [
   {
     id: 21,
     title: "This is Sanatan Dharma",
+    slug: "this-is-sanatan-dharma",  
     publish_year: 2022,
     author: "Partho",
     price: 699,
@@ -812,6 +823,7 @@ export const BooksList = [
   {
     id: 22,
     title: "CHUTTI KE DIN - HINDI POETRY",
+    slug: "chutti-ke-din-hindi-poetry", 
     publish_year: 2022,
     author: "Pariksith Singh",
     price: 699,
@@ -850,6 +862,7 @@ export const BooksList = [
   {
     id: 23,
     title: "Jana Awjanar Majhe PB",
+    slug: "jana-awjanar-majhe-pb", 
     publish_year: 2022,
     author: "Bimal Chakravarty",
     price: 195,
@@ -888,6 +901,7 @@ export const BooksList = [
   {
     id: 24,
     title: "Jana Awjanar Majhe HB",
+    slug: "jana-awjanar-majhe-hb",
     publish_year: 2022,
     author: "Bimal Chakravarty",
     price: 695,
@@ -926,6 +940,7 @@ export const BooksList = [
   {
     id: 25,
     title: "Swayam Se Parichay",
+    slug: "swayam-se-parichay",
     publish_year: 2022,
     author: "Pariksith Singh",
     price: 195,
@@ -964,6 +979,7 @@ export const BooksList = [
   {
     id: 26,
     title: "Swayam Ka Ghuspaithiya",
+    slug: "swayam-ka-ghuspaithiya",
     publish_year: 2022,
     author: "Pariksith Singh",
     price: 699,
@@ -1002,6 +1018,7 @@ export const BooksList = [
   {
     id: 27,
     title: "There was a girl I loved once",
+    slug: "there-was-a-girl-i-loved-once",
     publish_year: 2022,
     author: "Pariksith Singh",
     price: 350,
@@ -1040,6 +1057,7 @@ export const BooksList = [
   {
     id: 28,
     title: "Hindutva : Origin Evolution and Future",
+    slug: "hindutva-origin-evolution-and-future",
     publish_year: 2023,
     author: "Aravindan Neelakandan",
     price: 995,
@@ -1078,6 +1096,7 @@ export const BooksList = [
   {
     id: 29,
     title: "Life of an INDUSTANI",
+    slug: "life-of-an-industani", 
     publish_year: 2023,
     author: "Shiv Kunal Verma",
     price: 995,
@@ -1116,6 +1135,7 @@ export const BooksList = [
   {
     id: 30,
     title: "All Stray Dogs Go To Heaven PB",
+    slug: "all-stray-dogs-go-to-heaven-pb",
     publish_year: 2023,
     author: "Krishna Candeth",
     price: 695,
@@ -1154,6 +1174,7 @@ export const BooksList = [
   {
     id: 31,
     title: "GRIT TO GLORY",
+    slug: "grit-to-glory", 
     publish_year: 2023,
     author: "Brig B.S. Mehta",
     price: 895,
@@ -1197,6 +1218,7 @@ export const BooksList = [
   {
     id: 32,
     title: "Bharat ke Janjatiya Krantiveer-PB",
+    slug: "bharat-ke-janjatiya-krantiveer-pb", 
     publish_year: 2023,
     author: "Dhaval Patel",
     price: 395,
@@ -1241,6 +1263,7 @@ export const BooksList = [
   {
     id: 33,
     title: "Bharat ke Janjatiya Krantiveer-HB",
+    slug: "bharat-ke-janjatiya-krantiveer-hb",
     publish_year: 2023,
     author: "Dhaval Patel",
     price: 695,
@@ -1285,6 +1308,7 @@ export const BooksList = [
   {
     id: 34,
     title: "The Battle For IITs",
+    slug: "the-battle-for-iits",
     publish_year: 2023,
     author: "Rajiv Malhotra, Vijaya Viswanathan",
     price: 250,
@@ -1329,6 +1353,7 @@ export const BooksList = [
   {
     id: 35,
     title: "Varna Jati Caste",
+    slug: "varna-jati-caste", 
     publish_year: 2023,
     author: "Rajiv Malhotra, Vijaya Viswanathan",
     price: 250,
@@ -1373,6 +1398,7 @@ export const BooksList = [
   {
     id: 36,
     title: "The Power of Future Machines",
+    slug: "the-power-of-future-machines",  
     publish_year: 2023,
     author: "Rajiv Malhotra, T. N. Sudarshan, Manogna Sastry",
     price: 750,
@@ -1417,6 +1443,7 @@ export const BooksList = [
   {
     id: 37,
     title: "OF NEWTONS AND APPLES",
+    slug: "of-newtons-and-apples",  
     publish_year: 2023,
     author: "ABHISHEK KUMAR",
     price: 350,
@@ -1461,6 +1488,7 @@ export const BooksList = [
   {
     id: 38,
     title: "PROBASIR GOLPO (BENGALI)",
+    slug: "probasir-golpo-bengali",  
     publish_year: 2023,
     author: "Bimal Chakravarty",
     price: 250,
@@ -1503,6 +1531,7 @@ export const BooksList = [
   {
     id: 39,
     title: "SYMBOLS AND PARABLES",
+    slug: "symbols-and-parables",  
     publish_year: 2023,
     author: "Dr. Alok Pandey",
     price: 295,
@@ -1547,6 +1576,7 @@ export const BooksList = [
   {
     id: 40,
     title: "Adyatmikta",
+    slug: "adyatmikta",  
     publish_year: 2023,
     author: "Rajarshi Ranjan Nandy",
     price: 495,
@@ -1590,6 +1620,7 @@ export const BooksList = [
   {
     id: 41,
     title: "Building Beyond Infra",
+    slug: "building-beyond-infra",  
     publish_year: 2023,
     author: "Akhilesh Srivastava",
     price: 499,
@@ -1633,6 +1664,7 @@ export const BooksList = [
   {
     id: 42,
     title: "PURVYAM",
+    slug: "purvyam",  
     publish_year: 2023,
     author: "Abhishek Talwar",
     price: 599,
@@ -1676,6 +1708,7 @@ export const BooksList = [
   {
     id: 43,
     title: "Completing Vyasa’s Mahabharta",
+    slug: "completing-vyasas-mahabharta", 
     publish_year: 2023,
     author: "Abhinav Agarwal",
     price: 699,
@@ -1719,6 +1752,7 @@ export const BooksList = [
   {
     id: 44,
     title: "HINDUS IN HINDU RASHTRA(ENG)",
+    slug: "hindus-in-hindu-rashtra-eng",  
     publish_year: 2023,
     author: "Anand Ranganathan",
     price: 399,
@@ -1763,6 +1797,7 @@ export const BooksList = [
   {
     id: 45,
     title: "INVADERS AND INFIDELS- BOOK 2",
+    slug: "invaders-and-infidels-book-2", 
     publish_year: 2023,
     author: "Sandeep Balakrishna",
     price: 699,
@@ -1807,6 +1842,7 @@ export const BooksList = [
   {
     id: 46,
     title: "SOBHA SINGH ARTIST",
+    slug: "sobha-singh-artist",  
     publish_year: 2023,
     author: "HIRDAY PAUL SINGH",
     price: 799,
@@ -1850,6 +1886,7 @@ export const BooksList = [
   {
     id: 47,
     title: "The Never-dying Fire",
+    slug: "the-never-dying-fire",  
     publish_year: 2023,
     author: "Luc Venet",
     price: 699,
@@ -1894,6 +1931,7 @@ export const BooksList = [
   {
     id: 48,
     title: "The Veda Made Simple",
+    slug: "the-veda-made-simple",  
     publish_year: 2023,
     author: "Dr. Pariksith Singh",
     price: 699,
@@ -1938,6 +1976,7 @@ export const BooksList = [
   {
     id: 49,
     title: "MODI KA BANARAS",
+    slug: "modi-ka-banaras",  
     publish_year: 2023,
     author: "Arvind Chaturvedi",
     price: 449,
@@ -1981,6 +2020,7 @@ export const BooksList = [
   {
     id: 50,
     title: "India and the Changing World Order",
+    slug: "india-and-the-changing-world-order",  
     publish_year: 2023,
     author: "S. Gurumurthy",
     price: 799,
@@ -2025,6 +2065,7 @@ export const BooksList = [
   {
     id: 51,
     title: "Gods Dancing Among Men",
+    slug: "gods-dancing-among-men",  
     publish_year: 2023,
     author: "PUSHPA KURUP",
     price: 1999,
@@ -2068,6 +2109,7 @@ export const BooksList = [
   {
     id: 52,
     title: "Arc of Governance",
+    slug: "arc-of-governance",  
     publish_year: 2023,
     author: "M.G. Devasahayam",
     price: 799,
@@ -2111,6 +2153,7 @@ export const BooksList = [
   {
     id: 53,
     title: "Hindus In Hindu Rashtra (Hindi)",
+    slug: "hindus-in-hindu-rashtra-hindi",  
     publish_year: 2023,
     author: "Anand Ranganathan",
     price: 350,
@@ -2154,6 +2197,7 @@ export const BooksList = [
   {
     id: 54,
     title: "Hindus In Hindu Rashtra (Marathi)",
+    slug: "hindus-in-hindu-rashtra-marathi",
     publish_year: 2023,
     author: "Anand Ranganathan",
     price: 350,
@@ -2197,6 +2241,7 @@ export const BooksList = [
   {
     id: 55,
     title: "The Vaccine War",
+    slug: "the-vaccine-war", 
     publish_year: 2023,
     author: "Vivek Ranjan Agnihotri",
     price: 699,
@@ -2241,6 +2286,7 @@ export const BooksList = [
   {
     id: 56,
     title: "Ram Janmabhoomi",
+    slug: "ram-janmabhoomi",  
     publish_year: 2024,
     author: "Rashmi Samant",
     price: 499,
@@ -2284,6 +2330,7 @@ export const BooksList = [
   {
     id: 57,
     title: "Modis Governance Triump",
+    slug: "modis-governance-triump",  
     publish_year: 2024,
     author: "Tarun Chugh",
     price: 499,
@@ -2328,6 +2375,7 @@ export const BooksList = [
   {
     id: 58,
     title: "Compulsive Nose-Picking and Other True Tales",
+    slug: "compulsive-nose-picking-and-other-true-tales",  
     publish_year: 2024,
     author: "Anil Maheshwari",
     price: 399,
@@ -2372,6 +2420,7 @@ export const BooksList = [
   {
     id: 59,
     title: "Waiting for Shiva",
+    slug: "waiting-for-shiva",  
     publish_year: 2024,
     author: "Vikram Sampath",
     price: 699,
@@ -2415,6 +2464,7 @@ export const BooksList = [
   {
     id: 60,
     title: "SNAKES IN THE GANGA (PB)",
+    slug: "snakes-in-the-ganga-pb",  
     publish_year: 2024,
     author: "Rajiv Malhotra",
     price: 799,
@@ -2457,6 +2507,7 @@ export const BooksList = [
   {
     id: 61,
     title: "Modian Consensus",
+    slug: "modian-consensus",  
     publish_year: 2024,
     author: "Swadesh Singh",
     price: 799,
@@ -2500,6 +2551,7 @@ export const BooksList = [
   {
     id: 62,
     title: "BHARAT RISING",
+    slug: "bharat-rising",  
     publish_year: 2024,
     author: "Utpal Kumar",
     price: 599,
@@ -2544,6 +2596,7 @@ export const BooksList = [
   {
     id: 63,
     title: "Ram Janmabhoomi (Hindi)",
+    slug: "ram-janmabhoomi-hindi", 
     publish_year: 2024,
     author: "Rashmi Samant",
     price: 499,
@@ -2586,6 +2639,7 @@ export const BooksList = [
   {
     id: 64,
     title: "Whispers of the Unseen",
+    slug: "whispers-of-the-unseen", 
     publish_year: 2024,
     author: "S Beena Unikrishnan",
     price: 699,
@@ -2630,6 +2684,7 @@ export const BooksList = [
   {
     id: 65,
     title: "ADIDEVA",
+    slug: "adideva",  
     publish_year: 2024,
     author: "DEEPA BHASKARAN SALEM",
     price: 499,
@@ -2673,6 +2728,7 @@ export const BooksList = [
   {
     id: 66,
     title: "Modi's Governance Triumph (Hindi)",
+    slug: "modis-governance-triumph-hindi",  
     publish_year: 2024,
     author: "Tarun Chugh",
     price: 399,
@@ -2716,6 +2772,7 @@ export const BooksList = [
   {
     id: 67,
     title: "INVADERS AND INFIDELS- BOOK 1",
+    slug: "invaders-and-infidels-book-1",  
     publish_year: 2024,
     author: "Sandeep Balakrishna",
     price: 599,
@@ -2760,6 +2817,7 @@ export const BooksList = [
   {
     id: 68,
     title: "NASTIK",
+    slug: "nastik", 
     publish_year: 2024,
     author: "KUSHAL MEHRA",
     price: 599,
@@ -2803,6 +2861,7 @@ export const BooksList = [
   {
     id: 69,
     title: "Waiting For Shiva (Hindi)",
+    slug: "waiting-for-shiva-hindi", 
     publish_year: 2024,
     author: "Vikram Sampath",
     price: 499,
@@ -2847,6 +2906,7 @@ export const BooksList = [
   {
     id: 70,
     title: "APOSTLES",
+    slug: "apostles",  
     publish_year: 2024,
     author: "Biswaroop Mukherjee",
     price: 399,
@@ -2890,6 +2950,7 @@ export const BooksList = [
   {
     id: 71,
     title: "Devdoot (Hindi)",
+    slug: "devdoot-hindi",  
     publish_year: 2024,
     author: "Aniruddh Rawat",
     price: 199,
@@ -2933,6 +2994,7 @@ export const BooksList = [
   {
     id: 72,
     title: "Stalled Wheels Of Justice",
+    slug: "stalled-wheels-of-justice", 
     publish_year: 2024,
     author: "Shishir Tripathi",
     price: 499,
@@ -2976,6 +3038,7 @@ export const BooksList = [
   {
     id: 73,
     title: "Bangaliyana",
+    slug: "bangaliyana", 
     publish_year: 2024,
     author: "Rajeev Banerjee",
     price: 399,
@@ -3019,6 +3082,7 @@ export const BooksList = [
   {
     id: 74,
     title: "Waiting For Shiva (Marathi)",
+    slug: "waiting-for-shiva-marathi", 
     publish_year: 2024,
     author: "Vikram Sampath",
     price: 499,
@@ -3063,6 +3127,7 @@ export const BooksList = [
   {
     id: 75,
     title: "Krishna-Niti",
+    slug: "krishna-niti",  
     publish_year: 2024,
     author: ["Kushagra Aniket", "Nityananda Misra"],
     price: 499,
@@ -3110,6 +3175,7 @@ export const BooksList = [
   {
     id: 76,
     title: "WHISPERS FROM THE PAST",
+    slug: "whispers-from-the-past",  
     publish_year: 2024,
     author: "Subhash Kak",
     price: 599,
@@ -3153,6 +3219,7 @@ export const BooksList = [
   {
     id: 77,
     title: "KASHI",
+    slug: "kashi",  
     publish_year: 2024,
     author: "Aditi Banerjee",
     price: 599,
@@ -3196,6 +3263,7 @@ export const BooksList = [
   {
     id: 78,
     title: "My Freedom Of Expression",
+    slug: "my-freedom-of-expression",  
     publish_year: 2024,
     author: "PARIMAL BRAHMA",
     price: 699,
@@ -3239,6 +3307,7 @@ export const BooksList = [
   {
     id: 79,
     title: "Shared Roots",
+    slug: "shared-roots", 
     publish_year: 2024,
     author: "Ratul Chakraborty",
     price: 599,
@@ -3282,6 +3351,7 @@ export const BooksList = [
   {
     id: 80,
     title: "Reclaiming Bharatvarsha",
+    slug: "reclaiming-bharatvarsha", 
     publish_year: 2024,
     author: "Sandeep Balakrishna",
     price: 599,
@@ -3325,6 +3395,7 @@ export const BooksList = [
   {
     id: 81,
     title: "REARMING HINDUISM",
+    slug: "rearming-hinduism",  
     publish_year: 2024,
     author: "Vamsee Juluri",
     price: 699,
@@ -3368,6 +3439,7 @@ export const BooksList = [
   {
     id: 82,
     title: "Desire, Dreams and Powers",
+    slug: "desire-dreams-and-powers",  
     publish_year: 2024,
     author: "TATHAGATA ROY",
     price: 899,
@@ -3411,6 +3483,7 @@ export const BooksList = [
   {
     id: 83,
     title: "The Collector's Mother",
+    slug: "the-collectors-mother",  
     publish_year: 2024,
     author: "Bishnupada Sethi",
     price: 499,
@@ -3455,6 +3528,7 @@ export const BooksList = [
   {
     id: 84,
     title: "How to get Into IAS",
+    slug: "how-to-get-into-ias",  
     publish_year: 2024,
     author: "Rohit Sharma & Shakti Singh (IRS)",
     price: 399,
@@ -3498,6 +3572,7 @@ export const BooksList = [
   {
     id: 85,
     title: "Decolonizing Hinduism",
+    slug: "decolonizing-hinduism",  
     publish_year: 2024,
     author: "Shubham G. Deore",
     price: 699,
@@ -3543,6 +3618,7 @@ export const BooksList = [
     id: 86,
     title:
       "The Battle for Consciousness Theory: A Response to Ken Wilber's Hijacking of Sri Aurobindo and Other Indian Thought",
+    slug: "the-battle-for-consciousness-theory-a-response-to-ken-wilbers-hijacking-of-sri-aurobindo-and-other-indian-thought",  
     publish_year: 2024,
     author: ["Rajiv Malhotra", " Manogna Sastry", " Kundan Singh"],
     price: 699,
@@ -3590,6 +3666,7 @@ export const BooksList = [
   {
     id: 87,
     title: "India in 2050: Visions for a Superpower India",
+    slug: "india-in-2050-visions-for-a-superpower-india",
     publish_year: 2024,
     author: "Karan Mehrishi",
     price: 799,
@@ -3634,6 +3711,7 @@ export const BooksList = [
   {
     id: 88,
     title: "Being Hindu",
+    slug: "being-hindu", 
     publish_year: 2024,
     author: "Saumya Dey",
     price: 599,
@@ -3677,6 +3755,7 @@ export const BooksList = [
   {
     id: 89,
     title: "Waiting for Shiva (Telugu)",
+    slug: "waiting-for-shiva-telugu",  
     publish_year: 2024,
     author: "Vikram Sampath",
     price: 499,
@@ -3720,6 +3799,7 @@ export const BooksList = [
   {
     id: 90,
     title: "Genome to Om",
+    slug: "genome-to-om",  
     publish_year: 2024,
     author: ["Bhushan Patwardhan", "Indu Ramchandani"],
     price: 799,
@@ -3764,6 +3844,7 @@ export const BooksList = [
   {
     id: 91,
     title: "The Number You Are Calling Is Switched Off",
+    slug: "the-number-you-are-calling-is-switched-off",  
     publish_year: 2024,
     author: "Tushar Srivastava",
     price: 399,
@@ -3807,6 +3888,7 @@ export const BooksList = [
   {
     id: 92,
     title: "Crossing Continents: European Explorers and India's Mysteries",
+    slug: "crossing-continents-european-explorers-and-indias-mysteries",  
     publish_year: 2024,
     author: "Amit Agarwal",
     price: 599,
@@ -3851,6 +3933,7 @@ export const BooksList = [
     id: 93,
     title:
       "From Partition to Progress: Persecuted Hindus and the Struggle for Citizenship",
+    slug: "from-partition-to-progress-persecuted-hindus-and-the-struggle-for-citizenship",  
     publish_year: 2024,
     author: "Anirban Ganguly",
     price: 599,
@@ -3895,6 +3978,7 @@ export const BooksList = [
     id: 94,
     title:
       "India's New Right: Powering the Current Wave of Nationalism and Civilisational Revival",
+    slug: "indias-new-right-powering-the-current-wave-of-nationalism-and-civilisational-revival", 
     publish_year: 2024,
     author: "Abhijit Majumder",
     price: 699,
@@ -3938,6 +4022,7 @@ export const BooksList = [
   {
     id: 95,
     title: "A Dharmic Social History of India",
+    slug: "a-dharmic-social-history-of-india",  
     publish_year: 2024,
     author: "Aravindan Neelakandan",
     price: 799,
@@ -3981,6 +4066,7 @@ export const BooksList = [
   {
     id: 96,
     title: "Padma Bharatis",
+    slug: "padma-bharatis",
     publish_year: 2024,
     author: "Jay Jina",
     price: 599,
