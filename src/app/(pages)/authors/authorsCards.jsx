@@ -10,7 +10,7 @@ function AuthorsCards ({ coverImage, authorName }) {
         <img src={coverImage} alt={authorName} className="rounded-md h-[300px]  w-full object-cover" />
         </div>
         <div className='p-3 flex-1'>
-        <h2 className="mt-4 text-center text-xl font-bold">{authorName}</h2>
+        <h2 className="mt-4 text-center text-base uppercase font-semibold font-barlow ">{authorName}</h2>
         </div>
       </div>
     </div>

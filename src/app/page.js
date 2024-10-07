@@ -75,8 +75,8 @@ export default function Home() {
       {loading ? (
         <Loader />
       ) : (
-        <div className="relative wrapper pt-[75px] homepage">
-          <div className="main pt-20">
+        <div className="relative wrapper pt-[60px] homepage">
+          <div className="main pt-5">
             <section className="slider relative z-1 top-2">
               <BannerSlider />
             </section>
@@ -229,7 +229,7 @@ export default function Home() {
                 ></Image>
                 <i>
                   <h3 className="text-center font-medium ">
-                    Events we’ve been a part of
+                    Events We’ve Been A Part Of
                   </h3>
                 </i>
                 <Image

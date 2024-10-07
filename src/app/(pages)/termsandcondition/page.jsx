@@ -15,14 +15,14 @@ function termsandcondition() {
       loading ? (
         <Loader /> ) : (
 
-    <div class="col-lg-9 order-lg-2 pt-20 pb-20 ">
+    <div className="col-lg-9 order-lg-2 pt-20 pb-20 ">
       <div className='container'>
         <h1 className='py-5 mt-14'>Terms of Use</h1>
         <h6><strong>Effective date of terms of use:</strong> March 13, 2023</h6>
         <p>These terms and conditions apply to this website and any other website, application, online portal, or service that is in any way related or linked to this website and/or its terms and conditions, such as author websites, operated and/or made available by BluOne Ink (collectively referred to as the “Sites”). All software used on this Site and all content included on this site (including without limitation site design, text, graphics, audio, and video and the selection and arrangement thereof) is the property of BluOne Ink India or its suppliers and is protected by international copyright laws.</p>
         <p>These terms and conditions constitute the agreement (“Agreement”) between “you” (user) and “us” (BluOne Ink) and govern your use of the Sites. By accessing this site, you are consenting to be bound by this Agreement. If you do not agree with the terms of usage provided in these terms and conditions, you must leave this site immediately.</p>
         <h6><strong>Content Usage:</strong></h6>
-        <ul class="list-disc px-5 pb-5">
+        <ul className="list-disc px-5 pb-5">
           <li>All content provided and materials made available on this site are solely for home and/or non-commercial purposes.</li>
           <li>Your use of this site does not grant you ownership of any content or material available on the website.</li>
         </ul>
@@ -30,7 +30,7 @@ function termsandcondition() {
         <p>BluOne Ink India Private Limited (“BluOne Ink”, “WE”, “US”, OR “OUR”) reserves the right, at our discretion, to change, modify, add, or remove portions of these terms and conditions of use at any time. Please check these terms periodically for changes. All changes will become effective 24 hours after posting, and your continued use of the Sites following the posting of changes to these terms of use will signify your acceptance of those changes. Additional terms and conditions may govern the purchase of products, such as return and shipping policies.</p>
         <h6><strong>Copyright and Ownership:</strong></h6>
         <p>All content on this site, including but not limited to text, music, sound, photographs, videos, graphics, and images, is governed by the Indian Copyright Act, 1957 and subsequent amendments, the Trademark Act, 1999 and subsequent amendments, moral rights, and other laws relating to intellectual property rights.</p>
-        <ul class="list-disc px-5 pb-5"><li>None of the content may be downloaded, copied, reproduced, republished, posted, transmitted, stored, sold, or distributed without the prior written permission of the copyright holder, except for material specifically made available for ‘downloads’ and sharing on social media for personal, non-commercial home use only, provided that all copyright and proprietary notices are retained.</li>
+        <ul className="list-disc px-5 pb-5"><li>None of the content may be downloaded, copied, reproduced, republished, posted, transmitted, stored, sold, or distributed without the prior written permission of the copyright holder, except for material specifically made available for ‘downloads’ and sharing on social media for personal, non-commercial home use only, provided that all copyright and proprietary notices are retained.</li>
           <li>Modification of any content or use of any content for any purpose other than as set out herein (including on any other website or computer network) is prohibited.</li>
           <li>Except as permitted under applicable copyright laws, you are responsible for obtaining permission before reusing any copyrighted material available on the Sites. Requests to republish or reuse content, and use of quotations or extracts from books published by BluOne Ink, should be addressed to the Publicity Department at the email editors@bluOne.ink or postal address below.</li></ul>
         <h6><strong>Site Access License:</strong></h6>

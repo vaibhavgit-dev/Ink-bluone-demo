@@ -40,16 +40,16 @@ const BannerSlider = () => {
           <div className="w-full bg-[#FFF9ED]">
             <h3 className="text-sm lg:text-2xl">
               Books have the power to{" "}
-              <span className="bg-yellow-400 rounded-md pl-1">
+              <span className="bg-yellow-400 rounded-md pl-1 font-ibm">
                 transform lives
               </span>
               .
             </h3>
           </div>
-          <div className="w-full">
+          <div className="w-full mt-20 ">
             <i>
               <p className="">
-                How do we invoke, experience, share and celebrate this power?
+                How do <span className="border_line_1">we</span> invoke, experience, share and celebrate this power?
               </p>
             </i>
           </div>
@@ -182,7 +182,7 @@ const BannerSlider = () => {
           padding: 20px;
           text-align: center;
           font-size: 24px;
-          height:90vh;
+          height:85vh;
           margin-bottom:20px;
         }
       `}</style>
