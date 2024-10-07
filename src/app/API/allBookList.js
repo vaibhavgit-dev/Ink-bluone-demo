@@ -5,7 +5,7 @@ export const BooksList = [
     title: "SRI AUROBINDO AND THE LITERARY RENAISSANCE OF INDIA",
     slug:"sri-aurobindo-and-the-literary-renaissance-of-india",
     publish_year: 2021,
-    author: "Pariksith Singh",
+    author: "Pariksith Singh, MD",
     price: 995,
     isbn10: "",
     isbn13: "9788194954781",
