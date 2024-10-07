@@ -3,7 +3,7 @@ export const AuthorsList = [
     id: 1,
     authslug: "abhijit-majumdar",
     author_name: "Abhijit Majumder", 
-    image: "/image/authors/abhijit-majumdar.jpg",
+    image: "/image/authors/abhijit_majumdar.jpg",
     authorDescription:
     "Abhijit Majumder is a journalist, editor, and media entrepreneur with nearly 30 years of experience at India’s topmost media houses. He is the co-founder and editor- in-chief of India’s first Dolby Atmos–enabled audio, podcast, and video production platform Earshot. He is also the consulting editor of CNN-News18. Abhijit was the editor of Mid-Day, Mail Today, and Asianet News (English and Hindi), and the resident editor of Hindustan Times (Delhi and NCR editions, and previously Bhopal and Indore editions). Abhijit has interviewed leading politicians such as Amit Shah, Shivraj Singh Chouhan, Sachin Pilot, and Smriti Irani; spiritual leaders such as Sri Sri Ravi Shankar and Sister Shivani; film personalities such as Amitabh Bachchan, Salman Khan, and Aamir Khan; prominent media persons such as Tim Sebastian and Riz Khan; and former Chief of Defence Staff Bipin Rawat. He has also written columns and op-eds for a range of national and international media outlets. He writes on politics, social media, books, travel, and culture. He closely tracks and analyses political changes, especially the rise of the Right and nationalism in India and across the world.",
     authorSocial: [
@@ -33,7 +33,7 @@ export const AuthorsList = [
     id: 3,
     authslug: "abhishek-kumar",
     author_name: "Abhishek Kumar", 
-    image: "/image/authors/abhishek-kumar.jpg",
+    image: "/image/authors/abhishek_kumar.jpg",
     authorDescription:
     "He is the Principal at the Army Institute of Management, Kolkata. He teaches courses on leadership, brand management, philosophy of language and philosophy of cities. In his writings he generally explores the fertile spaces between personalities and disciplines, as can be seen in his articles on Gaston Bachelard, Roland Barthes and Herbert Marcuse. His doctoral thesis on the in-betweenness of Human Resources (HR) and marketing helped him in developing a scale to measure brand personality.",
 
@@ -45,7 +45,7 @@ export const AuthorsList = [
     id: 4,
     authslug: "abhishek-talwar",
     author_name: "Abhishek Talwar", 
-    image: "/image/authors/abhishek-talwar.jpg",
+    image: "/image/authors/abhishek_talwar.jpg",
     authorDescription:
     "Abhishek is a certified environmentalist, road – tripper, Indophile and history buff. His fascination for Indian history and way of life is reflected in his writing. Along with his wife Ritika, he is the co – founder of Biplob World, where he creates content to educate children about sustainability and Indian history through entertaining stories. These stories feature characters created by him, like Biplob the Bumblebee, the first ever eco – warrior superhero and Detective Col. Zorawar (Zoro to his friends). Abhishek lives in Mumbai with his wife, daughter and son.",
     authorSocial: [
@@ -60,7 +60,7 @@ export const AuthorsList = [
     id: 5,
     authslug: "adi-varuni",
     author_name: "Adi Varuni", 
-    image: "/image/authors/adi-varuni.jpg",
+    image: "/image/authors/adi_varuni.jpg",
     authorDescription:
     "Adi Varuni, an anonymous author living in incognito, writes on Indian spirituality and mysticism. Adi Varuni revealed his identity at the Jaipur Literature Festival 2023. He is also known as Partho. Partho conducts educational and spiritual retreats. He is a teacher, poet, and writer who writes extensively on Vedanta and integral education.",
     authorSocial: [
@@ -75,7 +75,7 @@ export const AuthorsList = [
     id: 6,
     authslug: "aditi-banerjee",
     author_name: "Aditi Banerjee", 
-    image: "/image/authors/aditi-banerjee.jpg",
+    image: "/image/authors/aditi_banerjee.jpg",
     authorDescription:
     "Aditi Banerjee is a bestselling author based in the US. Her debut novel, The Curse of Gandhari, was published by Bloomsbury India in 2019 and her second, The Vow of Parvati, came out in 2022. Her third book, Hindu Love Stories: Dharmically Ever After, is a collection of stories from Hindu literature and history. She co-edited Invading the Sacred: An Analysis of Hinduism Studies in America in collaboration with Rajiv Malhotra and has authored several essays in publications such as The Columbia Documentary History of Religion in America Since 1945 and Buddhists, Hindus, and Sikhs in America: A Short History. Her articles have appeared in Outlook magazine and other publications. Aditi is a devout practitioner of Hinduism and frequently writes about Hinduism and the Hindu-American experience. Aditi is a practicing attorney at a Fortune 500 financial services company in the US and a member of the Indic Academy. She completed her executive MBA programme from Columbia University, New York, and earned a juris doctor from Yale Law School. She is a magna cum laude graduate in international relations from Tufts University, Massachusetts.",
     authorSocial: [
@@ -90,7 +90,7 @@ export const AuthorsList = [
     id: 7,
     authslug: "ahilesh-srivastava",
     author_name: "Akhilesh Srivastava", 
-    image: "/image/authors/ahilesh-srivastava.jpg",
+    image: "/image/authors/ahilesh_srivastava.jpg",
     authorDescription:
     "Akhilesh Srivastava Akhilesh Srivastava is globally renowned as a Digital Technology leader and Mobility Expert. He has been rated as one of the 51 most impactful global leaders of smart cities for his path-breaking citizen-centric digital initiatives and e-governance reforms. He headed the implementation one of most successful digital programs of India, FASTag, the electronic toll collection system that has revolutionized the Indian highway and logistic sector. After the successful implementation of FASTag, he is now working with the world's leading organizations, the World Economic Forum, International Road Federation, and McKinsey & Co solving more considerable social challenges using technology such as 'Technology-driven Road Safety 2.0', Greener Mobility, Electric Vehicles, Digitalisation of Construction Industry and Intelligent Transportation Systems. An eloquent speaker, prolific reader, and writer, he is popular on social media and loves to share his knowledge through his books, articles, and talks on various forums. His earlier books on integrating IR-4.0 technology in construction were among the bestselling books.",
     authorSocial: [
