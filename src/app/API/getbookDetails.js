@@ -527,6 +527,7 @@ export const BooksDetails = [
     meta_descreption:
       "A transformative journey of self-discovery that explores themes of love, existence, and the divine connection we share.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "/image/books/identitys-last-secret/thumbnail1.jpg",
       "/image/books/identitys-last-secret/thumbnail2.jpg",
@@ -572,6 +573,7 @@ export const BooksDetails = [
     meta_descreption:
       "Unraveling the mysteries of the Eternal Feminine through the lens of Indian mysticism and spiritual traditions.",
     meta_title: "",
+    book_image: "/image/books/the-eternal-feminine/the-eternal-feminine.jpg",
     book_thumbnail: [
       "/image/books/the-eternal-feminine/thumbnail1.jpg",
       "/image/books/the-eternal-feminine/thumbnail2.jpg",
