@@ -1591,10 +1591,10 @@ export const BooksDetails = [
   },
   {
     id: 37,
-    title: "OF NEWTONS AND APPLES",
-    slug: "of-newtons-and-apples",
+    title: "Of Newtons and Apples",
+    slug: "of-newtons-and-apples",  
     publish_year: 2023,
-    author: "ABHISHEK KUMAR",
+    author: "Abhishek Kumar",
     price: 350,
     isbn10: "",
     isbn13: "9789392209246",
