@@ -27,7 +27,7 @@ export const BooksDetails = [
     meta_description:
       "A deep dive into Sri Aurobindo's visionary spiritual and political genius, exploring his profound impact on India and beyond.",
     meta_title: "",
-    book_image: "https://m.media-amazon.com/images/I/71zbcQJ1nzL._SY522_.jpg",
+    book_image: "/image/books/sri-aurobindo-and-the-literary-renaissance-of-india/sri-aurobindo-and-the-literary-renaissance-of-india.jpg",
     book_thumbnail: [
       "/image/books/sri-aurobindo-and-the-literary-renaissance-of-india/thumbnail1.jpg",
       "/image/books/sri-aurobindo-and-the-literary-renaissance-of-india/thumbnail2.jpg",
@@ -75,7 +75,7 @@ export const BooksDetails = [
     meta_descreption:
       "Unlock innovation through the integration of Design Thinking, Management, and essential skills.",
     meta_title: "",
-    book_image: "https://m.media-amazon.com/images/I/71zbcQJ1nzL._SY522_.jpg",
+    book_image: "/image/books/design-a-bussiness-case-hb/design-a-bussiness-case.jpg",
     book_thumbnail: [
       "/image/books/design-a-bussiness-case-pb/thumbnail1.jpg",
       "/image/books/design-a-bussiness-case-pb/thumbnail2.jpg",
@@ -118,6 +118,7 @@ export const BooksDetails = [
     meta_descreption:
       "Unlock innovation through the integration of Design Thinking, Management, and essential skills.",
     meta_title: "",
+    book_image: "/image/books/design-a-bussiness-case-pb/design-a-bussiness-case.jpg",
     book_thumbnail: [
       "/image/books/design-a-bussiness-case-hb/thumbnail1.jpg",
       "/image/books/design-a-bussiness-case-hb/thumbnail2.jpg",
@@ -163,6 +164,7 @@ export const BooksDetails = [
     meta_descreption:
       "Brig Jasbir's humorous memoir captures RIMC life, turning mischievous boys into disciplined soldiers.",
     meta_title: "",
+    book_image: "/image/books/once-upon-a-time-in-rimc/once-upon-a-time-in-rimc.jpg",
     book_thumbnail: [
       "/image/books/once-upon-a-time-in-rimc/thumbnail1.jpg",
       "/image/books/once-upon-a-time-in-rimc/thumbnail2.jpg",
@@ -206,6 +208,7 @@ export const BooksDetails = [
     meta_descreption:
       "Discover Integral Education: a transformative approach to foster evolving consciousness.",
     meta_title: "",
+    book_image: "/image/books/integral-education-beyond-schooling/integral-education-beyond-schooling.jpg",
     book_thumbnail: [
       "/image/books/integral-education-beyond-schooling/thumbnail1.jpg",
       "/image/books/integral-education-beyond-schooling/thumbnail2.jpg",
@@ -249,6 +252,7 @@ export const BooksDetails = [
     meta_descreption:
       "A tribute to the illustrious history of the 4 Kumaon Regiment and the gallant heroes who have served with honor and valor.",
     meta_title: "",
+    book_image: "/image/books/the-fighting-fourth/the-fighting-fourth.jpg",
     book_thumbnail: [
       "/image/books/the-fighting-fourth/thumbnail1.jpg",
       "/image/books/the-fighting-fourth/thumbnail2.jpg",
@@ -293,6 +297,7 @@ export const BooksDetails = [
     meta_descreption:
       "Insightful exploration of landmark military law judgments from experts worldwide, shedding light on global legal precedents.",
     meta_title: "",
+    book_image: "/image/books/war-despatches1971/war-despatches1971.jpg",
     book_thumbnail: [
       "/image/books/war-despatches1971/thumbnail1.jpg",
       "/image/books/war-despatches1971/thumbnail2.jpg",
@@ -339,6 +344,7 @@ export const BooksDetails = [
     meta_descreption:
       "A study of children's innate learning abilities through the mediums of drawing and self-expression, highlighting their creativity",
     meta_title: "",
+    book_image: "/image/seeing-with-hands/seeing-with-hands.jpg",
     book_thumbnail: [
       "/image/books/seeing-with-hands/thumbnail1.jpg",
       "/image/books/seeing-with-hands/thumbnail2.jpg",
@@ -383,6 +389,7 @@ export const BooksDetails = [
     meta_descreption:
       "A deep dive into pivotal cases in global military law, providing insights on governance, justice, and legal frameworks.",
     meta_title: "",
+    book_image: "/image/books/march-to-justice/march-to-justice.jpg",
     book_thumbnail: [
       "/image/books/march-to-justice/thumbnail1.jpg",
       "/image/books/march-to-justice/thumbnail2.jpg",
@@ -430,6 +437,7 @@ export const BooksDetails = [
     meta_descreption:
       "A woman's spiritual quest for love and truth across lifetimes and dimensions, navigating the complexities of her existence.",
     meta_title: "",
+    book_image: "/image/books/somewhere-among-the-stars-pb/somewhere-among-the-stars.jpg",
     book_thumbnail: [
       "/image/books/somewhere-among-the-stars-pb/thumbnail1.jpg",
       "/image/books/somewhere-among-the-stars-pb/thumbnail2.jpg",
@@ -473,6 +481,7 @@ export const BooksDetails = [
     meta_descreption:
       "A woman's spiritual quest for love and truth across lifetimes and dimensions, navigating the complexities of her existence.",
     meta_title: "",
+    book_image: "/image/books/somewhere-among-the-stars-hb/somewhere-among-the-stars.jpg",
     book_thumbnail: [
       "/image/books/somewhere-among-the-stars-hb/thumbnail1.jpg",
       "/image/books/somewhere-among-the-stars-hb/thumbnail2.jpg",

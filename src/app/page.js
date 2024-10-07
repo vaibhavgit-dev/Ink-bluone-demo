@@ -126,11 +126,12 @@ export default function Home() {
                                   style={{ textDecoration: "none" }}
                                 >
                                   <img
-                                    src={
-                                      Array.isArray(book.book_thumbnail)
-                                        ? book.book_thumbnail[0]
-                                        : book.book_thumbnail
-                                    }
+                                    // src={
+                                    //   Array.isArray(book.book_thumbnail)
+                                    //     ? book.book_thumbnail[0]
+                                    //     : book.book_thumbnail
+                                    // }
+                                    src = {book.book_image}
                                     alt={book.title}
                                     className="h-32 w-20 mb-[5px] object-cover"
                                   />
