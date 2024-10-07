@@ -17,7 +17,7 @@ function NavBar() {
   const isActive = (path) => pathname === path ? 'text-[#FFDE7C]' : 'text-white';
 
   return (
-    <div className="navmain w-full fixed h-[80px] z-[1111]  bg-[#241b6d] bg-no-repeat bg-right bg-contain mx-auto flex justify-between items-center">
+    <div className="navmain w-full fixed h-[60px] z-[1111]  bg-[#241b6d] bg-no-repeat bg-right bg-contain mx-auto flex justify-between items-center">
       <div className="lg:hidden md:hidden p-5">
         <Link href="/">
           <Image src={navbarLogo} alt="Logo" width={0} height={40} />
