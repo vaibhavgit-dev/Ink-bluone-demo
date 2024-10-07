@@ -21,7 +21,7 @@ export const BooksList = [
     tags: "Biography, Autobiography, & True Accounts, Society & Social Sciences",
     meta_description: "A deep dive into Sri Aurobindo's visionary spiritual and political genius, exploring his profound impact on India and beyond.",
     meta_title: "",
-    book_image: "https://m.media-amazon.com/images/I/71zbcQJ1nzL._SY522_.jpg",
+    book_image: "/image/books/sri-aurobindo-and-the-literary-renaissance-of-india/sri-aurobindo-and-the-literary-renaissance-of-india.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -62,6 +62,7 @@ export const BooksList = [
     tags: "Economics, Finance, Business & Management",
     meta_descreption: "Unlock innovation through the integration of Design Thinking, Management, and essential skills.",
     meta_title: "",
+    book_image: "/image/books/design-a-bussiness-case-hb/design-a-bussiness-case.jpg",
     book_thumbnail: [
       "https://m.media-amazon.com/images/I/71zbcQJ1nzL._SY522_.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -101,6 +102,7 @@ export const BooksList = [
     tags: "Economics, Finance, Business & Management",
     meta_descreption: "Unlock innovation through the integration of Design Thinking, Management, and essential skills.",
     meta_title: "",
+    book_image: "/image/books/design-a-bussiness-case-pb/design-a-bussiness-case.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -140,6 +142,7 @@ export const BooksList = [
     tags: "'Biography, Autobiography, & True Accounts', Military",
     meta_descreption: "Brig Jasbir's humorous memoir captures RIMC life, turning mischievous boys into disciplined soldiers.",
     meta_title: "",
+    book_image: "/image/books/once-upon-a-time-in-rimc/once-upon-a-time-in-rimc.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -179,6 +182,7 @@ export const BooksList = [
     tags: "Self-Help & Development , Society & Social Sciences",
     meta_descreption: "Discover Integral Education: a transformative approach to foster evolving consciousness.",
     meta_title: "",
+    book_image: "/image/books/integral-education-beyond-schooling/integral-education-beyond-schooling.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -218,6 +222,7 @@ export const BooksList = [
     tags: "Military & Defence, 'Biography, Autobiography, & True Accounts'",
     meta_descreption: "A tribute to the illustrious history of the 4 Kumaon Regiment and the gallant heroes who have served with honor and valor.",
     meta_title: "",
+    book_image: "/image/books/the-fighting-fourth/the-fighting-fourth.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -257,6 +262,7 @@ export const BooksList = [
     tags: "Military & Defence, 'Biography, Autobiography, & True Accounts'",
     meta_descreption: "Insightful exploration of landmark military law judgments from experts worldwide, shedding light on global legal precedents.",
     meta_title: "",
+    book_image: "/image/books/war-despatches1971/war-despatches1971.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -296,6 +302,7 @@ export const BooksList = [
     tags: "Self-Help & Development",
     meta_descreption: "A study of children's innate learning abilities through the mediums of drawing and self-expression, highlighting their creativity",
     meta_title: "",
+    book_image: "/image/seeing-with-hands/seeing-with-hands.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -335,6 +342,7 @@ export const BooksList = [
     tags: "Military & Defence, Law & Public Policy",
     meta_descreption: "A deep dive into pivotal cases in global military law, providing insights on governance, justice, and legal frameworks.",
     meta_title: "",
+    book_image: "/image/books/march-to-justice/march-to-justice.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -374,6 +382,7 @@ export const BooksList = [
     tags: "Religion & Spirituality, Society & Social Sciences",
     meta_descreption: "A woman's spiritual quest for love and truth across lifetimes and dimensions, navigating the complexities of her existence.",
     meta_title: "",
+    book_image: "/image/books/somewhere-among-the-stars-pb/somewhere-among-the-stars.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -413,6 +422,7 @@ export const BooksList = [
     tags: "Religion & Spirituality, Society & Social Sciences",
     meta_descreption: "A woman's spiritual quest for love and truth across lifetimes and dimensions, navigating the complexities of her existence.",
     meta_title: "",
+    book_image: "/image/books/somewhere-among-the-stars-hb/somewhere-among-the-stars.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -452,6 +462,7 @@ export const BooksList = [
     tags: "Poetry",
     meta_descreption: "A transformative journey of self-discovery that explores themes of love, existence, and the divine connection we share.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -491,6 +502,7 @@ export const BooksList = [
     tags: "Religion & Spirituality, Society & Social Sciences",
     meta_descreption: "Unraveling the mysteries of the Eternal Feminine through the lens of Indian mysticism and spiritual traditions.",
     meta_title: "",
+    book_image: "/image/books/the-eternal-feminine/the-eternal-feminine.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -530,6 +542,7 @@ export const BooksList = [
     tags: "Action & Adventure, Self-Help & Development",
     meta_descreption: "Follow a young frog's thrilling adventure as he aspires to achieve fame, soaring high like his hero, Felix the frog.",
     meta_title: "",
+    book_image: "/image/books/hops-spectacular-adventure/hops-spectacular-adventure.png",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -569,6 +582,7 @@ export const BooksList = [
     tags: "Action & Adventure, Self-Help & Development",
     meta_descreption: "",
     meta_title: "",
+    book_image: "/image/books/how-the-rainbow-got-is-colour/how-the-rainbow-got-is-colour.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -608,6 +622,7 @@ export const BooksList = [
     tags: "Self-Help & Development , Health & Wellness",
     meta_descreption: "An integrated guide to self-wellness through personal experience and intent.",
     meta_title: "",
+    book_image: "/image/books/confidence-cures/confidence-cures.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -647,6 +662,7 @@ export const BooksList = [
     tags: "'Biography, Autobiography, & True Accounts', Society & Social Sciences",
     meta_descreption: "Exploring Sri Aurobindo's multifaceted genius as a seer, poet, and visionary.",
     meta_title: "",
+    book_image: "/image/books/sri-aurobindo-and-philosophy-hb/sri-aurobindo-and-philosophy-hb.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -686,6 +702,7 @@ export const BooksList = [
     tags: "'Biography, Autobiography, & True Accounts', Society & Social Sciences",
     meta_descreption: "An integrated guide to achieving self-wellness, drawing from personal experiences and intent for holistic well-being.",
     meta_title: "",
+    book_image: "/image/books/sri-aurobindo-and-philosophy-pb/sri-aurobindo-and-philosophy-pb.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -725,6 +742,7 @@ export const BooksList = [
     tags: "Society & Social Sciences, Law & Public Policy, Politics & Governance",
     meta_descreption: "Exploring the multifaceted genius of Sri Aurobindo as a seer, poet, and visionary, highlighting his profound insights.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -764,6 +782,7 @@ export const BooksList = [
     tags: "Action & Adventure, Fantasy & Science Fiction",
     meta_descreption: "Delving into Sri Aurobindo's remarkable genius as a seer, poet, and visionary, uncovering his contributions to spirituality.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -803,6 +822,7 @@ export const BooksList = [
     tags: "Religion & Spirituality, Society & Social Sciences",
     meta_descreption: "Uncovering the global threats to India's integrity and examining the rise of wokeism in contemporary society.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -842,6 +862,7 @@ export const BooksList = [
     tags: "Poetry, Indian Languages",
     meta_descreption: "नई पुस्तक 'छुट्टी के दिन': हिन्दी और राजस्थानी में राजस्थान की महक और संस्कृति की झलक प्रस्तुत करती है",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -881,6 +902,7 @@ export const BooksList = [
     tags: "'Biography, Autobiography, & True Accounts', Indian Languages",
     meta_descreption: "Jana Awjanar Majhe reflects Bimal Chakravartty's life journey, capturing nostalgic memories of Kashi with grace and depth.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -920,6 +942,7 @@ export const BooksList = [
     tags: "'Biography, Autobiography, & True Accounts', Indian Languages",
     meta_descreption: "Jana Awjanar Majhe reflects Bimal Chakravartty's life journey, capturing nostalgic memories of Kashi with grace and depth.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -959,6 +982,7 @@ export const BooksList = [
     tags: "Poetry, Indian Languages",
     meta_descreption: "",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -998,6 +1022,7 @@ export const BooksList = [
     tags: "Poetry, Indian Languages",
     meta_descreption: "परीक्षित सिंह का 'स्वयं से परिचय' कविता संग्रह आधुनिक साहित्य में अन्वेषण, हास्य और आध्यात्मिकता का संगम है।",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1037,6 +1062,7 @@ export const BooksList = [
     tags: "Poetry",
     meta_descreption: "",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1076,6 +1102,7 @@ export const BooksList = [
     tags: "Society & Social Sciences, Politics & Governance, Religion & Spirituality",
     meta_descreption: "Neelakandan's magisterial work offers a profound understanding of Hindutva, blending science, tradition, and evolutionary insights.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1115,6 +1142,7 @@ export const BooksList = [
     tags: "'Biography, Autobiography, & True Accounts', Military & Defence",
     meta_descreption: "Shiv Kunal's gripping autobiography offers a thrilling, candid view of pivotal events in India's 1980s and 90s.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1154,6 +1182,7 @@ export const BooksList = [
     tags: "",
     meta_descreption: "",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1197,6 +1226,7 @@ export const BooksList = [
     meta_descreption:
       "Raising 13 Armoured Regiment tells the inspiring story of India's unique cavalry unit, blending bravery, challenges, and pride.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1242,6 +1272,7 @@ export const BooksList = [
     meta_descreption:
       "यह पुस्तक अनसुने जनजातीय क्रांतिकारियों की वीरगाथाएँ प्रस्तुत करती है, जो स्वराज की स्थापना के लिए समर्पित रहे।",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1287,6 +1318,7 @@ export const BooksList = [
     meta_descreption:
       "यह पुस्तक अनसुने जनजातीय क्रांतिकारियों की वीरगाथाएँ प्रस्तुत करती है, जो स्वराज की स्थापना के लिए समर्पित रहे।",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1332,6 +1364,7 @@ export const BooksList = [
     meta_descreption:
       "This book examines the American-led campaign to dismantle India's IITs, revealing its roots in global intellectual movements and its far-reaching consequences.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1377,6 +1410,7 @@ export const BooksList = [
     meta_descreption:
       "This primer counters Western attacks on caste, offering insights into Hinduism's social order and debunking prevalent myths.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1422,6 +1456,7 @@ export const BooksList = [
     meta_descreption:
       " 'The Power of Future Machines' features essays by experts on AI's potential impact across fields, enriching the dialogue on technology's role in society",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1467,6 +1502,7 @@ export const BooksList = [
     meta_descreption:
       "'Of Newtons and Apples' offers engaging insights into 50 influential figures, blending their achievements with personal stories to inspire new perspectives.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1510,6 +1546,7 @@ export const BooksList = [
     meta_descreption:
       "'Probashir Golpo Shongroho' is a captivating collection of 21 stories blending simplicity and depth, revealing the author's life and insights.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1555,6 +1592,7 @@ export const BooksList = [
     meta_descreption:
       "Explore India's timeless stories that reveal profound truths and uncover the mysteries of existence through captivating narratives.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1599,6 +1637,7 @@ export const BooksList = [
     meta_descreption:
       "Explore Hindu spiritual practices with guidance on modern challenges, traditions, and devatas from expert Rajarshi Ranjan Nandy.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1643,6 +1682,7 @@ export const BooksList = [
     meta_descreption:
       "Discover how to leverage AI in the construction industry with insights from futurist Akhilesh Srivastava for business success.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1687,6 +1727,7 @@ export const BooksList = [
     meta_descreption:
       "Join Vadhrika on a quest to end humanity in 'Purvyam,' a fantasy novel set in the pre-Ramayan era, exploring greed and nature's wrath.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1731,6 +1772,7 @@ export const BooksList = [
     meta_descreption:
       "Explore the hidden narratives of the Mahabharata in this book, revealing vital connections and insights through 67 upakathas",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1776,6 +1818,7 @@ export const BooksList = [
     meta_descreption:
       "Explore the paradox of a 'Hindu Rashtra' where Hindus face systemic discrimination, revealing a truth beyond pretense.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1821,6 +1864,7 @@ export const BooksList = [
     meta_descreption:
       "Uncover the turbulent rise of the Khaljis and the struggle for Hindu resistance in this gripping historical narrative.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1865,6 +1909,7 @@ export const BooksList = [
     meta_descreption:
       "Discover the inspiring life and art of Sardar Sobha Singh, a revered artist whose legacy continues to enchant the world.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1910,6 +1955,7 @@ export const BooksList = [
     meta_descreption:
       "Explore the life of Sri Aurobindo, a key figure in India's independence and spiritual evolution, blending activism and philosophy.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1955,6 +2001,7 @@ export const BooksList = [
     meta_descreption:
       "Discover Veda Made Simple: a clear guide to Vedic wisdom, revealing deep philosophy through the insights of Sri Aurobindo.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -1999,6 +2046,7 @@ export const BooksList = [
     meta_descreption:
       "मोदी के बनारस: गंगा, विश्वनाथ और चुनावी जीत की अद्भुत यात्रा। जानें बनारस की राजनीति और ऐतिहासिक फैसले।",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2044,6 +2092,7 @@ export const BooksList = [
     meta_descreption:
       "Explore 'India and the Changing World': a bold analysis of civilizational shifts, democracy, and India's role in a new global order",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2088,6 +2137,7 @@ export const BooksList = [
     meta_descreption:
       "Discover 'Gods Dancing among Men': a deep dive into the vibrant theyyam tradition of North Malabar, blending art, spirituality, and history.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2132,6 +2182,7 @@ export const BooksList = [
     meta_descreption:
       "Explore 'Governance Arc': a critical analysis of New India's journey under Modi, highlighting democracy, development, and institutions.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2176,6 +2227,7 @@ export const BooksList = [
     meta_descreption:
       "आनंद रंगनाथन की किताब में जानें: क्या है असली हिंदू राष्ट्र की परिभाषा, जहां हिंदू समुदाय का हक और समानता पर सवाल है?",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2220,6 +2272,7 @@ export const BooksList = [
     meta_descreption:
       "Anand Ranganathan's 'Hindus in Hindu Rashtra' critiques the reality of Hindu identity and rights in a claimed totalitarian state.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2265,6 +2318,7 @@ export const BooksList = [
     meta_descreption:
       "In 'The Vaccine War,' a team of brilliant Indian scientists battles COVID-19, facing bureaucratic hurdles and misinformation to save lives.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2309,6 +2363,7 @@ export const BooksList = [
     meta_descreption:
       "This book urges Hindus to remember their struggles against oppression, reclaim their identity, and honor sacrifices of the past.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2354,6 +2409,7 @@ export const BooksList = [
     meta_descreption:
       "'Modi’s Governance Triumph' explores key reforms and challenges of Modi’s tenure, redefining India's path to prosperity.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2399,6 +2455,7 @@ export const BooksList = [
     meta_descreption:
       "'Compulsive Nose-Picking' is a humorous collection of short stories about love, loss, survival, and wild coincidences.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2443,6 +2500,7 @@ export const BooksList = [
     meta_descreption:
       "'Waiting for Shiva' uncovers Kashi's rich history, resilience, and the ongoing contest over the Gyan Vapi site, blending ancient texts with modern struggles.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2486,6 +2544,7 @@ export const BooksList = [
     meta_descreption:
       "'Snakes in the Ganga' exposes vulnerabilities in India, revealing how global ideologies threaten its sovereignty and heritage.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2530,6 +2589,7 @@ export const BooksList = [
     meta_descreption:
       "'Modian Consensus' analyzes 150 years of Indian political history, highlighting the emergence and impact of Modi's policies and ideas.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2575,6 +2635,7 @@ export const BooksList = [
     meta_descreption:
       "'Bharat Rising' blends journalism and academia to explore India's cultural resurgence and the reshaping of its political landscape.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2618,6 +2679,7 @@ export const BooksList = [
     meta_descreption:
       "जो सभ्यता अपने संघर्षों को भूल जाती है, वह आत्म-विनाश के चक्र में फंस जाती है। राम जन्मभूमि आंदोलन का दस्तावेज़।",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2663,6 +2725,7 @@ export const BooksList = [
     meta_descreption:
       "'Whispers of the Unseen' explores spirituality through art, blending masculine and feminine energies while celebrating yogini symbolism.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2707,6 +2770,7 @@ export const BooksList = [
     meta_descreption:
       "'Adideva' retells 25 enchanting legends of Shiva, rich in detail and complemented by poetry and art, inspiring devotion and self-discovery.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2751,6 +2815,7 @@ export const BooksList = [
     meta_descreption:
       "'जीत मोदी शासन की' मोदी सरकार की प्रमुख पहलों और सुधारों का विश्लेषण करती है, जो भारत के विकास को आकार दे रही हैं।",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2796,6 +2861,7 @@ export const BooksList = [
     meta_descreption:
       "'Invaders and Infidels' chronicles 500 years of Islamic invasions in India, exploring their impact on history and culture.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2840,6 +2906,7 @@ export const BooksList = [
     meta_descreption:
       "'Nastik' follows a modern Indian skeptic's journey from Western neo-atheism to embracing Eastern philosophies, exploring nuanced views on doubt and spirituality.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2885,6 +2952,7 @@ export const BooksList = [
     meta_descreption:
       "‘प्रतीक्षा शिव की’ काशी के ज्ञान वापी का गहन इतिहास उजागर करती है, जो मंदिर की विरासत और संघर्षों का दस्तावेज है।",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2929,6 +2997,7 @@ export const BooksList = [
     meta_descreption:
       "In his debut, Biswaroop shares career lessons on leadership and talent management, offering insights for HR and business leaders alike.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -2973,6 +3042,7 @@ export const BooksList = [
     meta_descreption:
       "‘देवदूत’ में सच्ची घटनाएं हैं, जहां सहयोग से निराश लोगों का जीवन बदलता है, उनके दुखों को राहत मिलती है।",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3017,6 +3087,7 @@ export const BooksList = [
     meta_descreption:
       "‘Stalled Wheels of Justice’ explores the harsh realities of delayed justice, revealing how systemic failures harm the vulnerable.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3061,6 +3132,7 @@ export const BooksList = [
     meta_descreption:
       "'Bangaliyana' celebrates Bengali life through humor, doodles, and personal stories, blending nostalgia with cultural charm.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3106,6 +3178,7 @@ export const BooksList = [
     meta_descreption:
       "'प्रतीक्षा शिवाची' काशीच्या इतिहासातील संघर्ष आणि पुर्नउत्थानाचे दर्शन घडवते, ज्ञानवापीच्या सत्याची शोध घेतो.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3151,6 +3224,7 @@ export const BooksList = [
     meta_descreption:
       "Krishna-Niti reveals eleven strategic lessons from Krishna in the Mahabharata, blending ethics, governance, and dharma for modern relevance.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3198,6 +3272,7 @@ export const BooksList = [
     meta_descreption:
       "Whispers from the Past explores Kashmir's rich history and culture, highlighting its art, philosophy, and contributions to humanity.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3242,6 +3317,7 @@ export const BooksList = [
     meta_descreption:
       "This book explores warrior sadhus who defended Kashi Vishwanath temple, highlighting sacred geography's role in identity and conflict.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3286,6 +3362,7 @@ export const BooksList = [
     meta_descreption:
       "My Freedom of Expression features 22 thought-provoking articles exploring India's challenges, from democracy to science and identity.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3330,6 +3407,7 @@ export const BooksList = [
     meta_descreption:
       "'Shared Roots' uncovers the deep cultural ties between India and Cambodia, exploring history, spirituality, and artistic exchange.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3374,6 +3452,7 @@ export const BooksList = [
     meta_descreption:
       "'Reclaiming Bharatavarsha' presents essays on India's classical heritage, foreign rule, and contemporary cultural resurgence.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3418,6 +3497,7 @@ export const BooksList = [
     meta_descreption:
       "'Rearming Hinduism' critiques Hinduphobia in academia and media, advocating for a revitalized understanding of Hindu values.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3462,6 +3542,7 @@ export const BooksList = [
     meta_descreption:
       "'Desires, Dreams and Powers' chronicles Tathagata Roy's diverse journey through eight decades of India's transformative history.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3507,6 +3588,7 @@ export const BooksList = [
     meta_descreption:
       "In a village plagued by oppression, a resilient woman battles humiliation and adversity to inspire her son to rise above.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3551,6 +3633,7 @@ export const BooksList = [
     meta_descreption:
       "Embark on the toughest journey: the UPSC Civil Services Exam, where tenacity and the right guidance lead to victory.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3596,6 +3679,7 @@ export const BooksList = [
     meta_descreption:
       "'Decolonizing Hinduism' challenges colonial misconceptions, highlighting ecology and mythology to reveal a rich, indigenous faith.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3642,6 +3726,7 @@ export const BooksList = [
     meta_descreption:
       "This book critiques Ken Wilber's appropriation of Sri Aurobindo's ideas, revealing distortions in the Aurobindonian discourse.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3689,6 +3774,7 @@ export const BooksList = [
     meta_descreption:
       "As India aims for a $30 trillion economy by 2050, this book explores its potential as a global leader in various spheres.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3734,6 +3820,7 @@ export const BooksList = [
     meta_descreption:
       "'Being Hindu' explores the historical roots of BJP and BJS, linking them to medieval structures and Modi's culturally grounded politics.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3778,6 +3865,7 @@ export const BooksList = [
     meta_descreption:
       "“Waiting for Shiva” explores Kashi's rich history and resilience, unraveling the Gyanvapi Mosque's mysteries and cultural significance.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3823,6 +3911,7 @@ export const BooksList = [
     meta_descreption:
       "'Genome to Om' explores the shift from modern science to meta-science, seeking harmony between progress, ethics, and universal consciousness.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3867,6 +3956,7 @@ export const BooksList = [
     meta_descreption:
       "In a gripping thriller, Netaji’s rise to power is threatened by phantom calls. Can the Delhi Police unravel the deadly truth?",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3911,6 +4001,7 @@ export const BooksList = [
     meta_descreption:
       "'Crossing Continents' uncovers the untold stories of travelers who chronicled India’s rich history through unfiltered journals.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -3956,6 +4047,7 @@ export const BooksList = [
     meta_descreption:
       "Dr. Anirban Ganguly, BJP executive and scholar, explores education, history, and culture, authoring influential works on Indian thought.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -4001,6 +4093,7 @@ export const BooksList = [
     meta_descreption:
       "'India’s New Right' explores the surge in nationalism, featuring interviews that capture Bharat's transformative journey across diverse themes.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -4045,6 +4138,7 @@ export const BooksList = [
     meta_descreption:
       "This book traces India's social evolution, revealing the values that fostered harmony amid diversity and inspiring social transformation.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
@@ -4089,6 +4183,7 @@ export const BooksList = [
     meta_descreption:
       "Padma Bharatis celebrates India's unsung heroes, showcasing the achievements of ordinary citizens shaping a sustainable future.",
     meta_title: "",
+    book_image: "/image/books//.jpg",
     book_thumbnail: [
       "https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg",
       "https://bluone.ink/wp-content/uploads/2024/07/The-Battle-for-Consciousness-Theory.jpg",
