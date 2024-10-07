@@ -47,6 +47,7 @@ export const BooksDetails = [
     Authorimage:
       "https://bluone.ink/wp-content/uploads/2023/06/Dr.-Pariksith-Singh-300x400.jpg",
     author_twitter: "",
+    author_slug: AuthorsList.find(author => author.id === 1)?.authslug,
   },
 
   {

@@ -1,3 +1,4 @@
+import { AuthorsList } from "./allAuthorList";
 export const BooksList = [
   {
     id: 1,
