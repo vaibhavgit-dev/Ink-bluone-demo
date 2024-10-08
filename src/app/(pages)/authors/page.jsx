@@ -104,9 +104,9 @@ export default function Home() {
             </div>
           ))}
         </div> */}
-        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 pt-6 pb-3">
+        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 pt-6">
         {currentAuthors.map((author, i) => (
-          <div key={i} className="mb-10">
+          <div key={i} className="p-4 hover:shadow-md border-2 border-[#ffffff00] hover:border-[#BABABA] rounded-md">
             {/* <Link href={`/authors/${slugify(author.author_name || 'unknown-author', { lower: true })}`}>
               <AuthorsCards
                 coverImage={author.image}
@@ -124,7 +124,7 @@ export default function Home() {
         ))}
       </div>
 
-        <div className="w-full flex-wrap md:flex justify-center md:justify-between">
+        <div className="w-full flex-wrap md:flex justify-center md:justify-between mt-10">
           <div className="flex justify-center md:justify-between">
             <i><p>
               Showing {indexOfFirstAuthor + 1} -{" "}

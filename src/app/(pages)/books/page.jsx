@@ -56,7 +56,8 @@ export default function Home() {
   const filteredBooks = BooksList.filter((book) => {
     const searchCondition =
       (book.title?.toLowerCase().includes(searchQuery.toLowerCase()) || "") ||
-      (book.author?.toLowerCase().includes(searchQuery.toLowerCase()) || "");
+      (typeof book.author === "string" &&
+        book.author.toLowerCase().includes(searchQuery.toLowerCase()));
   
     const genreCondition =
       genreFilter.length === 0 || genreFilter.includes(book.genre);
@@ -67,9 +68,7 @@ export default function Home() {
     const priceCondition =
       book.price >= priceRange[0] && book.price <= priceRange[1];
   
-    return (
-      searchCondition && genreCondition && languageCondition && priceCondition
-    );
+    return searchCondition && genreCondition && languageCondition && priceCondition;
   }).sort((a, b) => {
     if (sortOption === "Title: A to Z") return a.title.localeCompare(b.title);
     if (sortOption === "Title: Z to A") return b.title.localeCompare(a.title);
@@ -79,6 +78,7 @@ export default function Home() {
       return a.publishYear - b.publishYear;
     return 0;
   });
+  
 
   const totalPages = Math.ceil(filteredBooks.length / booksPerPage);
   const indexOfLastBook = currentPage * booksPerPage;
@@ -347,13 +347,13 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 pt-8 pb-6">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 pt-8 pb-6">
           {currentBooks.map((book) => {
             const author = getAuthorById(book.author);
             return (
               <div
                 key={book.id}
-                className="hover:shadow-xl transition duration-300 border-2"
+                className="p-4 mb-4 hover:shadow-md border-2 border-[#ffffff00] hover:border-[#BABABA] rounded-md"
               >
                 <Link
                   href={`./books/${book.slug}`}
@@ -362,7 +362,7 @@ export default function Home() {
                   <BooksCards
                     title={book.title}
                     coverImage={book.book_image}
-                    bookPrice={book.price}
+                    bookPrice= {`₹${book.price}`} 
                     authorName={book.author? book.author : "No Author"}
                   />
                 </Link>

@@ -1,10 +1,10 @@
 import React from 'react';
 
-function BooksCards({ title, bookPrice, authorName, coverImage }) {
+function BooksCards({ title, bookPrice, authorName, coverImage, publishYear }) {
   const defaultImage = "https://via.placeholder.com/250x400.png?text=No+Image+Available";
 
   return (
-    <div className="w-full min-h-[400px]">
+    <div className="w-full min-h-[300px]">
       <div className="flex flex-col h-full">
         <div className="h-[300px]">
           <img
@@ -13,14 +13,27 @@ function BooksCards({ title, bookPrice, authorName, coverImage }) {
             className="object-cover w-full h-full"
           />
         </div>
-        <div className='p-3 flex-1'>
-          <h3 className="mt-2 uppercase text-xl font-bold text-black leading-5">
-            {title || "Unknown Title"}
-          </h3>
-          <h4 className="uppercase pt-2 text-base">{authorName || "Unknown Author"}</h4>
-          <p className=" text-gray-500">
-            <span>&#8377;</span> {bookPrice || "Not Available"}
-          </p>
+        <div className='flex-1'>
+          {title && (
+            <h6 className="pt-4 uppercase font-semibold font-barlow leading-5">
+              {title}
+            </h6>
+          )}
+          {authorName && (
+            <h4 className="uppercase font-light font-barlow pt-2 text-base leading-5 text-[#0D1928]">
+              {authorName}
+            </h4>
+          )}
+          {bookPrice && (
+            <h4 className="text-gray-500 text-base font-barlow">
+              {bookPrice}
+            </h4>
+          )}
+          {publishYear && (
+            <p className="text-gray-500">
+              {publishYear}
+            </p>
+          )}
         </div>
       </div>
     </div>

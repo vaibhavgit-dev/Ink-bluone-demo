@@ -151,7 +151,7 @@ const Page = ({ params }) => {
                         <BooksCards
                           title={book.title}
                           coverImage={book.book_image}
-                          bookPrice={book.price}
+                          publishYear={book.publish_year}
                           authorName={book.author}
                         />
                       </Link>
